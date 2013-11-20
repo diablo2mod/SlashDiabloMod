@@ -103,25 +103,25 @@ magic spear + jewel + rune 12 + perfect emerald -> safety weapon	1			100					4	"
 3 rune 11 + 1 chipped amethyst -> rune 12	1			100					4	"r11,qty=3"	gcv						r12																																																																																							0
 3 rune 12 + 1 chipped sapphire -> rune 13	1			100					4	"r12,qty=3"	gcb						r13																																																																																							0
 3 rune 13 + 1 chipped ruby -> rune 14	1			100					4	"r13,qty=3"	gcr						r14																																																																																							0
-3 rune 14 + 1 chipped emerald -> rune 15	1	1		100					4	"r14,qty=3"	gcg						r15																																																																																							0
-3 rune 15 + 1 chipped diamond -> rune 16	1	1		100					4	"r15,qty=3"	gcw						r16																																																																																							0
-3 rune 16 + 1 flawed topaz -> rune 17	1	1		100					4	"r16,qty=3"	gfy						r17																																																																																							0
-3 rune 17 + 1 flawed amethyst -> rune 18	1	1		100					4	"r17,qty=3"	gfv						r18																																																																																							0
-3 rune 18 + 1 flawed sapphire -> rune 19	1	1		100					4	"r18,qty=3"	gfb						r19																																																																																							0
-3 rune 19 + 1 flawed ruby -> rune 20	1	1		100					4	"r19,qty=3"	gfr						r20																																																																																							0
-3 rune 20 + 1 flawed emerald -> rune 21	1	1		100					4	"r20,qty=3"	gfg						r21																																																																																							0
-2 rune 21 + 1 flawed diamond -> rune 22	1	1		100					3	"r21,qty=2"	gfw						r22																																																																																							0
-2 rune 22 + 1 standard topaz -> rune 23	1	1		100					3	"r22,qty=2"	gsy						r23																																																																																							0
-2 rune 23 + 1 standard amethyst -> rune 24	1	1		100					3	"r23,qty=2"	gsv						r24																																																																																							0
-2 rune 24 + 1 standard sapphire -> rune 25	1	1		100					3	"r24,qty=2"	gsb						r25																																																																																							0
-2 rune 25 + 1 standard ruby -> rune 26	1	1		100					3	"r25,qty=2"	gsr						r26																																																																																							0
-2 rune 26 + 1 standard emerald -> rune 27	1	1		100					3	"r26,qty=2"	gsg						r27																																																																																							0
-2 rune 27 + 1 standard diamond -> rune 28	1	1		100					3	"r27,qty=2"	gsw						r28																																																																																							0
-2 rune 28 + 1 flawless topaz -> rune 29	1	1		100					3	"r28,qty=2"	gly						r29																																																																																							0
-2 rune 29 + 1 flawless amethyst -> rune 30	1	1		100					3	"r29,qty=2"	gzv						r30																																																																																							0
-2 rune 30 + 1 flawless sapphire -> rune 31	1	1		100					3	"r30,qty=2"	glb						r31																																																																																							0
-2 rune 31 + 1 flawless ruby -> rune 32	1	1		100					3	"r31,qty=2"	glr						r32																																																																																							0
-2 rune 32 + 1 flawless emerald -> rune 33	1	1		100					3	"r32,qty=2"	glg						r33																																																																																							0
+3 rune 14 + 1 chipped emerald -> rune 15	1			100					4	"r14,qty=3"	gcg						r15																																																																																							0
+3 rune 15 + 1 chipped diamond -> rune 16	1			100					4	"r15,qty=3"	gcw						r16																																																																																							0
+3 rune 16 + 1 flawed topaz -> rune 17	1			100					4	"r16,qty=3"	gfy						r17																																																																																							0
+3 rune 17 + 1 flawed amethyst -> rune 18	1			100					4	"r17,qty=3"	gfv						r18																																																																																							0
+3 rune 18 + 1 flawed sapphire -> rune 19	1			100					4	"r18,qty=3"	gfb						r19																																																																																							0
+3 rune 19 + 1 flawed ruby -> rune 20	1			100					4	"r19,qty=3"	gfr						r20																																																																																							0
+3 rune 20 + 1 flawed emerald -> rune 21	1			100					4	"r20,qty=3"	gfg						r21																																																																																							0
+2 rune 21 + 1 flawed diamond -> rune 22	1			100					3	"r21,qty=2"	gfw						r22																																																																																							0
+2 rune 22 + 1 standard topaz -> rune 23	1			100					3	"r22,qty=2"	gsy						r23																																																																																							0
+2 rune 23 + 1 standard amethyst -> rune 24	1			100					3	"r23,qty=2"	gsv						r24																																																																																							0
+2 rune 24 + 1 standard sapphire -> rune 25	1			100					3	"r24,qty=2"	gsb						r25																																																																																							0
+2 rune 25 + 1 standard ruby -> rune 26	1			100					3	"r25,qty=2"	gsr						r26																																																																																							0
+2 rune 26 + 1 standard emerald -> rune 27	1			100					3	"r26,qty=2"	gsg						r27																																																																																							0
+2 rune 27 + 1 standard diamond -> rune 28	1			100					3	"r27,qty=2"	gsw						r28																																																																																							0
+2 rune 28 + 1 flawless topaz -> rune 29	1			100					3	"r28,qty=2"	gly						r29																																																																																							0
+2 rune 29 + 1 flawless amethyst -> rune 30	1			100					3	"r29,qty=2"	gzv						r30																																																																																							0
+2 rune 30 + 1 flawless sapphire -> rune 31	1			100					3	"r30,qty=2"	glb						r31																																																																																							0
+2 rune 31 + 1 flawless ruby -> rune 32	1			100					3	"r31,qty=2"	glr						r32																																																																																							0
+2 rune 32 + 1 flawless emerald -> rune 33	1			100					3	"r32,qty=2"	glg						r33																																																																																							0
 r07 + r10 + 1 perfect topaz + normal torso -> socketed torso	1			100					4	"tors,nor,nos"	r07	r10	gpy				useitem				sock			1	6																																																																															0
 r08 + r11 + 1 perfect amethyst + normal weapon -> socketed weapon	1			100					4	"weap,nor,nos"	r08	r11	gpv				useitem				sock			1	6																																																																															0
 r08 + r10 + 1 perfect sapphire + normal helm -> socketed helm	1			100					4	"helm,nor,nos"	r08	r10	gpb				useitem				sock			1	6																																																																															0
@@ -130,8 +130,8 @@ r02 + 1 chipped gem + low weapon -> normal weapon	1			100					3	"weap,low"	r02	g
 r01 + 1 chipped gem + low armor -> normal armor	1			100					3	"armo,low"	r01	gem0					"usetype,nor"																																																																																							0
 r08 + r12 + perfect emerald + basic unique weapon -> exceptional unique weapon	1			100					4	"weap,bas,uni"	r08	r12	gpg				"useitem,mod,exc"				levelreq			5	5																																																																															0
 r07 + r13 + perfect diamond + basic unique armor -> exceptional unique armor	1			100					4	"armo,bas,uni"	r07	r13	gpw				"useitem,mod,exc"				levelreq			5	5																																																																															0
-r17 + r21 + perfect emerald + exceptional unique weapon -> elite unique weapon	1	1		100					4	"weap,exc,uni"	r17	r21	gpg				"useitem,mod,eli"				levelreq			7	7																																																																															0
-r18 + r20 + perfect diamond + exceptional unique armor -> elite unique armor	1	1		100					4	"armo,exc,uni"	r18	r20	gpw				"useitem,mod,eli"				levelreq			7	7																																																																															0
+r17 + r21 + perfect emerald + exceptional unique weapon -> elite unique weapon	1			100					4	"weap,exc,uni"	r17	r21	gpg				"useitem,mod,eli"				levelreq			7	7																																																																															0
+r18 + r20 + perfect diamond + exceptional unique armor -> elite unique armor	1			100					4	"armo,exc,uni"	r18	r20	gpw				"useitem,mod,eli"				levelreq			7	7																																																																															0
 r09 + r11 + perfect sapphire + basic rare weapon -> exceptional rare weapon	1			100					4	"weap,bas,rar"	r09	r11	gpb				"useitem,mod,exc"				levelreq			5	5																																																																															0
 r08 + r10 + perfect amethyst + basic rare armor -> exceptional rare armor	1			100					4	"armo,bas,rar"	r08	r10	gpv				"useitem,mod,exc"				levelreq			5	5																																																																															0
 r19 + r22 + perfect sapphire + exceptional rare weapon -> elite rare weapon	1			100					4	"weap,exc,rar"	r19	r22	gpb				"useitem,mod,eli"				levelreq			7	7																																																																															0
