@@ -29,7 +29,7 @@ them.
 
 These tools are suggested but there are newer (and potentially better) tools out now.  If you find a better tool, please let us know.
 
-
+Link to unmodified D2LOD patch_d2.mpq: http://bhfiles.com/files/Diablo%20II/1.13c/[original%201.13c]%20patch_d2.mpq
 ### Proposed modification:
 
 - [ ] firestorm proc being taken off of the Phoenix runeword.
@@ -41,3 +41,9 @@ These tools are suggested but there are newer (and potentially better) tools out
 - [ ] Hell difficulty increase.  Across the board or just farms?
 - [ ] Build specific tweaking.
 - [ ] Enigma teleport cast rate decrease?
+
+### Proposed modding tools
+
+SVR D2 Mod system: http://ladderhall.com/forums/topic/30189-svrs-d2-mod-system/ ? (might be 1.10 only)
+PlugY for larger stash? (might be 1.10 only)
+
