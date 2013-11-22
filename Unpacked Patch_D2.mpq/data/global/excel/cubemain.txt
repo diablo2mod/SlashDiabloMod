@@ -22,6 +22,7 @@ Khalim Flail + Khalim Heart + Khalim Eye + Khalim Brain -> Super Khalim Flail	1	
 1 strangling gas potion + 1 health potion -> antidote potion	1			0					2	gpl	hpot						yps																																																																																							0
 2 arrows -> bolts	1			0					2	"aqv,qty=2"							cqv																																																																																							0
 2 bolts -> arrows	1			0					2	"cqv,qty=2"							aqv																																																																																							0
+2 chipped amethysts -> chipped ruby	1			0					3	"gcv,qty=3"							gcr																																																																																							0
 3 chipped amethysts -> flawed amethyst	1			0					3	"gcv,qty=3"							gfv																																																																																							0
 3 flawed amethysts -> standard amethyst	1			0					3	"gfv,qty=3"							gsv																																																																																							0
 3 standard amethysts -> flawless amethyst	1			0					3	"gsv,qty=3"							gzv																																																																																							0

@@ -8,3 +8,6 @@ Proposed modification:
 4. %ed/max dmg jewel bug (jewels like this only work in weapons)
 5. fend bug (info: http://diablo.incgamers.com/forums/showthread.php?490462-In-Game-Analysis-of-the-Fend-Bug)
 6. ladder specific items available in non-ladder
+7. Hell difficulty increase.  Across the board or just farms?
+8. Build specific tweaking.
+9. Enigma teleport cast rate decrease?
