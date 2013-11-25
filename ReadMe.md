@@ -3,6 +3,8 @@ All modifications prior to master branch merge will be performed here.
 
 ### Tools and testing.
 
+Lookup table found here: http://diablo2mod.github.io/SlashDiabloMod/
+
 Beginner's Guide to Mod Making: http://phrozenkeep.blob.core.windows.net/public/files/resources/BeginnerGuide-v14.pdf
 
 Tools and software: http://d2mods.info/filecenter/dload.php?action=category&cat_id=1
