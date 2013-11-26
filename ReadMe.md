@@ -5,6 +5,8 @@ All modifications prior to master branch merge will be performed here.
 
 Lookup table found here: http://diablo2mod.github.io/SlashDiabloMod/
 
+Modify and add runewords/gemwords/jewelwords: http://www.planetdiablo.com/modding/guides/runewords/
+
 Beginner's Guide to Mod Making: http://phrozenkeep.blob.core.windows.net/public/files/resources/BeginnerGuide-v14.pdf
 
 Tools and software: http://d2mods.info/filecenter/dload.php?action=category&cat_id=1
