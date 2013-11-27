@@ -51,3 +51,4 @@ Link to unmodified D2LOD patch_d2.mpq: http://bhfiles.com/files/Diablo%20II/1.13
 SVR D2 Mod system: http://ladderhall.com/forums/topic/30189-svrs-d2-mod-system/ ? (might be 1.10 only)
 PlugY for larger stash? (might be 1.10 only)
 
+.
