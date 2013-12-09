@@ -47,7 +47,7 @@ Runeword123	Serendipity																																															0
 Runeword124	Shadow																																															0
 Runeword125	Shadow of Doubt																																															0
 Runeword127	Siren's Song																																															0
-Runeword129	Sorrow	1		glov									ElElElEl	r01	r01	r01	r01			swing1		30	30																									0
+Runeword129	Sorrow	1		glov									ElEl	r01	r01					swing1		30	30																									0
 Runeword130	Spirit	1	1	swor	shld								TalThulOrtAmn	r07	r10	r09	r11			balance3		55	55	mana		89	112	ac-miss		250	250	vit		22	22	cast3		25	35	abs-mag		3	8	allskills		2	2	0
 Runeword131	Splendor	1		shld										r05	r17					light		3	3	gold%		50	50	mag%		20	20	ac%		60	100	block2		20	20	cast2		10	10	allskills		1	1	0
 Runeword132	Starlight																																															0
