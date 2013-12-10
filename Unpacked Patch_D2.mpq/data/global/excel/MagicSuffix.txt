@@ -837,846 +837,846 @@ of the Bat	1	1	1	25		21				2	28	manasteal		2	3											ring										0	0	0
 of the Wraith	1	1	1	58		46				2	28	manasteal		4	5											ring										0	0	0
 of the Vampire	100	1	1	86		74				2	28	manasteal		6	6									1	cred	ring										0	0	0
 																																						
-of Skill	100	1	1	1	30	1				1	50	oskill	Magic Arrow	1	1											lcha	jewl									0	0	0
-of Skill	100	1	1	1	30	1				1	50	oskill	Fire Arrow	1	1											lcha	jewl									0	0	0
-of Skill	100	1	1	1	30	1				1	50	oskill	Inner Sight	1	1											lcha	jewl									0	0	0
-of Skill	100	1	1	1	30	1				1	50	oskill	Critical Strike	1	1											lcha	jewl									0	0	0
-of Skill	100	1	1	1	30	1				1	50	oskill	Jab	1	1											lcha	jewl									0	0	0
-of Skill	100	1	1	1	30	1				1	50	oskill	Cold Arrow	1	1											lcha	jewl									0	0	0
-of Skill	100	1	1	1	30	1				1	50	oskill	Multiple Shot	1	1											lcha	jewl									0	0	0
-of Skill	100	1	1	1	30	1				1	50	oskill	Dodge	1	1											lcha	jewl									0	0	0
-of Skill	100	1	1	1	30	1				1	50	oskill	Power Strike	1	1											lcha	jewl									0	0	0
-of Skill	100	1	1	1	30	1				1	50	oskill	Poison Javelin	1	1											lcha	jewl									0	0	0
-of Skill	100	1	1	1	30	1				1	50	oskill	Exploding Arrow	1	1											lcha	jewl									0	0	0
-of Skill	100	1	1	1	30	1				1	50	oskill	Slow Missiles	1	1											lcha	jewl									0	0	0
-of Skill	100	1	1	1	30	1				1	50	oskill	Avoid	1	1											lcha	jewl									0	0	0
-of Skill	100	1	1	1	30	1				1	50	oskill	Impale	1	1											lcha	jewl									0	0	0
-of Skill	100	1	1	1	30	1				1	50	oskill	Lightning Bolt	1	1											lcha	jewl									0	0	0
-of Skill	100	1	1	1	30	1				1	50	oskill	Ice Arrow	1	1											lcha	jewl									0	0	0
-of Skill	100	1	1	1	30	1				1	50	oskill	Guided Arrow	1	1											lcha	jewl									0	0	0
-of Skill	100	1	1	1	30	1				1	50	oskill	Penetrate	1	1											lcha	jewl									0	0	0
-of Skill	100	1	1	1	30	1				1	50	oskill	Charged Strike	1	1											lcha	jewl									0	0	0
-of Skill	100	1	1	1	30	1				1	50	oskill	Plague Javelin	1	1											lcha	jewl									0	0	0
-of Skill	100	1	1	1	30	1				1	50	oskill	Strafe	1	1											lcha	jewl									0	0	0
-of Skill	100	1	1	1	30	1				1	50	oskill	Immolation Arrow	1	1											lcha	jewl									0	0	0
-of Skill	100	1	1	1	30	1				1	50	oskill	Dopplezon	1	1											lcha	jewl									0	0	0
-of Skill	100	1	1	1	30	1				1	50	oskill	Evade	1	1											lcha	jewl									0	0	0
-of Skill	100	1	1	1	30	1				1	50	oskill	Fend	1	1											lcha	jewl									0	0	0
-of Skill	100	1	1	1	30	1				1	50	oskill	Freezing Arrow	1	1											lcha	jewl									0	0	0
-of Skill	100	1	1	1	30	1				1	50	oskill	Valkyrie	1	1											lcha	jewl									0	0	0
-of Skill	100	1	1	1	30	1				1	50	oskill	Pierce	1	1											lcha	jewl									0	0	0
-of Skill	100	1	1	1	30	1				1	50	oskill	Lightning Strike	1	1											lcha	jewl									0	0	0
-of Skill	100	1	1	1	30	1				1	50	oskill	Lightning Fury	1	1											lcha	jewl									0	0	0
-of Skill	100	1	1	1	30	1				1	50	oskill	Fire Bolt	1	1											lcha	jewl									0	0	0
-of Skill	100	1	1	1	30	1				1	50	oskill	Warmth	1	1											lcha	jewl									0	0	0
-of Skill	100	1	1	1	30	1				1	50	oskill	Charged Bolt	1	1											lcha	jewl									0	0	0
-of Skill	100	1	1	1	30	1				1	50	oskill	Ice Bolt	1	1											lcha	jewl									0	0	0
-of Skill	100	1	1	1	30	1				1	50	oskill	Frozen Armor	1	1											lcha	jewl									0	0	0
-of Skill	100	1	1	1	30	1				1	50	oskill	Inferno	1	1											lcha	jewl									0	0	0
-of Skill	100	1	1	1	30	1				1	50	oskill	Static Field	1	1											lcha	jewl									0	0	0
-of Skill	100	1	1	1	30	1				1	50	oskill	Telekinesis	1	1											lcha	jewl									0	0	0
-of Skill	100	1	1	1	30	1				1	50	oskill	Frost Nova	1	1											lcha	jewl									0	0	0
-of Skill	100	1	1	1	30	1				1	50	oskill	Ice Blast	1	1											lcha	jewl									0	0	0
-of Skill	100	1	1	1	30	1				1	50	oskill	Blaze	1	1											lcha	jewl									0	0	0
-of Skill	100	1	1	1	30	1				1	50	oskill	Fire Ball	1	1											lcha	jewl									0	0	0
-of Skill	100	1	1	1	30	1				1	50	oskill	Nova	1	1											lcha	jewl									0	0	0
-of Skill	100	1	1	1	30	1				1	50	oskill	Lightning	1	1											lcha	jewl									0	0	0
-of Skill	100	1	1	1	30	1				1	50	oskill	Shiver Armor	1	1											lcha	jewl									0	0	0
-of Skill	100	1	1	1	30	1				1	50	oskill	Fire Wall	1	1											lcha	jewl									0	0	0
-of Skill	100	1	1	1	30	1				1	50	oskill	Enchant	1	1											lcha	jewl									0	0	0
-of Skill	100	1	1	1	30	1				1	50	oskill	Chain Lightning	1	1											lcha	jewl									0	0	0
-of Skill	100	1	1	1	30	1				1	50	oskill	Teleport	1	1											lcha	jewl									0	0	0
-of Skill	100	1	1	1	30	1				1	50	oskill	Glacial Spike	1	1											lcha	jewl									0	0	0
-of Skill	100	1	1	1	30	1				1	50	oskill	Meteor	1	1											lcha	jewl									0	0	0
-of Skill	100	1	1	1	30	1				1	50	oskill	Thunder Storm	1	1											lcha	jewl									0	0	0
-of Skill	100	1	1	1	30	1				1	50	oskill	Energy Shield	1	1											lcha	jewl									0	0	0
-of Skill	100	1	1	1	30	1				1	50	oskill	Blizzard	1	1											lcha	jewl									0	0	0
-of Skill	100	1	1	1	30	1				1	50	oskill	Chilling Armor	1	1											lcha	jewl									0	0	0
-of Skill	100	1	1	1	30	1				1	50	oskill	Fire Mastery	1	1											lcha	jewl									0	0	0
-of Skill	100	1	1	1	30	1				1	50	oskill	Hydra	1	1											lcha	jewl									0	0	0
-of Skill	100	1	1	1	30	1				1	50	oskill	Lightning Mastery	1	1											lcha	jewl									0	0	0
-of Skill	100	1	1	1	30	1				1	50	oskill	Frozen Orb	1	1											lcha	jewl									0	0	0
-of Skill	100	1	1	1	30	1				1	50	oskill	Cold Mastery	1	1											lcha	jewl									0	0	0
-of Skill	100	1	1	1	30	1				1	50	oskill	Amplify Damage	1	1											lcha	jewl									0	0	0
-of Skill	100	1	1	1	30	1				1	50	oskill	Teeth	1	1											lcha	jewl									0	0	0
-of Skill	100	1	1	1	30	1				1	50	oskill	Bone Armor	1	1											lcha	jewl									0	0	0
-of Skill	100	1	1	1	30	1				1	50	oskill	Skeleton Mastery	1	1											lcha	jewl									0	0	0
-of Skill	100	1	1	1	30	1				1	50	oskill	Raise Skeleton	1	1											lcha	jewl									0	0	0
-of Skill	100	1	1	1	30	1				1	50	oskill	Dim Vision	1	1											lcha	jewl									0	0	0
-of Skill	100	1	1	1	30	1				1	50	oskill	Weaken	1	1											lcha	jewl									0	0	0
-of Skill	100	1	1	1	30	1				1	50	oskill	Poison Dagger	1	1											lcha	jewl									0	0	0
-of Skill	100	1	1	1	30	1				1	50	oskill	Corpse Explosion	1	1											lcha	jewl									0	0	0
-of Skill	100	1	1	1	30	1				1	50	oskill	Clay Golem	1	1											lcha	jewl									0	0	0
-of Skill	100	1	1	1	30	1				1	50	oskill	Iron Maiden	1	1											lcha	jewl									0	0	0
-of Skill	100	1	1	1	30	1				1	50	oskill	Terror	1	1											lcha	jewl									0	0	0
-of Skill	100	1	1	1	30	1				1	50	oskill	Bone Wall	1	1											lcha	jewl									0	0	0
-of Skill	100	1	1	1	30	1				1	50	oskill	Golem Mastery	1	1											lcha	jewl									0	0	0
-of Skill	100	1	1	1	30	1				1	50	oskill	Raise Skeletal Mage	1	1											lcha	jewl									0	0	0
-of Skill	100	1	1	1	30	1				1	50	oskill	Confuse	1	1											lcha	jewl									0	0	0
-of Skill	100	1	1	1	30	1				1	50	oskill	Life Tap	1	1											lcha	jewl									0	0	0
-of Skill	100	1	1	1	30	1				1	50	oskill	Poison Explosion	1	1											lcha	jewl									0	0	0
-of Skill	100	1	1	1	30	1				1	50	oskill	Bone Spear	1	1											lcha	jewl									0	0	0
-of Skill	100	1	1	1	30	1				1	50	oskill	BloodGolem	1	1											lcha	jewl									0	0	0
-of Skill	100	1	1	1	30	1				1	50	oskill	Attract	1	1											lcha	jewl									0	0	0
-of Skill	100	1	1	1	30	1				1	50	oskill	Decrepify	1	1											lcha	jewl									0	0	0
-of Skill	100	1	1	1	30	1				1	50	oskill	Bone Prison	1	1											lcha	jewl									0	0	0
-of Skill	100	1	1	1	30	1				1	50	oskill	Summon Resist	1	1											lcha	jewl									0	0	0
-of Skill	100	1	1	1	30	1				1	50	oskill	IronGolem	1	1											lcha	jewl									0	0	0
-of Skill	100	1	1	1	30	1				1	50	oskill	Lower Resist	1	1											lcha	jewl									0	0	0
-of Skill	100	1	1	1	30	1				1	50	oskill	Poison Nova	1	1											lcha	jewl									0	0	0
-of Skill	100	1	1	1	30	1				1	50	oskill	Bone Spirit	1	1											lcha	jewl									0	0	0
-of Skill	100	1	1	1	30	1				1	50	oskill	FireGolem	1	1											lcha	jewl									0	0	0
-of Skill	100	1	1	1	30	1				1	50	oskill	Revive	1	1											lcha	jewl									0	0	0
-of Skill	100	1	1	1	30	1				1	50	oskill	Sacrifice	1	1											lcha	jewl									0	0	0
-of Skill	100	1	1	1	30	1				1	50	oskill	Smite	1	1											lcha	jewl									0	0	0
-of Skill	100	1	1	1	30	1				1	50	oskill	Might	1	1											lcha	jewl									0	0	0
-of Skill	100	1	1	1	30	1				1	50	oskill	Prayer	1	1											lcha	jewl									0	0	0
-of Skill	100	1	1	1	30	1				1	50	oskill	Resist Fire	1	1											lcha	jewl									0	0	0
-of Skill	100	1	1	1	30	1				1	50	oskill	Holy Bolt	1	1											lcha	jewl									0	0	0
-of Skill	100	1	1	1	30	1				1	50	oskill	Holy Fire	1	1											lcha	jewl									0	0	0
-of Skill	100	1	1	1	30	1				1	50	oskill	Thorns	1	1											lcha	jewl									0	0	0
-of Skill	100	1	1	1	30	1				1	50	oskill	Defiance	1	1											lcha	jewl									0	0	0
-of Skill	100	1	1	1	30	1				1	50	oskill	Resist Cold	1	1											lcha	jewl									0	0	0
-of Skill	100	1	1	1	30	1				1	50	oskill	Zeal	1	1											lcha	jewl									0	0	0
-of Skill	100	1	1	1	30	1				1	50	oskill	Charge	1	1											lcha	jewl									0	0	0
-of Skill	100	1	1	1	30	1				1	50	oskill	Blessed Aim	1	1											lcha	jewl									0	0	0
-of Skill	100	1	1	1	30	1				1	50	oskill	Cleansing	1	1											lcha	jewl									0	0	0
-of Skill	100	1	1	1	30	1				1	50	oskill	Resist Lightning	1	1											lcha	jewl									0	0	0
-of Skill	100	1	1	1	30	1				1	50	oskill	Vengeance	1	1											lcha	jewl									0	0	0
-of Skill	100	1	1	1	30	1				1	50	oskill	Blessed Hammer	1	1											lcha	jewl									0	0	0
-of Skill	100	1	1	1	30	1				1	50	oskill	Concentration	1	1											lcha	jewl									0	0	0
-of Skill	100	1	1	1	30	1				1	50	oskill	Holy Freeze	1	1											lcha	jewl									0	0	0
-of Skill	100	1	1	1	30	1				1	50	oskill	Vigor	1	1											lcha	jewl									0	0	0
-of Skill	100	1	1	1	30	1				1	50	oskill	Conversion	1	1											lcha	jewl									0	0	0
-of Skill	100	1	1	1	30	1				1	50	oskill	Holy Shield	1	1											lcha	jewl									0	0	0
-of Skill	100	1	1	1	30	1				1	50	oskill	Holy Shock	1	1											lcha	jewl									0	0	0
-of Skill	100	1	1	1	30	1				1	50	oskill	Sanctuary	1	1											lcha	jewl									0	0	0
-of Skill	100	1	1	1	30	1				1	50	oskill	Meditation	1	1											lcha	jewl									0	0	0
-of Skill	100	1	1	1	30	1				1	50	oskill	Fist of the Heavens	1	1											lcha	jewl									0	0	0
-of Skill	100	1	1	1	30	1				1	50	oskill	Fanaticism	1	1											lcha	jewl									0	0	0
-of Skill	100	1	1	1	30	1				1	50	oskill	Conviction	1	1											lcha	jewl									0	0	0
-of Skill	100	1	1	1	30	1				1	50	oskill	Redemption	1	1											lcha	jewl									0	0	0
-of Skill	100	1	1	1	30	1				1	50	oskill	Salvation	1	1											lcha	jewl									0	0	0
-of Skill	100	1	1	1	30	1				1	50	oskill	Bash	1	1											lcha	jewl									0	0	0
-of Skill	100	1	1	1	30	1				1	50	oskill	Sword Mastery	1	1											lcha	jewl									0	0	0
-of Skill	100	1	1	1	30	1				1	50	oskill	Axe Mastery	1	1											lcha	jewl									0	0	0
-of Skill	100	1	1	1	30	1				1	50	oskill	Mace Mastery	1	1											lcha	jewl									0	0	0
-of Skill	100	1	1	1	30	1				1	50	oskill	Howl	1	1											lcha	jewl									0	0	0
-of Skill	100	1	1	1	30	1				1	50	oskill	Find Potion	1	1											lcha	jewl									0	0	0
-of Skill	100	1	1	1	30	1				1	50	oskill	Leap	1	1											lcha	jewl									0	0	0
-of Skill	100	1	1	1	30	1				1	50	oskill	Double Swing	1	1											lcha	jewl									0	0	0
-of Skill	100	1	1	1	30	1				1	50	oskill	Pole Arm Mastery	1	1											lcha	jewl									0	0	0
-of Skill	100	1	1	1	30	1				1	50	oskill	Throwing Mastery	1	1											lcha	jewl									0	0	0
-of Skill	100	1	1	1	30	1				1	50	oskill	Spear Mastery	1	1											lcha	jewl									0	0	0
-of Skill	100	1	1	1	30	1				1	50	oskill	Taunt	1	1											lcha	jewl									0	0	0
-of Skill	100	1	1	1	30	1				1	50	oskill	Shout	1	1											lcha	jewl									0	0	0
-of Skill	100	1	1	1	30	1				1	50	oskill	Stun	1	1											lcha	jewl									0	0	0
-of Skill	100	1	1	1	30	1				1	50	oskill	Double Throw	1	1											lcha	jewl									0	0	0
-of Skill	100	1	1	1	30	1				1	50	oskill	Increased Stamina	1	1											lcha	jewl									0	0	0
-of Skill	100	1	1	1	30	1				1	50	oskill	Find Item	1	1											lcha	jewl									0	0	0
-of Skill	100	1	1	1	30	1				1	50	oskill	Leap Attack	1	1											lcha	jewl									0	0	0
-of Skill	100	1	1	1	30	1				1	50	oskill	Concentrate	1	1											lcha	jewl									0	0	0
-of Skill	100	1	1	1	30	1				1	50	oskill	Iron Skin	1	1											lcha	jewl									0	0	0
-of Skill	100	1	1	1	30	1				1	50	oskill	Battle Cry	1	1											lcha	jewl									0	0	0
-of Skill	100	1	1	1	30	1				1	50	oskill	Frenzy	1	1											lcha	jewl									0	0	0
-of Skill	100	1	1	1	30	1				1	50	oskill	Increased Speed	1	1											lcha	jewl									0	0	0
-of Skill	100	1	1	1	30	1				1	50	oskill	Battle Orders	1	1											lcha	jewl									0	0	0
-of Skill	100	1	1	1	30	1				1	50	oskill	Grim Ward	1	1											lcha	jewl									0	0	0
-of Skill	100	1	1	1	30	1				1	50	oskill	Whirlwind	1	1											lcha	jewl									0	0	0
-of Skill	100	1	1	1	30	1				1	50	oskill	Berserk	1	1											lcha	jewl									0	0	0
-of Skill	100	1	1	1	30	1				1	50	oskill	Natural Resistance	1	1											lcha	jewl									0	0	0
-of Skill	100	1	1	1	30	1				1	50	oskill	War Cry	1	1											lcha	jewl									0	0	0
-of Skill	100	1	1	1	30	1				1	50	oskill	Battle Command	1	1											lcha	jewl									0	0	0
-of Skill	100	1	1	1	30	1				1	50	oskill	Raven	1	1											lcha	jewl									0	0	0
-of Skill	100	1	1	1	30	1				1	50	oskill	Plague Poppy	1	1											lcha	jewl									0	0	0
-of Skill	100	1	1	1	30	1				1	50	oskill	Wearwolf	1	1											lcha	jewl									0	0	0
-of Skill	100	1	1	1	30	1				1	50	oskill	Shape Shifting	1	1											lcha	jewl									0	0	0
-of Skill	100	1	1	1	30	1				1	50	oskill	Firestorm	1	1											lcha	jewl									0	0	0
-of Skill	100	1	1	1	30	1				1	50	oskill	Oak Sage	1	1											lcha	jewl									0	0	0
-of Skill	100	1	1	1	30	1				1	50	oskill	Summon Spirit Wolf	1	1											lcha	jewl									0	0	0
-of Skill	100	1	1	1	30	1				1	50	oskill	Wearbear	1	1											lcha	jewl									0	0	0
-of Skill	100	1	1	1	30	1				1	50	oskill	Molten Boulder	1	1											lcha	jewl									0	0	0
-of Skill	100	1	1	1	30	1				1	50	oskill	Arctic Blast	1	1											lcha	jewl									0	0	0
-of Skill	100	1	1	1	30	1				1	50	oskill	Cycle of Life	1	1											lcha	jewl									0	0	0
-of Skill	100	1	1	1	30	1				1	50	oskill	Feral Rage	1	1											lcha	jewl									0	0	0
-of Skill	100	1	1	1	30	1				1	50	oskill	Maul	1	1											lcha	jewl									0	0	0
-of Skill	100	1	1	1	30	1				1	50	oskill	Eruption	1	1											lcha	jewl									0	0	0
-of Skill	100	1	1	1	30	1				1	50	oskill	Cyclone Armor	1	1											lcha	jewl									0	0	0
-of Skill	100	1	1	1	30	1				1	50	oskill	Heart of Wolverine	1	1											lcha	jewl									0	0	0
-of Skill	100	1	1	1	30	1				1	50	oskill	Summon Fenris	1	1											lcha	jewl									0	0	0
-of Skill	100	1	1	1	30	1				1	50	oskill	Rabies	1	1											lcha	jewl									0	0	0
-of Skill	100	1	1	1	30	1				1	50	oskill	Fire Claws	1	1											lcha	jewl									0	0	0
-of Skill	100	1	1	1	30	1				1	50	oskill	Twister	1	1											lcha	jewl									0	0	0
-of Skill	100	1	1	1	30	1				1	50	oskill	Vines	1	1											lcha	jewl									0	0	0
-of Skill	100	1	1	1	30	1				1	50	oskill	Hunger	1	1											lcha	jewl									0	0	0
-of Skill	100	1	1	1	30	1				1	50	oskill	Shock Wave	1	1											lcha	jewl									0	0	0
-of Skill	100	1	1	1	30	1				1	50	oskill	Volcano	1	1											lcha	jewl									0	0	0
-of Skill	100	1	1	1	30	1				1	50	oskill	Tornado	1	1											lcha	jewl									0	0	0
-of Skill	100	1	1	1	30	1				1	50	oskill	Spirit of Barbs	1	1											lcha	jewl									0	0	0
-of Skill	100	1	1	1	30	1				1	50	oskill	Summon Grizzly	1	1											lcha	jewl									0	0	0
-of Skill	100	1	1	1	30	1				1	50	oskill	Fury	1	1											lcha	jewl									0	0	0
-of Skill	100	1	1	1	30	1				1	50	oskill	Armageddon	1	1											lcha	jewl									0	0	0
-of Skill	100	1	1	1	30	1				1	50	oskill	Hurricane	1	1											lcha	jewl									0	0	0
-of Skill	100	1	1	1	30	1				1	50	oskill	Fire Trauma	1	1											lcha	jewl									0	0	0
-of Skill	100	1	1	1	30	1				1	50	oskill	Claw Mastery	1	1											lcha	jewl									0	0	0
-of Skill	100	1	1	1	30	1				1	50	oskill	Psychic Hammer	1	1											lcha	jewl									0	0	0
-of Skill	100	1	1	1	30	1				1	50	oskill	Tiger Strike	1	1											lcha	jewl									0	0	0
-of Skill	100	1	1	1	30	1				1	50	oskill	Dragon Talon	1	1											lcha	jewl									0	0	0
-of Skill	100	1	1	1	30	1				1	50	oskill	Shock Field	1	1											lcha	jewl									0	0	0
-of Skill	100	1	1	1	30	1				1	50	oskill	Blade Sentinel	1	1											lcha	jewl									0	0	0
-of Skill	100	1	1	1	30	1				1	50	oskill	Quickness	1	1											lcha	jewl									0	0	0
-of Skill	100	1	1	1	30	1				1	50	oskill	Fists of Fire	1	1											lcha	jewl									0	0	0
-of Skill	100	1	1	1	30	1				1	50	oskill	Dragon Claw	1	1											lcha	jewl									0	0	0
-of Skill	100	1	1	1	30	1				1	50	oskill	Charged Bolt Sentry	1	1											lcha	jewl									0	0	0
-of Skill	100	1	1	1	30	1				1	50	oskill	Wake of Fire Sentry	1	1											lcha	jewl									0	0	0
-of Skill	100	1	1	1	30	1				1	50	oskill	Weapon Block	1	1											lcha	jewl									0	0	0
-of Skill	100	1	1	1	30	1				1	50	oskill	Cloak of Shadows	1	1											lcha	jewl									0	0	0
-of Skill	100	1	1	1	30	1				1	50	oskill	Cobra Strike	1	1											lcha	jewl									0	0	0
-of Skill	100	1	1	1	30	1				1	50	oskill	Blade Fury	1	1											lcha	jewl									0	0	0
-of Skill	100	1	1	1	30	1				1	50	oskill	Fade	1	1											lcha	jewl									0	0	0
-of Skill	100	1	1	1	30	1				1	50	oskill	Shadow Warrior	1	1											lcha	jewl									0	0	0
-of Skill	100	1	1	1	30	1				1	50	oskill	Claws of Thunder	1	1											lcha	jewl									0	0	0
-of Skill	100	1	1	1	30	1				1	50	oskill	Dragon Tail	1	1											lcha	jewl									0	0	0
-of Skill	100	1	1	1	30	1				1	50	oskill	Lightning Sentry	1	1											lcha	jewl									0	0	0
-of Skill	100	1	1	1	30	1				1	50	oskill	Inferno Sentry	1	1											lcha	jewl									0	0	0
-of Skill	100	1	1	1	30	1				1	50	oskill	Mind Blast	1	1											lcha	jewl									0	0	0
-of Skill	100	1	1	1	30	1				1	50	oskill	Blades of Ice	1	1											lcha	jewl									0	0	0
-of Skill	100	1	1	1	30	1				1	50	oskill	Dragon Flight	1	1											lcha	jewl									0	0	0
-of Skill	100	1	1	1	30	1				1	50	oskill	Death Sentry	1	1											lcha	jewl									0	0	0
-of Skill	100	1	1	1	30	1				1	50	oskill	Blade Shield	1	1											lcha	jewl									0	0	0
-of Skill	100	1	1	1	30	1				1	50	oskill	Venom	1	1											lcha	jewl									0	0	0
-of Skill	100	1	1	1	30	1				1	50	oskill	Shadow Master	1	1											lcha	jewl									0	0	0
-of Skill	100	1	1	1	30	1				1	50	oskill	Royal Strike	1	1											lcha	jewl									0	0	0
+of Skill	100	1	1	1	30	1				1	50	oskill	Magic Arrow	1	1	regen		-2	-2							lcha	jewl									0	0	0
+of Skill	100	1	1	1	30	1				1	50	oskill	Fire Arrow	1	1	regen		-2	-2							lcha	jewl									0	0	0
+of Skill	100	1	1	1	30	1				1	50	oskill	Inner Sight	1	1	regen		-2	-2							lcha	jewl									0	0	0
+of Skill	100	1	1	1	30	1				1	50	oskill	Critical Strike	1	1	regen		-2	-2							lcha	jewl									0	0	0
+of Skill	100	1	1	1	30	1				1	50	oskill	Jab	1	1	regen		-2	-2							lcha	jewl									0	0	0
+of Skill	100	1	1	1	30	1				1	50	oskill	Cold Arrow	1	1	regen		-2	-2							lcha	jewl									0	0	0
+of Skill	100	1	1	1	30	1				1	50	oskill	Multiple Shot	1	1	regen		-2	-2							lcha	jewl									0	0	0
+of Skill	100	1	1	1	30	1				1	50	oskill	Dodge	1	1	regen		-2	-2							lcha	jewl									0	0	0
+of Skill	100	1	1	1	30	1				1	50	oskill	Power Strike	1	1	regen		-2	-2							lcha	jewl									0	0	0
+of Skill	100	1	1	1	30	1				1	50	oskill	Poison Javelin	1	1	regen		-2	-2							lcha	jewl									0	0	0
+of Skill	100	1	1	1	30	1				1	50	oskill	Exploding Arrow	1	1	regen		-2	-2							lcha	jewl									0	0	0
+of Skill	100	1	1	1	30	1				1	50	oskill	Slow Missiles	1	1	regen		-2	-2							lcha	jewl									0	0	0
+of Skill	100	1	1	1	30	1				1	50	oskill	Avoid	1	1	regen		-2	-2							lcha	jewl									0	0	0
+of Skill	100	1	1	1	30	1				1	50	oskill	Impale	1	1	regen		-2	-2							lcha	jewl									0	0	0
+of Skill	100	1	1	1	30	1				1	50	oskill	Lightning Bolt	1	1	regen		-2	-2							lcha	jewl									0	0	0
+of Skill	100	1	1	1	30	1				1	50	oskill	Ice Arrow	1	1	regen		-2	-2							lcha	jewl									0	0	0
+of Skill	100	1	1	1	30	1				1	50	oskill	Guided Arrow	1	1	regen		-2	-2							lcha	jewl									0	0	0
+of Skill	100	1	1	1	30	1				1	50	oskill	Penetrate	1	1	regen		-2	-2							lcha	jewl									0	0	0
+of Skill	100	1	1	1	30	1				1	50	oskill	Charged Strike	1	1	regen		-2	-2							lcha	jewl									0	0	0
+of Skill	100	1	1	1	30	1				1	50	oskill	Plague Javelin	1	1	regen		-2	-2							lcha	jewl									0	0	0
+of Skill	100	1	1	1	30	1				1	50	oskill	Strafe	1	1	regen		-2	-2							lcha	jewl									0	0	0
+of Skill	100	1	1	1	30	1				1	50	oskill	Immolation Arrow	1	1	regen		-2	-2							lcha	jewl									0	0	0
+of Skill	100	1	1	1	30	1				1	50	oskill	Dopplezon	1	1	regen		-2	-2							lcha	jewl									0	0	0
+of Skill	100	1	1	1	30	1				1	50	oskill	Evade	1	1	regen		-2	-2							lcha	jewl									0	0	0
+of Skill	100	1	1	1	30	1				1	50	oskill	Fend	1	1	regen		-2	-2							lcha	jewl									0	0	0
+of Skill	100	1	1	1	30	1				1	50	oskill	Freezing Arrow	1	1	regen		-2	-2							lcha	jewl									0	0	0
+of Skill	100	1	1	1	30	1				1	50	oskill	Valkyrie	1	1	regen		-2	-2							lcha	jewl									0	0	0
+of Skill	100	1	1	1	30	1				1	50	oskill	Pierce	1	1	regen		-2	-2							lcha	jewl									0	0	0
+of Skill	100	1	1	1	30	1				1	50	oskill	Lightning Strike	1	1	regen		-2	-2							lcha	jewl									0	0	0
+of Skill	100	1	1	1	30	1				1	50	oskill	Lightning Fury	1	1	regen		-2	-2							lcha	jewl									0	0	0
+of Skill	100	1	1	1	30	1				1	50	oskill	Fire Bolt	1	1	regen		-2	-2							lcha	jewl									0	0	0
+of Skill	100	1	1	1	30	1				1	50	oskill	Warmth	1	1	regen		-2	-2							lcha	jewl									0	0	0
+of Skill	100	1	1	1	30	1				1	50	oskill	Charged Bolt	1	1	regen		-2	-2							lcha	jewl									0	0	0
+of Skill	100	1	1	1	30	1				1	50	oskill	Ice Bolt	1	1	regen		-2	-2							lcha	jewl									0	0	0
+of Skill	100	1	1	1	30	1				1	50	oskill	Frozen Armor	1	1	regen		-2	-2							lcha	jewl									0	0	0
+of Skill	100	1	1	1	30	1				1	50	oskill	Inferno	1	1	regen		-2	-2							lcha	jewl									0	0	0
+of Skill	100	1	1	1	30	1				1	50	oskill	Static Field	1	1	regen		-5	-5							lcha	jewl									0	0	0
+of Skill	100	1	1	1	30	1				1	50	oskill	Telekinesis	1	1	regen		-2	-2							lcha	jewl									0	0	0
+of Skill	100	1	1	1	30	1				1	50	oskill	Frost Nova	1	1	regen		-2	-2							lcha	jewl									0	0	0
+of Skill	100	1	1	1	30	1				1	50	oskill	Ice Blast	1	1	regen		-2	-2							lcha	jewl									0	0	0
+of Skill	100	1	1	1	30	1				1	50	oskill	Blaze	1	1	regen		-2	-2							lcha	jewl									0	0	0
+of Skill	100	1	1	1	30	1				1	50	oskill	Fire Ball	1	1	regen		-2	-2							lcha	jewl									0	0	0
+of Skill	100	1	1	1	30	1				1	50	oskill	Nova	1	1	regen		-2	-2							lcha	jewl									0	0	0
+of Skill	100	1	1	1	30	1				1	50	oskill	Lightning	1	1	regen		-2	-2							lcha	jewl									0	0	0
+of Skill	100	1	1	1	30	1				1	50	oskill	Shiver Armor	1	1	regen		-2	-2							lcha	jewl									0	0	0
+of Skill	100	1	1	1	30	1				1	50	oskill	Fire Wall	1	1	regen		-2	-2							lcha	jewl									0	0	0
+of Skill	100	1	1	1	30	1				1	50	oskill	Enchant	1	1	regen		-2	-2							lcha	jewl									0	0	0
+of Skill	100	1	1	1	30	1				1	50	oskill	Chain Lightning	1	1	regen		-2	-2							lcha	jewl									0	0	0
+of Skill	100	1	1	1	30	1				1	50	oskill	Teleport	1	1	regen		-5	-5							lcha	jewl									0	0	0
+of Skill	100	1	1	1	30	1				1	50	oskill	Glacial Spike	1	1	regen		-2	-2							lcha	jewl									0	0	0
+of Skill	100	1	1	1	30	1				1	50	oskill	Meteor	1	1	regen		-2	-2							lcha	jewl									0	0	0
+of Skill	100	1	1	1	30	1				1	50	oskill	Thunder Storm	1	1	regen		-2	-2							lcha	jewl									0	0	0
+of Skill	100	1	1	1	30	1				1	50	oskill	Energy Shield	1	1	regen		-2	-2							lcha	jewl									0	0	0
+of Skill	100	1	1	1	30	1				1	50	oskill	Blizzard	1	1	regen		-2	-2							lcha	jewl									0	0	0
+of Skill	100	1	1	1	30	1				1	50	oskill	Chilling Armor	1	1	regen		-2	-2							lcha	jewl									0	0	0
+of Skill	100	1	1	1	30	1				1	50	oskill	Fire Mastery	1	1	regen		-2	-2							lcha	jewl									0	0	0
+of Skill	100	1	1	1	30	1				1	50	oskill	Hydra	1	1	regen		-2	-2							lcha	jewl									0	0	0
+of Skill	100	1	1	1	30	1				1	50	oskill	Lightning Mastery	1	1	regen		-2	-2							lcha	jewl									0	0	0
+of Skill	100	1	1	1	30	1				1	50	oskill	Frozen Orb	1	1	regen		-2	-2							lcha	jewl									0	0	0
+of Skill	100	1	1	1	30	1				1	50	oskill	Cold Mastery	1	1	regen		-2	-2							lcha	jewl									0	0	0
+of Skill	100	1	1	1	30	1				1	50	oskill	Amplify Damage	1	1	regen		-2	-2							lcha	jewl									0	0	0
+of Skill	100	1	1	1	30	1				1	50	oskill	Teeth	1	1	regen		-2	-2							lcha	jewl									0	0	0
+of Skill	100	1	1	1	30	1				1	50	oskill	Bone Armor	1	1	regen		-2	-2							lcha	jewl									0	0	0
+of Skill	100	1	1	1	30	1				1	50	oskill	Skeleton Mastery	1	1	regen		-2	-2							lcha	jewl									0	0	0
+of Skill	100	1	1	1	30	1				1	50	oskill	Raise Skeleton	1	1	regen		-2	-2							lcha	jewl									0	0	0
+of Skill	100	1	1	1	30	1				1	50	oskill	Dim Vision	1	1	regen		-2	-2							lcha	jewl									0	0	0
+of Skill	100	1	1	1	30	1				1	50	oskill	Weaken	1	1	regen		-2	-2							lcha	jewl									0	0	0
+of Skill	100	1	1	1	30	1				1	50	oskill	Poison Dagger	1	1	regen		-2	-2							lcha	jewl									0	0	0
+of Skill	100	1	1	1	30	1				1	50	oskill	Corpse Explosion	1	1	regen		-2	-2							lcha	jewl									0	0	0
+of Skill	100	1	1	1	30	1				1	50	oskill	Clay Golem	1	1	regen		-2	-2							lcha	jewl									0	0	0
+of Skill	100	1	1	1	30	1				1	50	oskill	Iron Maiden	1	1	regen		-2	-2							lcha	jewl									0	0	0
+of Skill	100	1	1	1	30	1				1	50	oskill	Terror	1	1	regen		-2	-2							lcha	jewl									0	0	0
+of Skill	100	1	1	1	30	1				1	50	oskill	Bone Wall	1	1	regen		-2	-2							lcha	jewl									0	0	0
+of Skill	100	1	1	1	30	1				1	50	oskill	Golem Mastery	1	1	regen		-2	-2							lcha	jewl									0	0	0
+of Skill	100	1	1	1	30	1				1	50	oskill	Raise Skeletal Mage	1	1	regen		-2	-2							lcha	jewl									0	0	0
+of Skill	100	1	1	1	30	1				1	50	oskill	Confuse	1	1	regen		-2	-2							lcha	jewl									0	0	0
+of Skill	100	1	1	1	30	1				1	50	oskill	Life Tap	1	1	regen		-2	-2							lcha	jewl									0	0	0
+of Skill	100	1	1	1	30	1				1	50	oskill	Poison Explosion	1	1	regen		-2	-2							lcha	jewl									0	0	0
+of Skill	100	1	1	1	30	1				1	50	oskill	Bone Spear	1	1	regen		-2	-2							lcha	jewl									0	0	0
+of Skill	100	1	1	1	30	1				1	50	oskill	BloodGolem	1	1	regen		-2	-2							lcha	jewl									0	0	0
+of Skill	100	1	1	1	30	1				1	50	oskill	Attract	1	1	regen		-2	-2							lcha	jewl									0	0	0
+of Skill	100	1	1	1	30	1				1	50	oskill	Decrepify	1	1	regen		-2	-2							lcha	jewl									0	0	0
+of Skill	100	1	1	1	30	1				1	50	oskill	Bone Prison	1	1	regen		-2	-2							lcha	jewl									0	0	0
+of Skill	100	1	1	1	30	1				1	50	oskill	Summon Resist	1	1	regen		-2	-2							lcha	jewl									0	0	0
+of Skill	100	1	1	1	30	1				1	50	oskill	IronGolem	1	1	regen		-2	-2							lcha	jewl									0	0	0
+of Skill	100	1	1	1	30	1				1	50	oskill	Lower Resist	1	1	regen		-2	-2							lcha	jewl									0	0	0
+of Skill	100	1	1	1	30	1				1	50	oskill	Poison Nova	1	1	regen		-2	-2							lcha	jewl									0	0	0
+of Skill	100	1	1	1	30	1				1	50	oskill	Bone Spirit	1	1	regen		-2	-2							lcha	jewl									0	0	0
+of Skill	100	1	1	1	30	1				1	50	oskill	FireGolem	1	1	regen		-2	-2							lcha	jewl									0	0	0
+of Skill	100	1	1	1	30	1				1	50	oskill	Revive	1	1	regen		-2	-2							lcha	jewl									0	0	0
+of Skill	100	1	1	1	30	1				1	50	oskill	Sacrifice	1	1	regen		-2	-2							lcha	jewl									0	0	0
+of Skill	100	1	1	1	30	1				1	50	oskill	Smite	1	1	regen		-2	-2							lcha	jewl									0	0	0
+of Skill	100	1	1	1	30	1				1	50	oskill	Might	1	1	regen		-2	-2							lcha	jewl									0	0	0
+of Skill	100	1	1	1	30	1				1	50	oskill	Prayer	1	1	regen		-2	-2							lcha	jewl									0	0	0
+of Skill	100	1	1	1	30	1				1	50	oskill	Resist Fire	1	1	regen		-2	-2							lcha	jewl									0	0	0
+of Skill	100	1	1	1	30	1				1	50	oskill	Holy Bolt	1	1	regen		-2	-2							lcha	jewl									0	0	0
+of Skill	100	1	1	1	30	1				1	50	oskill	Holy Fire	1	1	regen		-2	-2							lcha	jewl									0	0	0
+of Skill	100	1	1	1	30	1				1	50	oskill	Thorns	1	1	regen		-2	-2							lcha	jewl									0	0	0
+of Skill	100	1	1	1	30	1				1	50	oskill	Defiance	1	1	regen		-2	-2							lcha	jewl									0	0	0
+of Skill	100	1	1	1	30	1				1	50	oskill	Resist Cold	1	1	regen		-2	-2							lcha	jewl									0	0	0
+of Skill	100	1	1	1	30	1				1	50	oskill	Zeal	1	1	regen		-2	-2							lcha	jewl									0	0	0
+of Skill	100	1	1	1	30	1				1	50	oskill	Charge	1	1	regen		-2	-2							lcha	jewl									0	0	0
+of Skill	100	1	1	1	30	1				1	50	oskill	Blessed Aim	1	1	regen		-2	-2							lcha	jewl									0	0	0
+of Skill	100	1	1	1	30	1				1	50	oskill	Cleansing	1	1	regen		-2	-2							lcha	jewl									0	0	0
+of Skill	100	1	1	1	30	1				1	50	oskill	Resist Lightning	1	1	regen		-2	-2							lcha	jewl									0	0	0
+of Skill	100	1	1	1	30	1				1	50	oskill	Vengeance	1	1	regen		-2	-2							lcha	jewl									0	0	0
+of Skill	100	1	1	1	30	1				1	50	oskill	Blessed Hammer	1	1	regen		-2	-2							lcha	jewl									0	0	0
+of Skill	100	1	1	1	30	1				1	50	oskill	Concentration	1	1	regen		-2	-2							lcha	jewl									0	0	0
+of Skill	100	1	1	1	30	1				1	50	oskill	Holy Freeze	1	1	regen		-2	-2							lcha	jewl									0	0	0
+of Skill	100	1	1	1	30	1				1	50	oskill	Vigor	1	1	regen		-2	-2							lcha	jewl									0	0	0
+of Skill	100	1	1	1	30	1				1	50	oskill	Conversion	1	1	regen		-2	-2							lcha	jewl									0	0	0
+of Skill	100	1	1	1	30	1				1	50	oskill	Holy Shield	1	1	regen		-2	-2							lcha	jewl									0	0	0
+of Skill	100	1	1	1	30	1				1	50	oskill	Holy Shock	1	1	regen		-2	-2							lcha	jewl									0	0	0
+of Skill	100	1	1	1	30	1				1	50	oskill	Sanctuary	1	1	regen		-2	-2							lcha	jewl									0	0	0
+of Skill	100	1	1	1	30	1				1	50	oskill	Meditation	1	1	regen		-2	-2							lcha	jewl									0	0	0
+of Skill	100	1	1	1	30	1				1	50	oskill	Fist of the Heavens	1	1	regen		-2	-2							lcha	jewl									0	0	0
+of Skill	100	1	1	1	30	1				1	50	oskill	Fanaticism	1	1	regen		-2	-2							lcha	jewl									0	0	0
+of Skill	100	1	1	1	30	1				1	50	oskill	Conviction	1	1	regen		-2	-2							lcha	jewl									0	0	0
+of Skill	100	1	1	1	30	1				1	50	oskill	Redemption	1	1	regen		-2	-2							lcha	jewl									0	0	0
+of Skill	100	1	1	1	30	1				1	50	oskill	Salvation	1	1	regen		-2	-2							lcha	jewl									0	0	0
+of Skill	100	1	1	1	30	1				1	50	oskill	Bash	1	1	regen		-2	-2							lcha	jewl									0	0	0
+of Skill	100	1	1	1	30	1				1	50	oskill	Sword Mastery	1	1	regen		-2	-2							lcha	jewl									0	0	0
+of Skill	100	1	1	1	30	1				1	50	oskill	Axe Mastery	1	1	regen		-2	-2							lcha	jewl									0	0	0
+of Skill	100	1	1	1	30	1				1	50	oskill	Mace Mastery	1	1	regen		-2	-2							lcha	jewl									0	0	0
+of Skill	100	1	1	1	30	1				1	50	oskill	Howl	1	1	regen		-2	-2							lcha	jewl									0	0	0
+of Skill	100	1	1	1	30	1				1	50	oskill	Find Potion	1	1	regen		-2	-2							lcha	jewl									0	0	0
+of Skill	100	1	1	1	30	1				1	50	oskill	Leap	1	1	regen		-2	-2							lcha	jewl									0	0	0
+of Skill	100	1	1	1	30	1				1	50	oskill	Double Swing	1	1	regen		-2	-2							lcha	jewl									0	0	0
+of Skill	100	1	1	1	30	1				1	50	oskill	Pole Arm Mastery	1	1	regen		-2	-2							lcha	jewl									0	0	0
+of Skill	100	1	1	1	30	1				1	50	oskill	Throwing Mastery	1	1	regen		-2	-2							lcha	jewl									0	0	0
+of Skill	100	1	1	1	30	1				1	50	oskill	Spear Mastery	1	1	regen		-2	-2							lcha	jewl									0	0	0
+of Skill	100	1	1	1	30	1				1	50	oskill	Taunt	1	1	regen		-2	-2							lcha	jewl									0	0	0
+of Skill	100	1	1	1	30	1				1	50	oskill	Shout	1	1	regen		-2	-2							lcha	jewl									0	0	0
+of Skill	100	1	1	1	30	1				1	50	oskill	Stun	1	1	regen		-2	-2							lcha	jewl									0	0	0
+of Skill	100	1	1	1	30	1				1	50	oskill	Double Throw	1	1	regen		-2	-2							lcha	jewl									0	0	0
+of Skill	100	1	1	1	30	1				1	50	oskill	Increased Stamina	1	1	regen		-2	-2							lcha	jewl									0	0	0
+of Skill	100	1	1	1	30	1				1	50	oskill	Find Item	1	1	regen		-2	-2							lcha	jewl									0	0	0
+of Skill	100	1	1	1	30	1				1	50	oskill	Leap Attack	1	1	regen		-2	-2							lcha	jewl									0	0	0
+of Skill	100	1	1	1	30	1				1	50	oskill	Concentrate	1	1	regen		-2	-2							lcha	jewl									0	0	0
+of Skill	100	1	1	1	30	1				1	50	oskill	Iron Skin	1	1	regen		-2	-2							lcha	jewl									0	0	0
+of Skill	100	1	1	1	30	1				1	50	oskill	Battle Cry	1	1	regen		-2	-2							lcha	jewl									0	0	0
+of Skill	100	1	1	1	30	1				1	50	oskill	Frenzy	1	1	regen		-2	-2							lcha	jewl									0	0	0
+of Skill	100	1	1	1	30	1				1	50	oskill	Increased Speed	1	1	regen		-2	-2							lcha	jewl									0	0	0
+of Skill	100	1	1	1	30	1				1	50	oskill	Battle Orders	1	1	regen		-2	-2							lcha	jewl									0	0	0
+of Skill	100	1	1	1	30	1				1	50	oskill	Grim Ward	1	1	regen		-2	-2							lcha	jewl									0	0	0
+of Skill	100	1	1	1	30	1				1	50	oskill	Whirlwind	1	1	regen		-2	-2							lcha	jewl									0	0	0
+of Skill	100	1	1	1	30	1				1	50	oskill	Berserk	1	1	regen		-2	-2							lcha	jewl									0	0	0
+of Skill	100	1	1	1	30	1				1	50	oskill	Natural Resistance	1	1	regen		-2	-2							lcha	jewl									0	0	0
+of Skill	100	1	1	1	30	1				1	50	oskill	War Cry	1	1	regen		-2	-2							lcha	jewl									0	0	0
+of Skill	100	1	1	1	30	1				1	50	oskill	Battle Command	1	1	regen		-2	-2							lcha	jewl									0	0	0
+of Skill	100	1	1	1	30	1				1	50	oskill	Raven	1	1	regen		-2	-2							lcha	jewl									0	0	0
+of Skill	100	1	1	1	30	1				1	50	oskill	Plague Poppy	1	1	regen		-2	-2							lcha	jewl									0	0	0
+of Skill	100	1	1	1	30	1				1	50	oskill	Wearwolf	1	1	regen		-2	-2							lcha	jewl									0	0	0
+of Skill	100	1	1	1	30	1				1	50	oskill	Shape Shifting	1	1	regen		-2	-2							lcha	jewl									0	0	0
+of Skill	100	1	1	1	30	1				1	50	oskill	Firestorm	1	1	regen		-2	-2							lcha	jewl									0	0	0
+of Skill	100	1	1	1	30	1				1	50	oskill	Oak Sage	1	1	regen		-2	-2							lcha	jewl									0	0	0
+of Skill	100	1	1	1	30	1				1	50	oskill	Summon Spirit Wolf	1	1	regen		-2	-2							lcha	jewl									0	0	0
+of Skill	100	1	1	1	30	1				1	50	oskill	Wearbear	1	1	regen		-2	-2							lcha	jewl									0	0	0
+of Skill	100	1	1	1	30	1				1	50	oskill	Molten Boulder	1	1	regen		-2	-2							lcha	jewl									0	0	0
+of Skill	100	1	1	1	30	1				1	50	oskill	Arctic Blast	1	1	regen		-2	-2							lcha	jewl									0	0	0
+of Skill	100	1	1	1	30	1				1	50	oskill	Cycle of Life	1	1	regen		-2	-2							lcha	jewl									0	0	0
+of Skill	100	1	1	1	30	1				1	50	oskill	Feral Rage	1	1	regen		-2	-2							lcha	jewl									0	0	0
+of Skill	100	1	1	1	30	1				1	50	oskill	Maul	1	1	regen		-2	-2							lcha	jewl									0	0	0
+of Skill	100	1	1	1	30	1				1	50	oskill	Eruption	1	1	regen		-2	-2							lcha	jewl									0	0	0
+of Skill	100	1	1	1	30	1				1	50	oskill	Cyclone Armor	1	1	regen		-2	-2							lcha	jewl									0	0	0
+of Skill	100	1	1	1	30	1				1	50	oskill	Heart of Wolverine	1	1	regen		-2	-2							lcha	jewl									0	0	0
+of Skill	100	1	1	1	30	1				1	50	oskill	Summon Fenris	1	1	regen		-2	-2							lcha	jewl									0	0	0
+of Skill	100	1	1	1	30	1				1	50	oskill	Rabies	1	1	regen		-2	-2							lcha	jewl									0	0	0
+of Skill	100	1	1	1	30	1				1	50	oskill	Fire Claws	1	1	regen		-2	-2							lcha	jewl									0	0	0
+of Skill	100	1	1	1	30	1				1	50	oskill	Twister	1	1	regen		-2	-2							lcha	jewl									0	0	0
+of Skill	100	1	1	1	30	1				1	50	oskill	Vines	1	1	regen		-2	-2							lcha	jewl									0	0	0
+of Skill	100	1	1	1	30	1				1	50	oskill	Hunger	1	1	regen		-2	-2							lcha	jewl									0	0	0
+of Skill	100	1	1	1	30	1				1	50	oskill	Shock Wave	1	1	regen		-2	-2							lcha	jewl									0	0	0
+of Skill	100	1	1	1	30	1				1	50	oskill	Volcano	1	1	regen		-2	-2							lcha	jewl									0	0	0
+of Skill	100	1	1	1	30	1				1	50	oskill	Tornado	1	1	regen		-2	-2							lcha	jewl									0	0	0
+of Skill	100	1	1	1	30	1				1	50	oskill	Spirit of Barbs	1	1	regen		-2	-2							lcha	jewl									0	0	0
+of Skill	100	1	1	1	30	1				1	50	oskill	Summon Grizzly	1	1	regen		-2	-2							lcha	jewl									0	0	0
+of Skill	100	1	1	1	30	1				1	50	oskill	Fury	1	1	regen		-2	-2							lcha	jewl									0	0	0
+of Skill	100	1	1	1	30	1				1	50	oskill	Armageddon	1	1	regen		-2	-2							lcha	jewl									0	0	0
+of Skill	100	1	1	1	30	1				1	50	oskill	Hurricane	1	1	regen		-2	-2							lcha	jewl									0	0	0
+of Skill	100	1	1	1	30	1				1	50	oskill	Fire Trauma	1	1	regen		-2	-2							lcha	jewl									0	0	0
+of Skill	100	1	1	1	30	1				1	50	oskill	Claw Mastery	1	1	regen		-2	-2							lcha	jewl									0	0	0
+of Skill	100	1	1	1	30	1				1	50	oskill	Psychic Hammer	1	1	regen		-2	-2							lcha	jewl									0	0	0
+of Skill	100	1	1	1	30	1				1	50	oskill	Tiger Strike	1	1	regen		-2	-2							lcha	jewl									0	0	0
+of Skill	100	1	1	1	30	1				1	50	oskill	Dragon Talon	1	1	regen		-2	-2							lcha	jewl									0	0	0
+of Skill	100	1	1	1	30	1				1	50	oskill	Shock Field	1	1	regen		-2	-2							lcha	jewl									0	0	0
+of Skill	100	1	1	1	30	1				1	50	oskill	Blade Sentinel	1	1	regen		-2	-2							lcha	jewl									0	0	0
+of Skill	100	1	1	1	30	1				1	50	oskill	Quickness	1	1	regen		-2	-2							lcha	jewl									0	0	0
+of Skill	100	1	1	1	30	1				1	50	oskill	Fists of Fire	1	1	regen		-2	-2							lcha	jewl									0	0	0
+of Skill	100	1	1	1	30	1				1	50	oskill	Dragon Claw	1	1	regen		-2	-2							lcha	jewl									0	0	0
+of Skill	100	1	1	1	30	1				1	50	oskill	Charged Bolt Sentry	1	1	regen		-2	-2							lcha	jewl									0	0	0
+of Skill	100	1	1	1	30	1				1	50	oskill	Wake of Fire Sentry	1	1	regen		-2	-2							lcha	jewl									0	0	0
+of Skill	100	1	1	1	30	1				1	50	oskill	Weapon Block	1	1	regen		-2	-2							lcha	jewl									0	0	0
+of Skill	100	1	1	1	30	1				1	50	oskill	Cloak of Shadows	1	1	regen		-2	-2							lcha	jewl									0	0	0
+of Skill	100	1	1	1	30	1				1	50	oskill	Cobra Strike	1	1	regen		-2	-2							lcha	jewl									0	0	0
+of Skill	100	1	1	1	30	1				1	50	oskill	Blade Fury	1	1	regen		-2	-2							lcha	jewl									0	0	0
+of Skill	100	1	1	1	30	1				1	50	oskill	Fade	1	1	regen		-2	-2							lcha	jewl									0	0	0
+of Skill	100	1	1	1	30	1				1	50	oskill	Shadow Warrior	1	1	regen		-2	-2							lcha	jewl									0	0	0
+of Skill	100	1	1	1	30	1				1	50	oskill	Claws of Thunder	1	1	regen		-2	-2							lcha	jewl									0	0	0
+of Skill	100	1	1	1	30	1				1	50	oskill	Dragon Tail	1	1	regen		-2	-2							lcha	jewl									0	0	0
+of Skill	100	1	1	1	30	1				1	50	oskill	Lightning Sentry	1	1	regen		-2	-2							lcha	jewl									0	0	0
+of Skill	100	1	1	1	30	1				1	50	oskill	Inferno Sentry	1	1	regen		-2	-2							lcha	jewl									0	0	0
+of Skill	100	1	1	1	30	1				1	50	oskill	Mind Blast	1	1	regen		-2	-2							lcha	jewl									0	0	0
+of Skill	100	1	1	1	30	1				1	50	oskill	Blades of Ice	1	1	regen		-2	-2							lcha	jewl									0	0	0
+of Skill	100	1	1	1	30	1				1	50	oskill	Dragon Flight	1	1	regen		-2	-2							lcha	jewl									0	0	0
+of Skill	100	1	1	1	30	1				1	50	oskill	Death Sentry	1	1	regen		-2	-2							lcha	jewl									0	0	0
+of Skill	100	1	1	1	30	1				1	50	oskill	Blade Shield	1	1	regen		-2	-2							lcha	jewl									0	0	0
+of Skill	100	1	1	1	30	1				1	50	oskill	Venom	1	1	regen		-2	-2							lcha	jewl									0	0	0
+of Skill	100	1	1	1	30	1				1	50	oskill	Shadow Master	1	1	regen		-2	-2							lcha	jewl									0	0	0
+of Skill	100	1	1	1	30	1				1	50	oskill	Royal Strike	1	1	regen		-2	-2							lcha	jewl									0	0	0
 																																						
-of Skill	100	1	1	25	60	31				1	50	oskill	Magic Arrow	1	3											lcha	jewl									0	0	0
-of Skill	100	1	1	25	60	31				1	50	oskill	Fire Arrow	1	3											lcha	jewl									0	0	0
-of Skill	100	1	1	25	60	31				1	50	oskill	Inner Sight	1	3											lcha	jewl									0	0	0
-of Skill	100	1	1	25	60	31				1	50	oskill	Critical Strike	1	3											lcha	jewl									0	0	0
-of Skill	100	1	1	25	60	31				1	50	oskill	Jab	1	3											lcha	jewl									0	0	0
-of Skill	100	1	1	25	60	31				1	50	oskill	Cold Arrow	1	3											lcha	jewl									0	0	0
-of Skill	100	1	1	25	60	31				1	50	oskill	Multiple Shot	1	3											lcha	jewl									0	0	0
-of Skill	100	1	1	25	60	31				1	50	oskill	Dodge	1	3											lcha	jewl									0	0	0
-of Skill	100	1	1	25	60	31				1	50	oskill	Power Strike	1	3											lcha	jewl									0	0	0
-of Skill	100	1	1	25	60	31				1	50	oskill	Poison Javelin	1	3											lcha	jewl									0	0	0
-of Skill	100	1	1	25	60	31				1	50	oskill	Exploding Arrow	1	3											lcha	jewl									0	0	0
-of Skill	100	1	1	25	60	31				1	50	oskill	Slow Missiles	1	3											lcha	jewl									0	0	0
-of Skill	100	1	1	25	60	31				1	50	oskill	Avoid	1	3											lcha	jewl									0	0	0
-of Skill	100	1	1	25	60	31				1	50	oskill	Impale	1	3											lcha	jewl									0	0	0
-of Skill	100	1	1	25	60	31				1	50	oskill	Lightning Bolt	1	3											lcha	jewl									0	0	0
-of Skill	100	1	1	25	60	31				1	50	oskill	Ice Arrow	1	3											lcha	jewl									0	0	0
-of Skill	100	1	1	25	60	31				1	50	oskill	Guided Arrow	1	3											lcha	jewl									0	0	0
-of Skill	100	1	1	25	60	31				1	50	oskill	Penetrate	1	3											lcha	jewl									0	0	0
-of Skill	100	1	1	25	60	31				1	50	oskill	Charged Strike	1	3											lcha	jewl									0	0	0
-of Skill	100	1	1	25	60	31				1	50	oskill	Plague Javelin	1	3											lcha	jewl									0	0	0
-of Skill	100	1	1	25	60	31				1	50	oskill	Strafe	1	3											lcha	jewl									0	0	0
-of Skill	100	1	1	25	60	31				1	50	oskill	Immolation Arrow	1	3											lcha	jewl									0	0	0
-of Skill	100	1	1	25	60	31				1	50	oskill	Dopplezon	1	3											lcha	jewl									0	0	0
-of Skill	100	1	1	25	60	31				1	50	oskill	Evade	1	3											lcha	jewl									0	0	0
-of Skill	100	1	1	25	60	31				1	50	oskill	Fend	1	3											lcha	jewl									0	0	0
-of Skill	100	1	1	25	60	31				1	50	oskill	Freezing Arrow	1	3											lcha	jewl									0	0	0
-of Skill	100	1	1	25	60	31				1	50	oskill	Valkyrie	1	3											lcha	jewl									0	0	0
-of Skill	100	1	1	25	60	31				1	50	oskill	Pierce	1	3											lcha	jewl									0	0	0
-of Skill	100	1	1	25	60	31				1	50	oskill	Lightning Strike	1	3											lcha	jewl									0	0	0
-of Skill	100	1	1	25	60	31				1	50	oskill	Lightning Fury	1	3											lcha	jewl									0	0	0
-of Skill	100	1	1	25	60	31				1	50	oskill	Fire Bolt	1	3											lcha	jewl									0	0	0
-of Skill	100	1	1	25	60	31				1	50	oskill	Warmth	1	3											lcha	jewl									0	0	0
-of Skill	100	1	1	25	60	31				1	50	oskill	Charged Bolt	1	3											lcha	jewl									0	0	0
-of Skill	100	1	1	25	60	31				1	50	oskill	Ice Bolt	1	3											lcha	jewl									0	0	0
-of Skill	100	1	1	25	60	31				1	50	oskill	Frozen Armor	1	3											lcha	jewl									0	0	0
-of Skill	100	1	1	25	60	31				1	50	oskill	Inferno	1	3											lcha	jewl									0	0	0
-of Skill	100	1	1	25	60	31				1	50	oskill	Static Field	1	3											lcha	jewl									0	0	0
-of Skill	100	1	1	25	60	31				1	50	oskill	Telekinesis	1	3											lcha	jewl									0	0	0
-of Skill	100	1	1	25	60	31				1	50	oskill	Frost Nova	1	3											lcha	jewl									0	0	0
-of Skill	100	1	1	25	60	31				1	50	oskill	Ice Blast	1	3											lcha	jewl									0	0	0
-of Skill	100	1	1	25	60	31				1	50	oskill	Blaze	1	3											lcha	jewl									0	0	0
-of Skill	100	1	1	25	60	31				1	50	oskill	Fire Ball	1	3											lcha	jewl									0	0	0
-of Skill	100	1	1	25	60	31				1	50	oskill	Nova	1	3											lcha	jewl									0	0	0
-of Skill	100	1	1	25	60	31				1	50	oskill	Lightning	1	3											lcha	jewl									0	0	0
-of Skill	100	1	1	25	60	31				1	50	oskill	Shiver Armor	1	3											lcha	jewl									0	0	0
-of Skill	100	1	1	25	60	31				1	50	oskill	Fire Wall	1	3											lcha	jewl									0	0	0
-of Skill	100	1	1	25	60	31				1	50	oskill	Enchant	1	3											lcha	jewl									0	0	0
-of Skill	100	1	1	25	60	31				1	50	oskill	Chain Lightning	1	3											lcha	jewl									0	0	0
-of Skill	100	1	1	25	60	31				1	50	oskill	Teleport	1	3											lcha	jewl									0	0	0
-of Skill	100	1	1	25	60	31				1	50	oskill	Glacial Spike	1	3											lcha	jewl									0	0	0
-of Skill	100	1	1	25	60	31				1	50	oskill	Meteor	1	3											lcha	jewl									0	0	0
-of Skill	100	1	1	25	60	31				1	50	oskill	Thunder Storm	1	3											lcha	jewl									0	0	0
-of Skill	100	1	1	25	60	31				1	50	oskill	Energy Shield	1	3											lcha	jewl									0	0	0
-of Skill	100	1	1	25	60	31				1	50	oskill	Blizzard	1	3											lcha	jewl									0	0	0
-of Skill	100	1	1	25	60	31				1	50	oskill	Chilling Armor	1	3											lcha	jewl									0	0	0
-of Skill	100	1	1	25	60	31				1	50	oskill	Fire Mastery	1	3											lcha	jewl									0	0	0
-of Skill	100	1	1	25	60	31				1	50	oskill	Hydra	1	3											lcha	jewl									0	0	0
-of Skill	100	1	1	25	60	31				1	50	oskill	Lightning Mastery	1	3											lcha	jewl									0	0	0
-of Skill	100	1	1	25	60	31				1	50	oskill	Frozen Orb	1	3											lcha	jewl									0	0	0
-of Skill	100	1	1	25	60	31				1	50	oskill	Cold Mastery	1	3											lcha	jewl									0	0	0
-of Skill	100	1	1	25	60	31				1	50	oskill	Amplify Damage	1	3											lcha	jewl									0	0	0
-of Skill	100	1	1	25	60	31				1	50	oskill	Teeth	1	3											lcha	jewl									0	0	0
-of Skill	100	1	1	25	60	31				1	50	oskill	Bone Armor	1	3											lcha	jewl									0	0	0
-of Skill	100	1	1	25	60	31				1	50	oskill	Skeleton Mastery	1	3											lcha	jewl									0	0	0
-of Skill	100	1	1	25	60	31				1	50	oskill	Raise Skeleton	1	3											lcha	jewl									0	0	0
-of Skill	100	1	1	25	60	31				1	50	oskill	Dim Vision	1	3											lcha	jewl									0	0	0
-of Skill	100	1	1	25	60	31				1	50	oskill	Weaken	1	3											lcha	jewl									0	0	0
-of Skill	100	1	1	25	60	31				1	50	oskill	Poison Dagger	1	3											lcha	jewl									0	0	0
-of Skill	100	1	1	25	60	31				1	50	oskill	Corpse Explosion	1	3											lcha	jewl									0	0	0
-of Skill	100	1	1	25	60	31				1	50	oskill	Clay Golem	1	3											lcha	jewl									0	0	0
-of Skill	100	1	1	25	60	31				1	50	oskill	Iron Maiden	1	3											lcha	jewl									0	0	0
-of Skill	100	1	1	25	60	31				1	50	oskill	Terror	1	3											lcha	jewl									0	0	0
-of Skill	100	1	1	25	60	31				1	50	oskill	Bone Wall	1	3											lcha	jewl									0	0	0
-of Skill	100	1	1	25	60	31				1	50	oskill	Golem Mastery	1	3											lcha	jewl									0	0	0
-of Skill	100	1	1	25	60	31				1	50	oskill	Raise Skeletal Mage	1	3											lcha	jewl									0	0	0
-of Skill	100	1	1	25	60	31				1	50	oskill	Confuse	1	3											lcha	jewl									0	0	0
-of Skill	100	1	1	25	60	31				1	50	oskill	Life Tap	1	3											lcha	jewl									0	0	0
-of Skill	100	1	1	25	60	31				1	50	oskill	Poison Explosion	1	3											lcha	jewl									0	0	0
-of Skill	100	1	1	25	60	31				1	50	oskill	Bone Spear	1	3											lcha	jewl									0	0	0
-of Skill	100	1	1	25	60	31				1	50	oskill	BloodGolem	1	3											lcha	jewl									0	0	0
-of Skill	100	1	1	25	60	31				1	50	oskill	Attract	1	3											lcha	jewl									0	0	0
-of Skill	100	1	1	25	60	31				1	50	oskill	Decrepify	1	3											lcha	jewl									0	0	0
-of Skill	100	1	1	25	60	31				1	50	oskill	Bone Prison	1	3											lcha	jewl									0	0	0
-of Skill	100	1	1	25	60	31				1	50	oskill	Summon Resist	1	3											lcha	jewl									0	0	0
-of Skill	100	1	1	25	60	31				1	50	oskill	IronGolem	1	3											lcha	jewl									0	0	0
-of Skill	100	1	1	25	60	31				1	50	oskill	Lower Resist	1	3											lcha	jewl									0	0	0
-of Skill	100	1	1	25	60	31				1	50	oskill	Poison Nova	1	3											lcha	jewl									0	0	0
-of Skill	100	1	1	25	60	31				1	50	oskill	Bone Spirit	1	3											lcha	jewl									0	0	0
-of Skill	100	1	1	25	60	31				1	50	oskill	FireGolem	1	3											lcha	jewl									0	0	0
-of Skill	100	1	1	25	60	31				1	50	oskill	Revive	1	3											lcha	jewl									0	0	0
-of Skill	100	1	1	25	60	31				1	50	oskill	Sacrifice	1	3											lcha	jewl									0	0	0
-of Skill	100	1	1	25	60	31				1	50	oskill	Smite	1	3											lcha	jewl									0	0	0
-of Skill	100	1	1	25	60	31				1	50	oskill	Might	1	3											lcha	jewl									0	0	0
-of Skill	100	1	1	25	60	31				1	50	oskill	Prayer	1	3											lcha	jewl									0	0	0
-of Skill	100	1	1	25	60	31				1	50	oskill	Resist Fire	1	3											lcha	jewl									0	0	0
-of Skill	100	1	1	25	60	31				1	50	oskill	Holy Bolt	1	3											lcha	jewl									0	0	0
-of Skill	100	1	1	25	60	31				1	50	oskill	Holy Fire	1	3											lcha	jewl									0	0	0
-of Skill	100	1	1	25	60	31				1	50	oskill	Thorns	1	3											lcha	jewl									0	0	0
-of Skill	100	1	1	25	60	31				1	50	oskill	Defiance	1	3											lcha	jewl									0	0	0
-of Skill	100	1	1	25	60	31				1	50	oskill	Resist Cold	1	3											lcha	jewl									0	0	0
-of Skill	100	1	1	25	60	31				1	50	oskill	Zeal	1	3											lcha	jewl									0	0	0
-of Skill	100	1	1	25	60	31				1	50	oskill	Charge	1	3											lcha	jewl									0	0	0
-of Skill	100	1	1	25	60	31				1	50	oskill	Blessed Aim	1	3											lcha	jewl									0	0	0
-of Skill	100	1	1	25	60	31				1	50	oskill	Cleansing	1	3											lcha	jewl									0	0	0
-of Skill	100	1	1	25	60	31				1	50	oskill	Resist Lightning	1	3											lcha	jewl									0	0	0
-of Skill	100	1	1	25	60	31				1	50	oskill	Vengeance	1	3											lcha	jewl									0	0	0
-of Skill	100	1	1	25	60	31				1	50	oskill	Blessed Hammer	1	3											lcha	jewl									0	0	0
-of Skill	100	1	1	25	60	31				1	50	oskill	Concentration	1	3											lcha	jewl									0	0	0
-of Skill	100	1	1	25	60	31				1	50	oskill	Holy Freeze	1	3											lcha	jewl									0	0	0
-of Skill	100	1	1	25	60	31				1	50	oskill	Vigor	1	3											lcha	jewl									0	0	0
-of Skill	100	1	1	25	60	31				1	50	oskill	Conversion	1	3											lcha	jewl									0	0	0
-of Skill	100	1	1	25	60	31				1	50	oskill	Holy Shield	1	3											lcha	jewl									0	0	0
-of Skill	100	1	1	25	60	31				1	50	oskill	Holy Shock	1	3											lcha	jewl									0	0	0
-of Skill	100	1	1	25	60	31				1	50	oskill	Sanctuary	1	3											lcha	jewl									0	0	0
-of Skill	100	1	1	25	60	31				1	50	oskill	Meditation	1	3											lcha	jewl									0	0	0
-of Skill	100	1	1	25	60	31				1	50	oskill	Fist of the Heavens	1	3											lcha	jewl									0	0	0
-of Skill	100	1	1	25	60	31				1	50	oskill	Fanaticism	1	3											lcha	jewl									0	0	0
-of Skill	100	1	1	25	60	31				1	50	oskill	Conviction	1	3											lcha	jewl									0	0	0
-of Skill	100	1	1	25	60	31				1	50	oskill	Redemption	1	3											lcha	jewl									0	0	0
-of Skill	100	1	1	25	60	31				1	50	oskill	Salvation	1	3											lcha	jewl									0	0	0
-of Skill	100	1	1	25	60	31				1	50	oskill	Bash	1	3											lcha	jewl									0	0	0
-of Skill	100	1	1	25	60	31				1	50	oskill	Sword Mastery	1	3											lcha	jewl									0	0	0
-of Skill	100	1	1	25	60	31				1	50	oskill	Axe Mastery	1	3											lcha	jewl									0	0	0
-of Skill	100	1	1	25	60	31				1	50	oskill	Mace Mastery	1	3											lcha	jewl									0	0	0
-of Skill	100	1	1	25	60	31				1	50	oskill	Howl	1	3											lcha	jewl									0	0	0
-of Skill	100	1	1	25	60	31				1	50	oskill	Find Potion	1	3											lcha	jewl									0	0	0
-of Skill	100	1	1	25	60	31				1	50	oskill	Leap	1	3											lcha	jewl									0	0	0
-of Skill	100	1	1	25	60	31				1	50	oskill	Double Swing	1	3											lcha	jewl									0	0	0
-of Skill	100	1	1	25	60	31				1	50	oskill	Pole Arm Mastery	1	3											lcha	jewl									0	0	0
-of Skill	100	1	1	25	60	31				1	50	oskill	Throwing Mastery	1	3											lcha	jewl									0	0	0
-of Skill	100	1	1	25	60	31				1	50	oskill	Spear Mastery	1	3											lcha	jewl									0	0	0
-of Skill	100	1	1	25	60	31				1	50	oskill	Taunt	1	3											lcha	jewl									0	0	0
-of Skill	100	1	1	25	60	31				1	50	oskill	Shout	1	3											lcha	jewl									0	0	0
-of Skill	100	1	1	25	60	31				1	50	oskill	Stun	1	3											lcha	jewl									0	0	0
-of Skill	100	1	1	25	60	31				1	50	oskill	Double Throw	1	3											lcha	jewl									0	0	0
-of Skill	100	1	1	25	60	31				1	50	oskill	Increased Stamina	1	3											lcha	jewl									0	0	0
-of Skill	100	1	1	25	60	31				1	50	oskill	Find Item	1	3											lcha	jewl									0	0	0
-of Skill	100	1	1	25	60	31				1	50	oskill	Leap Attack	1	3											lcha	jewl									0	0	0
-of Skill	100	1	1	25	60	31				1	50	oskill	Concentrate	1	3											lcha	jewl									0	0	0
-of Skill	100	1	1	25	60	31				1	50	oskill	Iron Skin	1	3											lcha	jewl									0	0	0
-of Skill	100	1	1	25	60	31				1	50	oskill	Battle Cry	1	3											lcha	jewl									0	0	0
-of Skill	100	1	1	25	60	31				1	50	oskill	Frenzy	1	3											lcha	jewl									0	0	0
-of Skill	100	1	1	25	60	31				1	50	oskill	Increased Speed	1	3											lcha	jewl									0	0	0
-of Skill	100	1	1	25	60	31				1	50	oskill	Battle Orders	1	3											lcha	jewl									0	0	0
-of Skill	100	1	1	25	60	31				1	50	oskill	Grim Ward	1	3											lcha	jewl									0	0	0
-of Skill	100	1	1	25	60	31				1	50	oskill	Whirlwind	1	3											lcha	jewl									0	0	0
-of Skill	100	1	1	25	60	31				1	50	oskill	Berserk	1	3											lcha	jewl									0	0	0
-of Skill	100	1	1	25	60	31				1	50	oskill	Natural Resistance	1	3											lcha	jewl									0	0	0
-of Skill	100	1	1	25	60	31				1	50	oskill	War Cry	1	3											lcha	jewl									0	0	0
-of Skill	100	1	1	25	60	31				1	50	oskill	Battle Command	1	3											lcha	jewl									0	0	0
-of Skill	100	1	1	25	60	31				1	50	oskill	Raven	1	3											lcha	jewl									0	0	0
-of Skill	100	1	1	25	60	31				1	50	oskill	Plague Poppy	1	3											lcha	jewl									0	0	0
-of Skill	100	1	1	25	60	31				1	50	oskill	Wearwolf	1	3											lcha	jewl									0	0	0
-of Skill	100	1	1	25	60	31				1	50	oskill	Shape Shifting	1	3											lcha	jewl									0	0	0
-of Skill	100	1	1	25	60	31				1	50	oskill	Firestorm	1	3											lcha	jewl									0	0	0
-of Skill	100	1	1	25	60	31				1	50	oskill	Oak Sage	1	3											lcha	jewl									0	0	0
-of Skill	100	1	1	25	60	31				1	50	oskill	Summon Spirit Wolf	1	3											lcha	jewl									0	0	0
-of Skill	100	1	1	25	60	31				1	50	oskill	Wearbear	1	3											lcha	jewl									0	0	0
-of Skill	100	1	1	25	60	31				1	50	oskill	Molten Boulder	1	3											lcha	jewl									0	0	0
-of Skill	100	1	1	25	60	31				1	50	oskill	Arctic Blast	1	3											lcha	jewl									0	0	0
-of Skill	100	1	1	25	60	31				1	50	oskill	Cycle of Life	1	3											lcha	jewl									0	0	0
-of Skill	100	1	1	25	60	31				1	50	oskill	Feral Rage	1	3											lcha	jewl									0	0	0
-of Skill	100	1	1	25	60	31				1	50	oskill	Maul	1	3											lcha	jewl									0	0	0
-of Skill	100	1	1	25	60	31				1	50	oskill	Eruption	1	3											lcha	jewl									0	0	0
-of Skill	100	1	1	25	60	31				1	50	oskill	Cyclone Armor	1	3											lcha	jewl									0	0	0
-of Skill	100	1	1	25	60	31				1	50	oskill	Heart of Wolverine	1	3											lcha	jewl									0	0	0
-of Skill	100	1	1	25	60	31				1	50	oskill	Summon Fenris	1	3											lcha	jewl									0	0	0
-of Skill	100	1	1	25	60	31				1	50	oskill	Rabies	1	3											lcha	jewl									0	0	0
-of Skill	100	1	1	25	60	31				1	50	oskill	Fire Claws	1	3											lcha	jewl									0	0	0
-of Skill	100	1	1	25	60	31				1	50	oskill	Twister	1	3											lcha	jewl									0	0	0
-of Skill	100	1	1	25	60	31				1	50	oskill	Vines	1	3											lcha	jewl									0	0	0
-of Skill	100	1	1	25	60	31				1	50	oskill	Hunger	1	3											lcha	jewl									0	0	0
-of Skill	100	1	1	25	60	31				1	50	oskill	Shock Wave	1	3											lcha	jewl									0	0	0
-of Skill	100	1	1	25	60	31				1	50	oskill	Volcano	1	3											lcha	jewl									0	0	0
-of Skill	100	1	1	25	60	31				1	50	oskill	Tornado	1	3											lcha	jewl									0	0	0
-of Skill	100	1	1	25	60	31				1	50	oskill	Spirit of Barbs	1	3											lcha	jewl									0	0	0
-of Skill	100	1	1	25	60	31				1	50	oskill	Summon Grizzly	1	3											lcha	jewl									0	0	0
-of Skill	100	1	1	25	60	31				1	50	oskill	Fury	1	3											lcha	jewl									0	0	0
-of Skill	100	1	1	25	60	31				1	50	oskill	Armageddon	1	3											lcha	jewl									0	0	0
-of Skill	100	1	1	25	60	31				1	50	oskill	Hurricane	1	3											lcha	jewl									0	0	0
-of Skill	100	1	1	25	60	31				1	50	oskill	Fire Trauma	1	3											lcha	jewl									0	0	0
-of Skill	100	1	1	25	60	31				1	50	oskill	Claw Mastery	1	3											lcha	jewl									0	0	0
-of Skill	100	1	1	25	60	31				1	50	oskill	Psychic Hammer	1	3											lcha	jewl									0	0	0
-of Skill	100	1	1	25	60	31				1	50	oskill	Tiger Strike	1	3											lcha	jewl									0	0	0
-of Skill	100	1	1	25	60	31				1	50	oskill	Dragon Talon	1	3											lcha	jewl									0	0	0
-of Skill	100	1	1	25	60	31				1	50	oskill	Shock Field	1	3											lcha	jewl									0	0	0
-of Skill	100	1	1	25	60	31				1	50	oskill	Blade Sentinel	1	3											lcha	jewl									0	0	0
-of Skill	100	1	1	25	60	31				1	50	oskill	Quickness	1	3											lcha	jewl									0	0	0
-of Skill	100	1	1	25	60	31				1	50	oskill	Fists of Fire	1	3											lcha	jewl									0	0	0
-of Skill	100	1	1	25	60	31				1	50	oskill	Dragon Claw	1	3											lcha	jewl									0	0	0
-of Skill	100	1	1	25	60	31				1	50	oskill	Charged Bolt Sentry	1	3											lcha	jewl									0	0	0
-of Skill	100	1	1	25	60	31				1	50	oskill	Wake of Fire Sentry	1	3											lcha	jewl									0	0	0
-of Skill	100	1	1	25	60	31				1	50	oskill	Weapon Block	1	3											lcha	jewl									0	0	0
-of Skill	100	1	1	25	60	31				1	50	oskill	Cloak of Shadows	1	3											lcha	jewl									0	0	0
-of Skill	100	1	1	25	60	31				1	50	oskill	Cobra Strike	1	3											lcha	jewl									0	0	0
-of Skill	100	1	1	25	60	31				1	50	oskill	Blade Fury	1	3											lcha	jewl									0	0	0
-of Skill	100	1	1	25	60	31				1	50	oskill	Fade	1	3											lcha	jewl									0	0	0
-of Skill	100	1	1	25	60	31				1	50	oskill	Shadow Warrior	1	3											lcha	jewl									0	0	0
-of Skill	100	1	1	25	60	31				1	50	oskill	Claws of Thunder	1	3											lcha	jewl									0	0	0
-of Skill	100	1	1	25	60	31				1	50	oskill	Dragon Tail	1	3											lcha	jewl									0	0	0
-of Skill	100	1	1	25	60	31				1	50	oskill	Lightning Sentry	1	3											lcha	jewl									0	0	0
-of Skill	100	1	1	25	60	31				1	50	oskill	Inferno Sentry	1	3											lcha	jewl									0	0	0
-of Skill	100	1	1	25	60	31				1	50	oskill	Mind Blast	1	3											lcha	jewl									0	0	0
-of Skill	100	1	1	25	60	31				1	50	oskill	Blades of Ice	1	3											lcha	jewl									0	0	0
-of Skill	100	1	1	25	60	31				1	50	oskill	Dragon Flight	1	3											lcha	jewl									0	0	0
-of Skill	100	1	1	25	60	31				1	50	oskill	Death Sentry	1	3											lcha	jewl									0	0	0
-of Skill	100	1	1	25	60	31				1	50	oskill	Blade Shield	1	3											lcha	jewl									0	0	0
-of Skill	100	1	1	25	60	31				1	50	oskill	Venom	1	3											lcha	jewl									0	0	0
-of Skill	100	1	1	25	60	31				1	50	oskill	Shadow Master	1	3											lcha	jewl									0	0	0
-of Skill	100	1	1	25	60	31				1	50	oskill	Royal Strike	1	3											lcha	jewl									0	0	0
+of Skill	100	1	1	25	60	31				1	50	oskill	Magic Arrow	2	3	regen		-5	-5							lcha	jewl									0	0	0
+of Skill	100	1	1	25	60	31				1	50	oskill	Fire Arrow	2	3	regen		-5	-5							lcha	jewl									0	0	0
+of Skill	100	1	1	25	60	31				1	50	oskill	Inner Sight	2	3	regen		-5	-5							lcha	jewl									0	0	0
+of Skill	100	1	1	25	60	31				1	50	oskill	Critical Strike	2	3	regen		-5	-5							lcha	jewl									0	0	0
+of Skill	100	1	1	25	60	31				1	50	oskill	Jab	2	3	regen		-5	-5							lcha	jewl									0	0	0
+of Skill	100	1	1	25	60	31				1	50	oskill	Cold Arrow	2	3	regen		-5	-5							lcha	jewl									0	0	0
+of Skill	100	1	1	25	60	31				1	50	oskill	Multiple Shot	2	3	regen		-5	-5							lcha	jewl									0	0	0
+of Skill	100	1	1	25	60	31				1	50	oskill	Dodge	2	3	regen		-5	-5							lcha	jewl									0	0	0
+of Skill	100	1	1	25	60	31				1	50	oskill	Power Strike	2	3	regen		-5	-5							lcha	jewl									0	0	0
+of Skill	100	1	1	25	60	31				1	50	oskill	Poison Javelin	2	3	regen		-5	-5							lcha	jewl									0	0	0
+of Skill	100	1	1	25	60	31				1	50	oskill	Exploding Arrow	2	3	regen		-5	-5							lcha	jewl									0	0	0
+of Skill	100	1	1	25	60	31				1	50	oskill	Slow Missiles	2	3	regen		-5	-5							lcha	jewl									0	0	0
+of Skill	100	1	1	25	60	31				1	50	oskill	Avoid	2	3	regen		-5	-5							lcha	jewl									0	0	0
+of Skill	100	1	1	25	60	31				1	50	oskill	Impale	2	3	regen		-5	-5							lcha	jewl									0	0	0
+of Skill	100	1	1	25	60	31				1	50	oskill	Lightning Bolt	2	3	regen		-5	-5							lcha	jewl									0	0	0
+of Skill	100	1	1	25	60	31				1	50	oskill	Ice Arrow	2	3	regen		-5	-5							lcha	jewl									0	0	0
+of Skill	100	1	1	25	60	31				1	50	oskill	Guided Arrow	2	3	regen		-5	-5							lcha	jewl									0	0	0
+of Skill	100	1	1	25	60	31				1	50	oskill	Penetrate	2	3	regen		-5	-5							lcha	jewl									0	0	0
+of Skill	100	1	1	25	60	31				1	50	oskill	Charged Strike	2	3	regen		-5	-5							lcha	jewl									0	0	0
+of Skill	100	1	1	25	60	31				1	50	oskill	Plague Javelin	2	3	regen		-5	-5							lcha	jewl									0	0	0
+of Skill	100	1	1	25	60	31				1	50	oskill	Strafe	2	3	regen		-5	-5							lcha	jewl									0	0	0
+of Skill	100	1	1	25	60	31				1	50	oskill	Immolation Arrow	2	3	regen		-5	-5							lcha	jewl									0	0	0
+of Skill	100	1	1	25	60	31				1	50	oskill	Dopplezon	2	3	regen		-5	-5							lcha	jewl									0	0	0
+of Skill	100	1	1	25	60	31				1	50	oskill	Evade	2	3	regen		-5	-5							lcha	jewl									0	0	0
+of Skill	100	1	1	25	60	31				1	50	oskill	Fend	2	3	regen		-5	-5							lcha	jewl									0	0	0
+of Skill	100	1	1	25	60	31				1	50	oskill	Freezing Arrow	2	3	regen		-5	-5							lcha	jewl									0	0	0
+of Skill	100	1	1	25	60	31				1	50	oskill	Valkyrie	2	3	regen		-5	-5							lcha	jewl									0	0	0
+of Skill	100	1	1	25	60	31				1	50	oskill	Pierce	2	3	regen		-5	-5							lcha	jewl									0	0	0
+of Skill	100	1	1	25	60	31				1	50	oskill	Lightning Strike	2	3	regen		-5	-5							lcha	jewl									0	0	0
+of Skill	100	1	1	25	60	31				1	50	oskill	Lightning Fury	2	3	regen		-5	-5							lcha	jewl									0	0	0
+of Skill	100	1	1	25	60	31				1	50	oskill	Fire Bolt	2	3	regen		-5	-5							lcha	jewl									0	0	0
+of Skill	100	1	1	25	60	31				1	50	oskill	Warmth	2	3	regen		-5	-5							lcha	jewl									0	0	0
+of Skill	100	1	1	25	60	31				1	50	oskill	Charged Bolt	2	3	regen		-5	-5							lcha	jewl									0	0	0
+of Skill	100	1	1	25	60	31				1	50	oskill	Ice Bolt	2	3	regen		-5	-5							lcha	jewl									0	0	0
+of Skill	100	1	1	25	60	31				1	50	oskill	Frozen Armor	2	3	regen		-5	-5							lcha	jewl									0	0	0
+of Skill	100	1	1	25	60	31				1	50	oskill	Inferno	2	3	regen		-5	-5							lcha	jewl									0	0	0
+of Skill	100	1	1	25	60	31				1	50	oskill	Static Field	2	3	regen		-8	-8							lcha	jewl									0	0	0
+of Skill	100	1	1	25	60	31				1	50	oskill	Telekinesis	2	3	regen		-5	-5							lcha	jewl									0	0	0
+of Skill	100	1	1	25	60	31				1	50	oskill	Frost Nova	2	3	regen		-5	-5							lcha	jewl									0	0	0
+of Skill	100	1	1	25	60	31				1	50	oskill	Ice Blast	2	3	regen		-5	-5							lcha	jewl									0	0	0
+of Skill	100	1	1	25	60	31				1	50	oskill	Blaze	2	3	regen		-5	-5							lcha	jewl									0	0	0
+of Skill	100	1	1	25	60	31				1	50	oskill	Fire Ball	2	3	regen		-5	-5							lcha	jewl									0	0	0
+of Skill	100	1	1	25	60	31				1	50	oskill	Nova	2	3	regen		-5	-5							lcha	jewl									0	0	0
+of Skill	100	1	1	25	60	31				1	50	oskill	Lightning	2	3	regen		-5	-5							lcha	jewl									0	0	0
+of Skill	100	1	1	25	60	31				1	50	oskill	Shiver Armor	2	3	regen		-5	-5							lcha	jewl									0	0	0
+of Skill	100	1	1	25	60	31				1	50	oskill	Fire Wall	2	3	regen		-5	-5							lcha	jewl									0	0	0
+of Skill	100	1	1	25	60	31				1	50	oskill	Enchant	2	3	regen		-5	-5							lcha	jewl									0	0	0
+of Skill	100	1	1	25	60	31				1	50	oskill	Chain Lightning	2	3	regen		-5	-5							lcha	jewl									0	0	0
+of Skill	100	1	1	25	60	31				1	50	oskill	Teleport	2	3	regen		-8	-8							lcha	jewl									0	0	0
+of Skill	100	1	1	25	60	31				1	50	oskill	Glacial Spike	2	3	regen		-5	-5							lcha	jewl									0	0	0
+of Skill	100	1	1	25	60	31				1	50	oskill	Meteor	2	3	regen		-5	-5							lcha	jewl									0	0	0
+of Skill	100	1	1	25	60	31				1	50	oskill	Thunder Storm	2	3	regen		-5	-5							lcha	jewl									0	0	0
+of Skill	100	1	1	25	60	31				1	50	oskill	Energy Shield	2	3	regen		-5	-5							lcha	jewl									0	0	0
+of Skill	100	1	1	25	60	31				1	50	oskill	Blizzard	2	3	regen		-5	-5							lcha	jewl									0	0	0
+of Skill	100	1	1	25	60	31				1	50	oskill	Chilling Armor	2	3	regen		-5	-5							lcha	jewl									0	0	0
+of Skill	100	1	1	25	60	31				1	50	oskill	Fire Mastery	2	3	regen		-5	-5							lcha	jewl									0	0	0
+of Skill	100	1	1	25	60	31				1	50	oskill	Hydra	2	3	regen		-5	-5							lcha	jewl									0	0	0
+of Skill	100	1	1	25	60	31				1	50	oskill	Lightning Mastery	2	3	regen		-5	-5							lcha	jewl									0	0	0
+of Skill	100	1	1	25	60	31				1	50	oskill	Frozen Orb	2	3	regen		-5	-5							lcha	jewl									0	0	0
+of Skill	100	1	1	25	60	31				1	50	oskill	Cold Mastery	2	3	regen		-5	-5							lcha	jewl									0	0	0
+of Skill	100	1	1	25	60	31				1	50	oskill	Amplify Damage	2	3	regen		-5	-5							lcha	jewl									0	0	0
+of Skill	100	1	1	25	60	31				1	50	oskill	Teeth	2	3	regen		-5	-5							lcha	jewl									0	0	0
+of Skill	100	1	1	25	60	31				1	50	oskill	Bone Armor	2	3	regen		-5	-5							lcha	jewl									0	0	0
+of Skill	100	1	1	25	60	31				1	50	oskill	Skeleton Mastery	2	3	regen		-5	-5							lcha	jewl									0	0	0
+of Skill	100	1	1	25	60	31				1	50	oskill	Raise Skeleton	2	3	regen		-5	-5							lcha	jewl									0	0	0
+of Skill	100	1	1	25	60	31				1	50	oskill	Dim Vision	2	3	regen		-5	-5							lcha	jewl									0	0	0
+of Skill	100	1	1	25	60	31				1	50	oskill	Weaken	2	3	regen		-5	-5							lcha	jewl									0	0	0
+of Skill	100	1	1	25	60	31				1	50	oskill	Poison Dagger	2	3	regen		-5	-5							lcha	jewl									0	0	0
+of Skill	100	1	1	25	60	31				1	50	oskill	Corpse Explosion	2	3	regen		-5	-5							lcha	jewl									0	0	0
+of Skill	100	1	1	25	60	31				1	50	oskill	Clay Golem	2	3	regen		-5	-5							lcha	jewl									0	0	0
+of Skill	100	1	1	25	60	31				1	50	oskill	Iron Maiden	2	3	regen		-5	-5							lcha	jewl									0	0	0
+of Skill	100	1	1	25	60	31				1	50	oskill	Terror	2	3	regen		-5	-5							lcha	jewl									0	0	0
+of Skill	100	1	1	25	60	31				1	50	oskill	Bone Wall	2	3	regen		-5	-5							lcha	jewl									0	0	0
+of Skill	100	1	1	25	60	31				1	50	oskill	Golem Mastery	2	3	regen		-5	-5							lcha	jewl									0	0	0
+of Skill	100	1	1	25	60	31				1	50	oskill	Raise Skeletal Mage	2	3	regen		-5	-5							lcha	jewl									0	0	0
+of Skill	100	1	1	25	60	31				1	50	oskill	Confuse	2	3	regen		-5	-5							lcha	jewl									0	0	0
+of Skill	100	1	1	25	60	31				1	50	oskill	Life Tap	2	3	regen		-5	-5							lcha	jewl									0	0	0
+of Skill	100	1	1	25	60	31				1	50	oskill	Poison Explosion	2	3	regen		-5	-5							lcha	jewl									0	0	0
+of Skill	100	1	1	25	60	31				1	50	oskill	Bone Spear	2	3	regen		-5	-5							lcha	jewl									0	0	0
+of Skill	100	1	1	25	60	31				1	50	oskill	BloodGolem	2	3	regen		-5	-5							lcha	jewl									0	0	0
+of Skill	100	1	1	25	60	31				1	50	oskill	Attract	2	3	regen		-5	-5							lcha	jewl									0	0	0
+of Skill	100	1	1	25	60	31				1	50	oskill	Decrepify	2	3	regen		-5	-5							lcha	jewl									0	0	0
+of Skill	100	1	1	25	60	31				1	50	oskill	Bone Prison	2	3	regen		-5	-5							lcha	jewl									0	0	0
+of Skill	100	1	1	25	60	31				1	50	oskill	Summon Resist	2	3	regen		-5	-5							lcha	jewl									0	0	0
+of Skill	100	1	1	25	60	31				1	50	oskill	IronGolem	2	3	regen		-5	-5							lcha	jewl									0	0	0
+of Skill	100	1	1	25	60	31				1	50	oskill	Lower Resist	2	3	regen		-5	-5							lcha	jewl									0	0	0
+of Skill	100	1	1	25	60	31				1	50	oskill	Poison Nova	2	3	regen		-5	-5							lcha	jewl									0	0	0
+of Skill	100	1	1	25	60	31				1	50	oskill	Bone Spirit	2	3	regen		-5	-5							lcha	jewl									0	0	0
+of Skill	100	1	1	25	60	31				1	50	oskill	FireGolem	2	3	regen		-5	-5							lcha	jewl									0	0	0
+of Skill	100	1	1	25	60	31				1	50	oskill	Revive	2	3	regen		-5	-5							lcha	jewl									0	0	0
+of Skill	100	1	1	25	60	31				1	50	oskill	Sacrifice	2	3	regen		-5	-5							lcha	jewl									0	0	0
+of Skill	100	1	1	25	60	31				1	50	oskill	Smite	2	3	regen		-5	-5							lcha	jewl									0	0	0
+of Skill	100	1	1	25	60	31				1	50	oskill	Might	2	3	regen		-5	-5							lcha	jewl									0	0	0
+of Skill	100	1	1	25	60	31				1	50	oskill	Prayer	2	3	regen		-5	-5							lcha	jewl									0	0	0
+of Skill	100	1	1	25	60	31				1	50	oskill	Resist Fire	2	3	regen		-5	-5							lcha	jewl									0	0	0
+of Skill	100	1	1	25	60	31				1	50	oskill	Holy Bolt	2	3	regen		-5	-5							lcha	jewl									0	0	0
+of Skill	100	1	1	25	60	31				1	50	oskill	Holy Fire	2	3	regen		-5	-5							lcha	jewl									0	0	0
+of Skill	100	1	1	25	60	31				1	50	oskill	Thorns	2	3	regen		-5	-5							lcha	jewl									0	0	0
+of Skill	100	1	1	25	60	31				1	50	oskill	Defiance	2	3	regen		-5	-5							lcha	jewl									0	0	0
+of Skill	100	1	1	25	60	31				1	50	oskill	Resist Cold	2	3	regen		-5	-5							lcha	jewl									0	0	0
+of Skill	100	1	1	25	60	31				1	50	oskill	Zeal	2	3	regen		-5	-5							lcha	jewl									0	0	0
+of Skill	100	1	1	25	60	31				1	50	oskill	Charge	2	3	regen		-5	-5							lcha	jewl									0	0	0
+of Skill	100	1	1	25	60	31				1	50	oskill	Blessed Aim	2	3	regen		-5	-5							lcha	jewl									0	0	0
+of Skill	100	1	1	25	60	31				1	50	oskill	Cleansing	2	3	regen		-5	-5							lcha	jewl									0	0	0
+of Skill	100	1	1	25	60	31				1	50	oskill	Resist Lightning	2	3	regen		-5	-5							lcha	jewl									0	0	0
+of Skill	100	1	1	25	60	31				1	50	oskill	Vengeance	2	3	regen		-5	-5							lcha	jewl									0	0	0
+of Skill	100	1	1	25	60	31				1	50	oskill	Blessed Hammer	2	3	regen		-5	-5							lcha	jewl									0	0	0
+of Skill	100	1	1	25	60	31				1	50	oskill	Concentration	2	3	regen		-5	-5							lcha	jewl									0	0	0
+of Skill	100	1	1	25	60	31				1	50	oskill	Holy Freeze	2	3	regen		-5	-5							lcha	jewl									0	0	0
+of Skill	100	1	1	25	60	31				1	50	oskill	Vigor	2	3	regen		-5	-5							lcha	jewl									0	0	0
+of Skill	100	1	1	25	60	31				1	50	oskill	Conversion	2	3	regen		-5	-5							lcha	jewl									0	0	0
+of Skill	100	1	1	25	60	31				1	50	oskill	Holy Shield	2	3	regen		-5	-5							lcha	jewl									0	0	0
+of Skill	100	1	1	25	60	31				1	50	oskill	Holy Shock	2	3	regen		-5	-5							lcha	jewl									0	0	0
+of Skill	100	1	1	25	60	31				1	50	oskill	Sanctuary	2	3	regen		-5	-5							lcha	jewl									0	0	0
+of Skill	100	1	1	25	60	31				1	50	oskill	Meditation	2	3	regen		-5	-5							lcha	jewl									0	0	0
+of Skill	100	1	1	25	60	31				1	50	oskill	Fist of the Heavens	2	3	regen		-5	-5							lcha	jewl									0	0	0
+of Skill	100	1	1	25	60	31				1	50	oskill	Fanaticism	2	3	regen		-5	-5							lcha	jewl									0	0	0
+of Skill	100	1	1	25	60	31				1	50	oskill	Conviction	2	3	regen		-5	-5							lcha	jewl									0	0	0
+of Skill	100	1	1	25	60	31				1	50	oskill	Redemption	2	3	regen		-5	-5							lcha	jewl									0	0	0
+of Skill	100	1	1	25	60	31				1	50	oskill	Salvation	2	3	regen		-5	-5							lcha	jewl									0	0	0
+of Skill	100	1	1	25	60	31				1	50	oskill	Bash	2	3	regen		-5	-5							lcha	jewl									0	0	0
+of Skill	100	1	1	25	60	31				1	50	oskill	Sword Mastery	2	3	regen		-5	-5							lcha	jewl									0	0	0
+of Skill	100	1	1	25	60	31				1	50	oskill	Axe Mastery	2	3	regen		-5	-5							lcha	jewl									0	0	0
+of Skill	100	1	1	25	60	31				1	50	oskill	Mace Mastery	2	3	regen		-5	-5							lcha	jewl									0	0	0
+of Skill	100	1	1	25	60	31				1	50	oskill	Howl	2	3	regen		-5	-5							lcha	jewl									0	0	0
+of Skill	100	1	1	25	60	31				1	50	oskill	Find Potion	2	3	regen		-5	-5							lcha	jewl									0	0	0
+of Skill	100	1	1	25	60	31				1	50	oskill	Leap	2	3	regen		-5	-5							lcha	jewl									0	0	0
+of Skill	100	1	1	25	60	31				1	50	oskill	Double Swing	2	3	regen		-5	-5							lcha	jewl									0	0	0
+of Skill	100	1	1	25	60	31				1	50	oskill	Pole Arm Mastery	2	3	regen		-5	-5							lcha	jewl									0	0	0
+of Skill	100	1	1	25	60	31				1	50	oskill	Throwing Mastery	2	3	regen		-5	-5							lcha	jewl									0	0	0
+of Skill	100	1	1	25	60	31				1	50	oskill	Spear Mastery	2	3	regen		-5	-5							lcha	jewl									0	0	0
+of Skill	100	1	1	25	60	31				1	50	oskill	Taunt	2	3	regen		-5	-5							lcha	jewl									0	0	0
+of Skill	100	1	1	25	60	31				1	50	oskill	Shout	2	3	regen		-5	-5							lcha	jewl									0	0	0
+of Skill	100	1	1	25	60	31				1	50	oskill	Stun	2	3	regen		-5	-5							lcha	jewl									0	0	0
+of Skill	100	1	1	25	60	31				1	50	oskill	Double Throw	2	3	regen		-5	-5							lcha	jewl									0	0	0
+of Skill	100	1	1	25	60	31				1	50	oskill	Increased Stamina	2	3	regen		-5	-5							lcha	jewl									0	0	0
+of Skill	100	1	1	25	60	31				1	50	oskill	Find Item	2	3	regen		-5	-5							lcha	jewl									0	0	0
+of Skill	100	1	1	25	60	31				1	50	oskill	Leap Attack	2	3	regen		-5	-5							lcha	jewl									0	0	0
+of Skill	100	1	1	25	60	31				1	50	oskill	Concentrate	2	3	regen		-5	-5							lcha	jewl									0	0	0
+of Skill	100	1	1	25	60	31				1	50	oskill	Iron Skin	2	3	regen		-5	-5							lcha	jewl									0	0	0
+of Skill	100	1	1	25	60	31				1	50	oskill	Battle Cry	2	3	regen		-5	-5							lcha	jewl									0	0	0
+of Skill	100	1	1	25	60	31				1	50	oskill	Frenzy	2	3	regen		-5	-5							lcha	jewl									0	0	0
+of Skill	100	1	1	25	60	31				1	50	oskill	Increased Speed	2	3	regen		-5	-5							lcha	jewl									0	0	0
+of Skill	100	1	1	25	60	31				1	50	oskill	Battle Orders	2	3	regen		-5	-5							lcha	jewl									0	0	0
+of Skill	100	1	1	25	60	31				1	50	oskill	Grim Ward	2	3	regen		-5	-5							lcha	jewl									0	0	0
+of Skill	100	1	1	25	60	31				1	50	oskill	Whirlwind	2	3	regen		-5	-5							lcha	jewl									0	0	0
+of Skill	100	1	1	25	60	31				1	50	oskill	Berserk	2	3	regen		-5	-5							lcha	jewl									0	0	0
+of Skill	100	1	1	25	60	31				1	50	oskill	Natural Resistance	2	3	regen		-5	-5							lcha	jewl									0	0	0
+of Skill	100	1	1	25	60	31				1	50	oskill	War Cry	2	3	regen		-5	-5							lcha	jewl									0	0	0
+of Skill	100	1	1	25	60	31				1	50	oskill	Battle Command	2	3	regen		-5	-5							lcha	jewl									0	0	0
+of Skill	100	1	1	25	60	31				1	50	oskill	Raven	2	3	regen		-5	-5							lcha	jewl									0	0	0
+of Skill	100	1	1	25	60	31				1	50	oskill	Plague Poppy	2	3	regen		-5	-5							lcha	jewl									0	0	0
+of Skill	100	1	1	25	60	31				1	50	oskill	Wearwolf	2	3	regen		-5	-5							lcha	jewl									0	0	0
+of Skill	100	1	1	25	60	31				1	50	oskill	Shape Shifting	2	3	regen		-5	-5							lcha	jewl									0	0	0
+of Skill	100	1	1	25	60	31				1	50	oskill	Firestorm	2	3	regen		-5	-5							lcha	jewl									0	0	0
+of Skill	100	1	1	25	60	31				1	50	oskill	Oak Sage	2	3	regen		-5	-5							lcha	jewl									0	0	0
+of Skill	100	1	1	25	60	31				1	50	oskill	Summon Spirit Wolf	2	3	regen		-5	-5							lcha	jewl									0	0	0
+of Skill	100	1	1	25	60	31				1	50	oskill	Wearbear	2	3	regen		-5	-5							lcha	jewl									0	0	0
+of Skill	100	1	1	25	60	31				1	50	oskill	Molten Boulder	2	3	regen		-5	-5							lcha	jewl									0	0	0
+of Skill	100	1	1	25	60	31				1	50	oskill	Arctic Blast	2	3	regen		-5	-5							lcha	jewl									0	0	0
+of Skill	100	1	1	25	60	31				1	50	oskill	Cycle of Life	2	3	regen		-5	-5							lcha	jewl									0	0	0
+of Skill	100	1	1	25	60	31				1	50	oskill	Feral Rage	2	3	regen		-5	-5							lcha	jewl									0	0	0
+of Skill	100	1	1	25	60	31				1	50	oskill	Maul	2	3	regen		-5	-5							lcha	jewl									0	0	0
+of Skill	100	1	1	25	60	31				1	50	oskill	Eruption	2	3	regen		-5	-5							lcha	jewl									0	0	0
+of Skill	100	1	1	25	60	31				1	50	oskill	Cyclone Armor	2	3	regen		-5	-5							lcha	jewl									0	0	0
+of Skill	100	1	1	25	60	31				1	50	oskill	Heart of Wolverine	2	3	regen		-5	-5							lcha	jewl									0	0	0
+of Skill	100	1	1	25	60	31				1	50	oskill	Summon Fenris	2	3	regen		-5	-5							lcha	jewl									0	0	0
+of Skill	100	1	1	25	60	31				1	50	oskill	Rabies	2	3	regen		-5	-5							lcha	jewl									0	0	0
+of Skill	100	1	1	25	60	31				1	50	oskill	Fire Claws	2	3	regen		-5	-5							lcha	jewl									0	0	0
+of Skill	100	1	1	25	60	31				1	50	oskill	Twister	2	3	regen		-5	-5							lcha	jewl									0	0	0
+of Skill	100	1	1	25	60	31				1	50	oskill	Vines	2	3	regen		-5	-5							lcha	jewl									0	0	0
+of Skill	100	1	1	25	60	31				1	50	oskill	Hunger	2	3	regen		-5	-5							lcha	jewl									0	0	0
+of Skill	100	1	1	25	60	31				1	50	oskill	Shock Wave	2	3	regen		-5	-5							lcha	jewl									0	0	0
+of Skill	100	1	1	25	60	31				1	50	oskill	Volcano	2	3	regen		-5	-5							lcha	jewl									0	0	0
+of Skill	100	1	1	25	60	31				1	50	oskill	Tornado	2	3	regen		-5	-5							lcha	jewl									0	0	0
+of Skill	100	1	1	25	60	31				1	50	oskill	Spirit of Barbs	2	3	regen		-5	-5							lcha	jewl									0	0	0
+of Skill	100	1	1	25	60	31				1	50	oskill	Summon Grizzly	2	3	regen		-5	-5							lcha	jewl									0	0	0
+of Skill	100	1	1	25	60	31				1	50	oskill	Fury	2	3	regen		-5	-5							lcha	jewl									0	0	0
+of Skill	100	1	1	25	60	31				1	50	oskill	Armageddon	2	3	regen		-5	-5							lcha	jewl									0	0	0
+of Skill	100	1	1	25	60	31				1	50	oskill	Hurricane	2	3	regen		-5	-5							lcha	jewl									0	0	0
+of Skill	100	1	1	25	60	31				1	50	oskill	Fire Trauma	2	3	regen		-5	-5							lcha	jewl									0	0	0
+of Skill	100	1	1	25	60	31				1	50	oskill	Claw Mastery	2	3	regen		-5	-5							lcha	jewl									0	0	0
+of Skill	100	1	1	25	60	31				1	50	oskill	Psychic Hammer	2	3	regen		-5	-5							lcha	jewl									0	0	0
+of Skill	100	1	1	25	60	31				1	50	oskill	Tiger Strike	2	3	regen		-5	-5							lcha	jewl									0	0	0
+of Skill	100	1	1	25	60	31				1	50	oskill	Dragon Talon	2	3	regen		-5	-5							lcha	jewl									0	0	0
+of Skill	100	1	1	25	60	31				1	50	oskill	Shock Field	2	3	regen		-5	-5							lcha	jewl									0	0	0
+of Skill	100	1	1	25	60	31				1	50	oskill	Blade Sentinel	2	3	regen		-5	-5							lcha	jewl									0	0	0
+of Skill	100	1	1	25	60	31				1	50	oskill	Quickness	2	3	regen		-5	-5							lcha	jewl									0	0	0
+of Skill	100	1	1	25	60	31				1	50	oskill	Fists of Fire	2	3	regen		-5	-5							lcha	jewl									0	0	0
+of Skill	100	1	1	25	60	31				1	50	oskill	Dragon Claw	2	3	regen		-5	-5							lcha	jewl									0	0	0
+of Skill	100	1	1	25	60	31				1	50	oskill	Charged Bolt Sentry	2	3	regen		-5	-5							lcha	jewl									0	0	0
+of Skill	100	1	1	25	60	31				1	50	oskill	Wake of Fire Sentry	2	3	regen		-5	-5							lcha	jewl									0	0	0
+of Skill	100	1	1	25	60	31				1	50	oskill	Weapon Block	2	3	regen		-5	-5							lcha	jewl									0	0	0
+of Skill	100	1	1	25	60	31				1	50	oskill	Cloak of Shadows	2	3	regen		-5	-5							lcha	jewl									0	0	0
+of Skill	100	1	1	25	60	31				1	50	oskill	Cobra Strike	2	3	regen		-5	-5							lcha	jewl									0	0	0
+of Skill	100	1	1	25	60	31				1	50	oskill	Blade Fury	2	3	regen		-5	-5							lcha	jewl									0	0	0
+of Skill	100	1	1	25	60	31				1	50	oskill	Fade	2	3	regen		-5	-5							lcha	jewl									0	0	0
+of Skill	100	1	1	25	60	31				1	50	oskill	Shadow Warrior	2	3	regen		-5	-5							lcha	jewl									0	0	0
+of Skill	100	1	1	25	60	31				1	50	oskill	Claws of Thunder	2	3	regen		-5	-5							lcha	jewl									0	0	0
+of Skill	100	1	1	25	60	31				1	50	oskill	Dragon Tail	2	3	regen		-5	-5							lcha	jewl									0	0	0
+of Skill	100	1	1	25	60	31				1	50	oskill	Lightning Sentry	2	3	regen		-5	-5							lcha	jewl									0	0	0
+of Skill	100	1	1	25	60	31				1	50	oskill	Inferno Sentry	2	3	regen		-5	-5							lcha	jewl									0	0	0
+of Skill	100	1	1	25	60	31				1	50	oskill	Mind Blast	2	3	regen		-5	-5							lcha	jewl									0	0	0
+of Skill	100	1	1	25	60	31				1	50	oskill	Blades of Ice	2	3	regen		-5	-5							lcha	jewl									0	0	0
+of Skill	100	1	1	25	60	31				1	50	oskill	Dragon Flight	2	3	regen		-5	-5							lcha	jewl									0	0	0
+of Skill	100	1	1	25	60	31				1	50	oskill	Death Sentry	2	3	regen		-5	-5							lcha	jewl									0	0	0
+of Skill	100	1	1	25	60	31				1	50	oskill	Blade Shield	2	3	regen		-5	-5							lcha	jewl									0	0	0
+of Skill	100	1	1	25	60	31				1	50	oskill	Venom	2	3	regen		-5	-5							lcha	jewl									0	0	0
+of Skill	100	1	1	25	60	31				1	50	oskill	Shadow Master	2	3	regen		-5	-5							lcha	jewl									0	0	0
+of Skill	100	1	1	25	60	31				1	50	oskill	Royal Strike	2	3	regen		-5	-5							lcha	jewl									0	0	0
 																																						
-of Skill	100	1	1	50	80	61				1	50	oskill	Magic Arrow	1	6											lcha	jewl									0	0	0
-of Skill	100	1	1	50	80	61				1	50	oskill	Fire Arrow	1	6											lcha	jewl									0	0	0
-of Skill	100	1	1	50	80	61				1	50	oskill	Inner Sight	1	6											lcha	jewl									0	0	0
-of Skill	100	1	1	50	80	61				1	50	oskill	Critical Strike	1	6											lcha	jewl									0	0	0
-of Skill	100	1	1	50	80	61				1	50	oskill	Jab	1	6											lcha	jewl									0	0	0
-of Skill	100	1	1	50	80	61				1	50	oskill	Cold Arrow	1	6											lcha	jewl									0	0	0
-of Skill	100	1	1	50	80	61				1	50	oskill	Multiple Shot	1	6											lcha	jewl									0	0	0
-of Skill	100	1	1	50	80	61				1	50	oskill	Dodge	1	6											lcha	jewl									0	0	0
-of Skill	100	1	1	50	80	61				1	50	oskill	Power Strike	1	6											lcha	jewl									0	0	0
-of Skill	100	1	1	50	80	61				1	50	oskill	Poison Javelin	1	6											lcha	jewl									0	0	0
-of Skill	100	1	1	50	80	61				1	50	oskill	Exploding Arrow	1	6											lcha	jewl									0	0	0
-of Skill	100	1	1	50	80	61				1	50	oskill	Slow Missiles	1	6											lcha	jewl									0	0	0
-of Skill	100	1	1	50	80	61				1	50	oskill	Avoid	1	6											lcha	jewl									0	0	0
-of Skill	100	1	1	50	80	61				1	50	oskill	Impale	1	6											lcha	jewl									0	0	0
-of Skill	100	1	1	50	80	61				1	50	oskill	Lightning Bolt	1	6											lcha	jewl									0	0	0
-of Skill	100	1	1	50	80	61				1	50	oskill	Ice Arrow	1	6											lcha	jewl									0	0	0
-of Skill	100	1	1	50	80	61				1	50	oskill	Guided Arrow	1	6											lcha	jewl									0	0	0
-of Skill	100	1	1	50	80	61				1	50	oskill	Penetrate	1	6											lcha	jewl									0	0	0
-of Skill	100	1	1	50	80	61				1	50	oskill	Charged Strike	1	6											lcha	jewl									0	0	0
-of Skill	100	1	1	50	80	61				1	50	oskill	Plague Javelin	1	6											lcha	jewl									0	0	0
-of Skill	100	1	1	50	80	61				1	50	oskill	Strafe	1	6											lcha	jewl									0	0	0
-of Skill	100	1	1	50	80	61				1	50	oskill	Immolation Arrow	1	6											lcha	jewl									0	0	0
-of Skill	100	1	1	50	80	61				1	50	oskill	Dopplezon	1	6											lcha	jewl									0	0	0
-of Skill	100	1	1	50	80	61				1	50	oskill	Evade	1	6											lcha	jewl									0	0	0
-of Skill	100	1	1	50	80	61				1	50	oskill	Fend	1	6											lcha	jewl									0	0	0
-of Skill	100	1	1	50	80	61				1	50	oskill	Freezing Arrow	1	6											lcha	jewl									0	0	0
-of Skill	100	1	1	50	80	61				1	50	oskill	Valkyrie	1	6											lcha	jewl									0	0	0
-of Skill	100	1	1	50	80	61				1	50	oskill	Pierce	1	6											lcha	jewl									0	0	0
-of Skill	100	1	1	50	80	61				1	50	oskill	Lightning Strike	1	6											lcha	jewl									0	0	0
-of Skill	100	1	1	50	80	61				1	50	oskill	Lightning Fury	1	6											lcha	jewl									0	0	0
-of Skill	100	1	1	50	80	61				1	50	oskill	Fire Bolt	1	6											lcha	jewl									0	0	0
-of Skill	100	1	1	50	80	61				1	50	oskill	Warmth	1	6											lcha	jewl									0	0	0
-of Skill	100	1	1	50	80	61				1	50	oskill	Charged Bolt	1	6											lcha	jewl									0	0	0
-of Skill	100	1	1	50	80	61				1	50	oskill	Ice Bolt	1	6											lcha	jewl									0	0	0
-of Skill	100	1	1	50	80	61				1	50	oskill	Frozen Armor	1	6											lcha	jewl									0	0	0
-of Skill	100	1	1	50	80	61				1	50	oskill	Inferno	1	6											lcha	jewl									0	0	0
-of Skill	100	1	1	50	80	61				1	50	oskill	Static Field	1	6											lcha	jewl									0	0	0
-of Skill	100	1	1	50	80	61				1	50	oskill	Telekinesis	1	6											lcha	jewl									0	0	0
-of Skill	100	1	1	50	80	61				1	50	oskill	Frost Nova	1	6											lcha	jewl									0	0	0
-of Skill	100	1	1	50	80	61				1	50	oskill	Ice Blast	1	6											lcha	jewl									0	0	0
-of Skill	100	1	1	50	80	61				1	50	oskill	Blaze	1	6											lcha	jewl									0	0	0
-of Skill	100	1	1	50	80	61				1	50	oskill	Fire Ball	1	6											lcha	jewl									0	0	0
-of Skill	100	1	1	50	80	61				1	50	oskill	Nova	1	6											lcha	jewl									0	0	0
-of Skill	100	1	1	50	80	61				1	50	oskill	Lightning	1	6											lcha	jewl									0	0	0
-of Skill	100	1	1	50	80	61				1	50	oskill	Shiver Armor	1	6											lcha	jewl									0	0	0
-of Skill	100	1	1	50	80	61				1	50	oskill	Fire Wall	1	6											lcha	jewl									0	0	0
-of Skill	100	1	1	50	80	61				1	50	oskill	Enchant	1	6											lcha	jewl									0	0	0
-of Skill	100	1	1	50	80	61				1	50	oskill	Chain Lightning	1	6											lcha	jewl									0	0	0
-of Skill	100	1	1	50	80	61				1	50	oskill	Teleport	1	6											lcha	jewl									0	0	0
-of Skill	100	1	1	50	80	61				1	50	oskill	Glacial Spike	1	6											lcha	jewl									0	0	0
-of Skill	100	1	1	50	80	61				1	50	oskill	Meteor	1	6											lcha	jewl									0	0	0
-of Skill	100	1	1	50	80	61				1	50	oskill	Thunder Storm	1	6											lcha	jewl									0	0	0
-of Skill	100	1	1	50	80	61				1	50	oskill	Energy Shield	1	6											lcha	jewl									0	0	0
-of Skill	100	1	1	50	80	61				1	50	oskill	Blizzard	1	6											lcha	jewl									0	0	0
-of Skill	100	1	1	50	80	61				1	50	oskill	Chilling Armor	1	6											lcha	jewl									0	0	0
-of Skill	100	1	1	50	80	61				1	50	oskill	Fire Mastery	1	6											lcha	jewl									0	0	0
-of Skill	100	1	1	50	80	61				1	50	oskill	Hydra	1	6											lcha	jewl									0	0	0
-of Skill	100	1	1	50	80	61				1	50	oskill	Lightning Mastery	1	6											lcha	jewl									0	0	0
-of Skill	100	1	1	50	80	61				1	50	oskill	Frozen Orb	1	6											lcha	jewl									0	0	0
-of Skill	100	1	1	50	80	61				1	50	oskill	Cold Mastery	1	6											lcha	jewl									0	0	0
-of Skill	100	1	1	50	80	61				1	50	oskill	Amplify Damage	1	6											lcha	jewl									0	0	0
-of Skill	100	1	1	50	80	61				1	50	oskill	Teeth	1	6											lcha	jewl									0	0	0
-of Skill	100	1	1	50	80	61				1	50	oskill	Bone Armor	1	6											lcha	jewl									0	0	0
-of Skill	100	1	1	50	80	61				1	50	oskill	Skeleton Mastery	1	6											lcha	jewl									0	0	0
-of Skill	100	1	1	50	80	61				1	50	oskill	Raise Skeleton	1	6											lcha	jewl									0	0	0
-of Skill	100	1	1	50	80	61				1	50	oskill	Dim Vision	1	6											lcha	jewl									0	0	0
-of Skill	100	1	1	50	80	61				1	50	oskill	Weaken	1	6											lcha	jewl									0	0	0
-of Skill	100	1	1	50	80	61				1	50	oskill	Poison Dagger	1	6											lcha	jewl									0	0	0
-of Skill	100	1	1	50	80	61				1	50	oskill	Corpse Explosion	1	6											lcha	jewl									0	0	0
-of Skill	100	1	1	50	80	61				1	50	oskill	Clay Golem	1	6											lcha	jewl									0	0	0
-of Skill	100	1	1	50	80	61				1	50	oskill	Iron Maiden	1	6											lcha	jewl									0	0	0
-of Skill	100	1	1	50	80	61				1	50	oskill	Terror	1	6											lcha	jewl									0	0	0
-of Skill	100	1	1	50	80	61				1	50	oskill	Bone Wall	1	6											lcha	jewl									0	0	0
-of Skill	100	1	1	50	80	61				1	50	oskill	Golem Mastery	1	6											lcha	jewl									0	0	0
-of Skill	100	1	1	50	80	61				1	50	oskill	Raise Skeletal Mage	1	6											lcha	jewl									0	0	0
-of Skill	100	1	1	50	80	61				1	50	oskill	Confuse	1	6											lcha	jewl									0	0	0
-of Skill	100	1	1	50	80	61				1	50	oskill	Life Tap	1	6											lcha	jewl									0	0	0
-of Skill	100	1	1	50	80	61				1	50	oskill	Poison Explosion	1	6											lcha	jewl									0	0	0
-of Skill	100	1	1	50	80	61				1	50	oskill	Bone Spear	1	6											lcha	jewl									0	0	0
-of Skill	100	1	1	50	80	61				1	50	oskill	BloodGolem	1	6											lcha	jewl									0	0	0
-of Skill	100	1	1	50	80	61				1	50	oskill	Attract	1	6											lcha	jewl									0	0	0
-of Skill	100	1	1	50	80	61				1	50	oskill	Decrepify	1	6											lcha	jewl									0	0	0
-of Skill	100	1	1	50	80	61				1	50	oskill	Bone Prison	1	6											lcha	jewl									0	0	0
-of Skill	100	1	1	50	80	61				1	50	oskill	Summon Resist	1	6											lcha	jewl									0	0	0
-of Skill	100	1	1	50	80	61				1	50	oskill	IronGolem	1	6											lcha	jewl									0	0	0
-of Skill	100	1	1	50	80	61				1	50	oskill	Lower Resist	1	6											lcha	jewl									0	0	0
-of Skill	100	1	1	50	80	61				1	50	oskill	Poison Nova	1	6											lcha	jewl									0	0	0
-of Skill	100	1	1	50	80	61				1	50	oskill	Bone Spirit	1	6											lcha	jewl									0	0	0
-of Skill	100	1	1	50	80	61				1	50	oskill	FireGolem	1	6											lcha	jewl									0	0	0
-of Skill	100	1	1	50	80	61				1	50	oskill	Revive	1	6											lcha	jewl									0	0	0
-of Skill	100	1	1	50	80	61				1	50	oskill	Sacrifice	1	6											lcha	jewl									0	0	0
-of Skill	100	1	1	50	80	61				1	50	oskill	Smite	1	6											lcha	jewl									0	0	0
-of Skill	100	1	1	50	80	61				1	50	oskill	Might	1	6											lcha	jewl									0	0	0
-of Skill	100	1	1	50	80	61				1	50	oskill	Prayer	1	6											lcha	jewl									0	0	0
-of Skill	100	1	1	50	80	61				1	50	oskill	Resist Fire	1	6											lcha	jewl									0	0	0
-of Skill	100	1	1	50	80	61				1	50	oskill	Holy Bolt	1	6											lcha	jewl									0	0	0
-of Skill	100	1	1	50	80	61				1	50	oskill	Holy Fire	1	6											lcha	jewl									0	0	0
-of Skill	100	1	1	50	80	61				1	50	oskill	Thorns	1	6											lcha	jewl									0	0	0
-of Skill	100	1	1	50	80	61				1	50	oskill	Defiance	1	6											lcha	jewl									0	0	0
-of Skill	100	1	1	50	80	61				1	50	oskill	Resist Cold	1	6											lcha	jewl									0	0	0
-of Skill	100	1	1	50	80	61				1	50	oskill	Zeal	1	6											lcha	jewl									0	0	0
-of Skill	100	1	1	50	80	61				1	50	oskill	Charge	1	6											lcha	jewl									0	0	0
-of Skill	100	1	1	50	80	61				1	50	oskill	Blessed Aim	1	6											lcha	jewl									0	0	0
-of Skill	100	1	1	50	80	61				1	50	oskill	Cleansing	1	6											lcha	jewl									0	0	0
-of Skill	100	1	1	50	80	61				1	50	oskill	Resist Lightning	1	6											lcha	jewl									0	0	0
-of Skill	100	1	1	50	80	61				1	50	oskill	Vengeance	1	6											lcha	jewl									0	0	0
-of Skill	100	1	1	50	80	61				1	50	oskill	Blessed Hammer	1	6											lcha	jewl									0	0	0
-of Skill	100	1	1	50	80	61				1	50	oskill	Concentration	1	6											lcha	jewl									0	0	0
-of Skill	100	1	1	50	80	61				1	50	oskill	Holy Freeze	1	6											lcha	jewl									0	0	0
-of Skill	100	1	1	50	80	61				1	50	oskill	Vigor	1	6											lcha	jewl									0	0	0
-of Skill	100	1	1	50	80	61				1	50	oskill	Conversion	1	6											lcha	jewl									0	0	0
-of Skill	100	1	1	50	80	61				1	50	oskill	Holy Shield	1	6											lcha	jewl									0	0	0
-of Skill	100	1	1	50	80	61				1	50	oskill	Holy Shock	1	6											lcha	jewl									0	0	0
-of Skill	100	1	1	50	80	61				1	50	oskill	Sanctuary	1	6											lcha	jewl									0	0	0
-of Skill	100	1	1	50	80	61				1	50	oskill	Meditation	1	6											lcha	jewl									0	0	0
-of Skill	100	1	1	50	80	61				1	50	oskill	Fist of the Heavens	1	6											lcha	jewl									0	0	0
-of Skill	100	1	1	50	80	61				1	50	oskill	Fanaticism	1	6											lcha	jewl									0	0	0
-of Skill	100	1	1	50	80	61				1	50	oskill	Conviction	1	6											lcha	jewl									0	0	0
-of Skill	100	1	1	50	80	61				1	50	oskill	Redemption	1	6											lcha	jewl									0	0	0
-of Skill	100	1	1	50	80	61				1	50	oskill	Salvation	1	6											lcha	jewl									0	0	0
-of Skill	100	1	1	50	80	61				1	50	oskill	Bash	1	6											lcha	jewl									0	0	0
-of Skill	100	1	1	50	80	61				1	50	oskill	Sword Mastery	1	6											lcha	jewl									0	0	0
-of Skill	100	1	1	50	80	61				1	50	oskill	Axe Mastery	1	6											lcha	jewl									0	0	0
-of Skill	100	1	1	50	80	61				1	50	oskill	Mace Mastery	1	6											lcha	jewl									0	0	0
-of Skill	100	1	1	50	80	61				1	50	oskill	Howl	1	6											lcha	jewl									0	0	0
-of Skill	100	1	1	50	80	61				1	50	oskill	Find Potion	1	6											lcha	jewl									0	0	0
-of Skill	100	1	1	50	80	61				1	50	oskill	Leap	1	6											lcha	jewl									0	0	0
-of Skill	100	1	1	50	80	61				1	50	oskill	Double Swing	1	6											lcha	jewl									0	0	0
-of Skill	100	1	1	50	80	61				1	50	oskill	Pole Arm Mastery	1	6											lcha	jewl									0	0	0
-of Skill	100	1	1	50	80	61				1	50	oskill	Throwing Mastery	1	6											lcha	jewl									0	0	0
-of Skill	100	1	1	50	80	61				1	50	oskill	Spear Mastery	1	6											lcha	jewl									0	0	0
-of Skill	100	1	1	50	80	61				1	50	oskill	Taunt	1	6											lcha	jewl									0	0	0
-of Skill	100	1	1	50	80	61				1	50	oskill	Shout	1	6											lcha	jewl									0	0	0
-of Skill	100	1	1	50	80	61				1	50	oskill	Stun	1	6											lcha	jewl									0	0	0
-of Skill	100	1	1	50	80	61				1	50	oskill	Double Throw	1	6											lcha	jewl									0	0	0
-of Skill	100	1	1	50	80	61				1	50	oskill	Increased Stamina	1	6											lcha	jewl									0	0	0
-of Skill	100	1	1	50	80	61				1	50	oskill	Find Item	1	6											lcha	jewl									0	0	0
-of Skill	100	1	1	50	80	61				1	50	oskill	Leap Attack	1	6											lcha	jewl									0	0	0
-of Skill	100	1	1	50	80	61				1	50	oskill	Concentrate	1	6											lcha	jewl									0	0	0
-of Skill	100	1	1	50	80	61				1	50	oskill	Iron Skin	1	6											lcha	jewl									0	0	0
-of Skill	100	1	1	50	80	61				1	50	oskill	Battle Cry	1	6											lcha	jewl									0	0	0
-of Skill	100	1	1	50	80	61				1	50	oskill	Frenzy	1	6											lcha	jewl									0	0	0
-of Skill	100	1	1	50	80	61				1	50	oskill	Increased Speed	1	6											lcha	jewl									0	0	0
-of Skill	100	1	1	50	80	61				1	50	oskill	Battle Orders	1	6											lcha	jewl									0	0	0
-of Skill	100	1	1	50	80	61				1	50	oskill	Grim Ward	1	6											lcha	jewl									0	0	0
-of Skill	100	1	1	50	80	61				1	50	oskill	Whirlwind	1	6											lcha	jewl									0	0	0
-of Skill	100	1	1	50	80	61				1	50	oskill	Berserk	1	6											lcha	jewl									0	0	0
-of Skill	100	1	1	50	80	61				1	50	oskill	Natural Resistance	1	6											lcha	jewl									0	0	0
-of Skill	100	1	1	50	80	61				1	50	oskill	War Cry	1	6											lcha	jewl									0	0	0
-of Skill	100	1	1	50	80	61				1	50	oskill	Battle Command	1	6											lcha	jewl									0	0	0
-of Skill	100	1	1	50	80	61				1	50	oskill	Raven	1	6											lcha	jewl									0	0	0
-of Skill	100	1	1	50	80	61				1	50	oskill	Plague Poppy	1	6											lcha	jewl									0	0	0
-of Skill	100	1	1	50	80	61				1	50	oskill	Wearwolf	1	6											lcha	jewl									0	0	0
-of Skill	100	1	1	50	80	61				1	50	oskill	Shape Shifting	1	6											lcha	jewl									0	0	0
-of Skill	100	1	1	50	80	61				1	50	oskill	Firestorm	1	6											lcha	jewl									0	0	0
-of Skill	100	1	1	50	80	61				1	50	oskill	Oak Sage	1	6											lcha	jewl									0	0	0
-of Skill	100	1	1	50	80	61				1	50	oskill	Summon Spirit Wolf	1	6											lcha	jewl									0	0	0
-of Skill	100	1	1	50	80	61				1	50	oskill	Wearbear	1	6											lcha	jewl									0	0	0
-of Skill	100	1	1	50	80	61				1	50	oskill	Molten Boulder	1	6											lcha	jewl									0	0	0
-of Skill	100	1	1	50	80	61				1	50	oskill	Arctic Blast	1	6											lcha	jewl									0	0	0
-of Skill	100	1	1	50	80	61				1	50	oskill	Cycle of Life	1	6											lcha	jewl									0	0	0
-of Skill	100	1	1	50	80	61				1	50	oskill	Feral Rage	1	6											lcha	jewl									0	0	0
-of Skill	100	1	1	50	80	61				1	50	oskill	Maul	1	6											lcha	jewl									0	0	0
-of Skill	100	1	1	50	80	61				1	50	oskill	Eruption	1	6											lcha	jewl									0	0	0
-of Skill	100	1	1	50	80	61				1	50	oskill	Cyclone Armor	1	6											lcha	jewl									0	0	0
-of Skill	100	1	1	50	80	61				1	50	oskill	Heart of Wolverine	1	6											lcha	jewl									0	0	0
-of Skill	100	1	1	50	80	61				1	50	oskill	Summon Fenris	1	6											lcha	jewl									0	0	0
-of Skill	100	1	1	50	80	61				1	50	oskill	Rabies	1	6											lcha	jewl									0	0	0
-of Skill	100	1	1	50	80	61				1	50	oskill	Fire Claws	1	6											lcha	jewl									0	0	0
-of Skill	100	1	1	50	80	61				1	50	oskill	Twister	1	6											lcha	jewl									0	0	0
-of Skill	100	1	1	50	80	61				1	50	oskill	Vines	1	6											lcha	jewl									0	0	0
-of Skill	100	1	1	50	80	61				1	50	oskill	Hunger	1	6											lcha	jewl									0	0	0
-of Skill	100	1	1	50	80	61				1	50	oskill	Shock Wave	1	6											lcha	jewl									0	0	0
-of Skill	100	1	1	50	80	61				1	50	oskill	Volcano	1	6											lcha	jewl									0	0	0
-of Skill	100	1	1	50	80	61				1	50	oskill	Tornado	1	6											lcha	jewl									0	0	0
-of Skill	100	1	1	50	80	61				1	50	oskill	Spirit of Barbs	1	6											lcha	jewl									0	0	0
-of Skill	100	1	1	50	80	61				1	50	oskill	Summon Grizzly	1	6											lcha	jewl									0	0	0
-of Skill	100	1	1	50	80	61				1	50	oskill	Fury	1	6											lcha	jewl									0	0	0
-of Skill	100	1	1	50	80	61				1	50	oskill	Armageddon	1	6											lcha	jewl									0	0	0
-of Skill	100	1	1	50	80	61				1	50	oskill	Hurricane	1	6											lcha	jewl									0	0	0
-of Skill	100	1	1	50	80	61				1	50	oskill	Fire Trauma	1	6											lcha	jewl									0	0	0
-of Skill	100	1	1	50	80	61				1	50	oskill	Claw Mastery	1	6											lcha	jewl									0	0	0
-of Skill	100	1	1	50	80	61				1	50	oskill	Psychic Hammer	1	6											lcha	jewl									0	0	0
-of Skill	100	1	1	50	80	61				1	50	oskill	Tiger Strike	1	6											lcha	jewl									0	0	0
-of Skill	100	1	1	50	80	61				1	50	oskill	Dragon Talon	1	6											lcha	jewl									0	0	0
-of Skill	100	1	1	50	80	61				1	50	oskill	Shock Field	1	6											lcha	jewl									0	0	0
-of Skill	100	1	1	50	80	61				1	50	oskill	Blade Sentinel	1	6											lcha	jewl									0	0	0
-of Skill	100	1	1	50	80	61				1	50	oskill	Quickness	1	6											lcha	jewl									0	0	0
-of Skill	100	1	1	50	80	61				1	50	oskill	Fists of Fire	1	6											lcha	jewl									0	0	0
-of Skill	100	1	1	50	80	61				1	50	oskill	Dragon Claw	1	6											lcha	jewl									0	0	0
-of Skill	100	1	1	50	80	61				1	50	oskill	Charged Bolt Sentry	1	6											lcha	jewl									0	0	0
-of Skill	100	1	1	50	80	61				1	50	oskill	Wake of Fire Sentry	1	6											lcha	jewl									0	0	0
-of Skill	100	1	1	50	80	61				1	50	oskill	Weapon Block	1	6											lcha	jewl									0	0	0
-of Skill	100	1	1	50	80	61				1	50	oskill	Cloak of Shadows	1	6											lcha	jewl									0	0	0
-of Skill	100	1	1	50	80	61				1	50	oskill	Cobra Strike	1	6											lcha	jewl									0	0	0
-of Skill	100	1	1	50	80	61				1	50	oskill	Blade Fury	1	6											lcha	jewl									0	0	0
-of Skill	100	1	1	50	80	61				1	50	oskill	Fade	1	6											lcha	jewl									0	0	0
-of Skill	100	1	1	50	80	61				1	50	oskill	Shadow Warrior	1	6											lcha	jewl									0	0	0
-of Skill	100	1	1	50	80	61				1	50	oskill	Claws of Thunder	1	6											lcha	jewl									0	0	0
-of Skill	100	1	1	50	80	61				1	50	oskill	Dragon Tail	1	6											lcha	jewl									0	0	0
-of Skill	100	1	1	50	80	61				1	50	oskill	Lightning Sentry	1	6											lcha	jewl									0	0	0
-of Skill	100	1	1	50	80	61				1	50	oskill	Inferno Sentry	1	6											lcha	jewl									0	0	0
-of Skill	100	1	1	50	80	61				1	50	oskill	Mind Blast	1	6											lcha	jewl									0	0	0
-of Skill	100	1	1	50	80	61				1	50	oskill	Blades of Ice	1	6											lcha	jewl									0	0	0
-of Skill	100	1	1	50	80	61				1	50	oskill	Dragon Flight	1	6											lcha	jewl									0	0	0
-of Skill	100	1	1	50	80	61				1	50	oskill	Death Sentry	1	6											lcha	jewl									0	0	0
-of Skill	100	1	1	50	80	61				1	50	oskill	Blade Shield	1	6											lcha	jewl									0	0	0
-of Skill	100	1	1	50	80	61				1	50	oskill	Venom	1	6											lcha	jewl									0	0	0
-of Skill	100	1	1	50	80	61				1	50	oskill	Shadow Master	1	6											lcha	jewl									0	0	0
-of Skill	100	1	1	50	80	61				1	50	oskill	Royal Strike	1	6											lcha	jewl									0	0	0
+of Skill	100	1	1	50	80	61				1	50	oskill	Magic Arrow	3	6	regen		-8	-8							lcha	jewl									0	0	0
+of Skill	100	1	1	50	80	61				1	50	oskill	Fire Arrow	3	6	regen		-8	-8							lcha	jewl									0	0	0
+of Skill	100	1	1	50	80	61				1	50	oskill	Inner Sight	3	6	regen		-8	-8							lcha	jewl									0	0	0
+of Skill	100	1	1	50	80	61				1	50	oskill	Critical Strike	3	6	regen		-8	-8							lcha	jewl									0	0	0
+of Skill	100	1	1	50	80	61				1	50	oskill	Jab	3	6	regen		-8	-8							lcha	jewl									0	0	0
+of Skill	100	1	1	50	80	61				1	50	oskill	Cold Arrow	3	6	regen		-8	-8							lcha	jewl									0	0	0
+of Skill	100	1	1	50	80	61				1	50	oskill	Multiple Shot	3	6	regen		-8	-8							lcha	jewl									0	0	0
+of Skill	100	1	1	50	80	61				1	50	oskill	Dodge	3	6	regen		-8	-8							lcha	jewl									0	0	0
+of Skill	100	1	1	50	80	61				1	50	oskill	Power Strike	3	6	regen		-8	-8							lcha	jewl									0	0	0
+of Skill	100	1	1	50	80	61				1	50	oskill	Poison Javelin	3	6	regen		-8	-8							lcha	jewl									0	0	0
+of Skill	100	1	1	50	80	61				1	50	oskill	Exploding Arrow	3	6	regen		-8	-8							lcha	jewl									0	0	0
+of Skill	100	1	1	50	80	61				1	50	oskill	Slow Missiles	3	6	regen		-8	-8							lcha	jewl									0	0	0
+of Skill	100	1	1	50	80	61				1	50	oskill	Avoid	3	6	regen		-8	-8							lcha	jewl									0	0	0
+of Skill	100	1	1	50	80	61				1	50	oskill	Impale	3	6	regen		-8	-8							lcha	jewl									0	0	0
+of Skill	100	1	1	50	80	61				1	50	oskill	Lightning Bolt	3	6	regen		-8	-8							lcha	jewl									0	0	0
+of Skill	100	1	1	50	80	61				1	50	oskill	Ice Arrow	3	6	regen		-8	-8							lcha	jewl									0	0	0
+of Skill	100	1	1	50	80	61				1	50	oskill	Guided Arrow	3	6	regen		-8	-8							lcha	jewl									0	0	0
+of Skill	100	1	1	50	80	61				1	50	oskill	Penetrate	3	6	regen		-8	-8							lcha	jewl									0	0	0
+of Skill	100	1	1	50	80	61				1	50	oskill	Charged Strike	3	6	regen		-8	-8							lcha	jewl									0	0	0
+of Skill	100	1	1	50	80	61				1	50	oskill	Plague Javelin	3	6	regen		-8	-8							lcha	jewl									0	0	0
+of Skill	100	1	1	50	80	61				1	50	oskill	Strafe	3	6	regen		-8	-8							lcha	jewl									0	0	0
+of Skill	100	1	1	50	80	61				1	50	oskill	Immolation Arrow	3	6	regen		-8	-8							lcha	jewl									0	0	0
+of Skill	100	1	1	50	80	61				1	50	oskill	Dopplezon	3	6	regen		-8	-8							lcha	jewl									0	0	0
+of Skill	100	1	1	50	80	61				1	50	oskill	Evade	3	6	regen		-8	-8							lcha	jewl									0	0	0
+of Skill	100	1	1	50	80	61				1	50	oskill	Fend	3	6	regen		-8	-8							lcha	jewl									0	0	0
+of Skill	100	1	1	50	80	61				1	50	oskill	Freezing Arrow	3	6	regen		-8	-8							lcha	jewl									0	0	0
+of Skill	100	1	1	50	80	61				1	50	oskill	Valkyrie	3	6	regen		-8	-8							lcha	jewl									0	0	0
+of Skill	100	1	1	50	80	61				1	50	oskill	Pierce	3	6	regen		-8	-8							lcha	jewl									0	0	0
+of Skill	100	1	1	50	80	61				1	50	oskill	Lightning Strike	3	6	regen		-8	-8							lcha	jewl									0	0	0
+of Skill	100	1	1	50	80	61				1	50	oskill	Lightning Fury	3	6	regen		-8	-8							lcha	jewl									0	0	0
+of Skill	100	1	1	50	80	61				1	50	oskill	Fire Bolt	3	6	regen		-8	-8							lcha	jewl									0	0	0
+of Skill	100	1	1	50	80	61				1	50	oskill	Warmth	3	6	regen		-8	-8							lcha	jewl									0	0	0
+of Skill	100	1	1	50	80	61				1	50	oskill	Charged Bolt	3	6	regen		-8	-8							lcha	jewl									0	0	0
+of Skill	100	1	1	50	80	61				1	50	oskill	Ice Bolt	3	6	regen		-8	-8							lcha	jewl									0	0	0
+of Skill	100	1	1	50	80	61				1	50	oskill	Frozen Armor	3	6	regen		-8	-8							lcha	jewl									0	0	0
+of Skill	100	1	1	50	80	61				1	50	oskill	Inferno	3	6	regen		-8	-8							lcha	jewl									0	0	0
+of Skill	100	1	1	50	80	61				1	50	oskill	Static Field	3	6	regen		-11	-11							lcha	jewl									0	0	0
+of Skill	100	1	1	50	80	61				1	50	oskill	Telekinesis	3	6	regen		-8	-8							lcha	jewl									0	0	0
+of Skill	100	1	1	50	80	61				1	50	oskill	Frost Nova	3	6	regen		-8	-8							lcha	jewl									0	0	0
+of Skill	100	1	1	50	80	61				1	50	oskill	Ice Blast	3	6	regen		-8	-8							lcha	jewl									0	0	0
+of Skill	100	1	1	50	80	61				1	50	oskill	Blaze	3	6	regen		-8	-8							lcha	jewl									0	0	0
+of Skill	100	1	1	50	80	61				1	50	oskill	Fire Ball	3	6	regen		-8	-8							lcha	jewl									0	0	0
+of Skill	100	1	1	50	80	61				1	50	oskill	Nova	3	6	regen		-8	-8							lcha	jewl									0	0	0
+of Skill	100	1	1	50	80	61				1	50	oskill	Lightning	3	6	regen		-8	-8							lcha	jewl									0	0	0
+of Skill	100	1	1	50	80	61				1	50	oskill	Shiver Armor	3	6	regen		-8	-8							lcha	jewl									0	0	0
+of Skill	100	1	1	50	80	61				1	50	oskill	Fire Wall	3	6	regen		-8	-8							lcha	jewl									0	0	0
+of Skill	100	1	1	50	80	61				1	50	oskill	Enchant	3	6	regen		-8	-8							lcha	jewl									0	0	0
+of Skill	100	1	1	50	80	61				1	50	oskill	Chain Lightning	3	6	regen		-8	-8							lcha	jewl									0	0	0
+of Skill	100	1	1	50	80	61				1	50	oskill	Teleport	3	6	regen		-11	-11							lcha	jewl									0	0	0
+of Skill	100	1	1	50	80	61				1	50	oskill	Glacial Spike	3	6	regen		-8	-8							lcha	jewl									0	0	0
+of Skill	100	1	1	50	80	61				1	50	oskill	Meteor	3	6	regen		-8	-8							lcha	jewl									0	0	0
+of Skill	100	1	1	50	80	61				1	50	oskill	Thunder Storm	3	6	regen		-8	-8							lcha	jewl									0	0	0
+of Skill	100	1	1	50	80	61				1	50	oskill	Energy Shield	3	6	regen		-8	-8							lcha	jewl									0	0	0
+of Skill	100	1	1	50	80	61				1	50	oskill	Blizzard	3	6	regen		-8	-8							lcha	jewl									0	0	0
+of Skill	100	1	1	50	80	61				1	50	oskill	Chilling Armor	3	6	regen		-8	-8							lcha	jewl									0	0	0
+of Skill	100	1	1	50	80	61				1	50	oskill	Fire Mastery	3	6	regen		-8	-8							lcha	jewl									0	0	0
+of Skill	100	1	1	50	80	61				1	50	oskill	Hydra	3	6	regen		-8	-8							lcha	jewl									0	0	0
+of Skill	100	1	1	50	80	61				1	50	oskill	Lightning Mastery	3	6	regen		-8	-8							lcha	jewl									0	0	0
+of Skill	100	1	1	50	80	61				1	50	oskill	Frozen Orb	3	6	regen		-8	-8							lcha	jewl									0	0	0
+of Skill	100	1	1	50	80	61				1	50	oskill	Cold Mastery	3	6	regen		-8	-8							lcha	jewl									0	0	0
+of Skill	100	1	1	50	80	61				1	50	oskill	Amplify Damage	3	6	regen		-8	-8							lcha	jewl									0	0	0
+of Skill	100	1	1	50	80	61				1	50	oskill	Teeth	3	6	regen		-8	-8							lcha	jewl									0	0	0
+of Skill	100	1	1	50	80	61				1	50	oskill	Bone Armor	3	6	regen		-8	-8							lcha	jewl									0	0	0
+of Skill	100	1	1	50	80	61				1	50	oskill	Skeleton Mastery	3	6	regen		-8	-8							lcha	jewl									0	0	0
+of Skill	100	1	1	50	80	61				1	50	oskill	Raise Skeleton	3	6	regen		-8	-8							lcha	jewl									0	0	0
+of Skill	100	1	1	50	80	61				1	50	oskill	Dim Vision	3	6	regen		-8	-8							lcha	jewl									0	0	0
+of Skill	100	1	1	50	80	61				1	50	oskill	Weaken	3	6	regen		-8	-8							lcha	jewl									0	0	0
+of Skill	100	1	1	50	80	61				1	50	oskill	Poison Dagger	3	6	regen		-8	-8							lcha	jewl									0	0	0
+of Skill	100	1	1	50	80	61				1	50	oskill	Corpse Explosion	3	6	regen		-8	-8							lcha	jewl									0	0	0
+of Skill	100	1	1	50	80	61				1	50	oskill	Clay Golem	3	6	regen		-8	-8							lcha	jewl									0	0	0
+of Skill	100	1	1	50	80	61				1	50	oskill	Iron Maiden	3	6	regen		-8	-8							lcha	jewl									0	0	0
+of Skill	100	1	1	50	80	61				1	50	oskill	Terror	3	6	regen		-8	-8							lcha	jewl									0	0	0
+of Skill	100	1	1	50	80	61				1	50	oskill	Bone Wall	3	6	regen		-8	-8							lcha	jewl									0	0	0
+of Skill	100	1	1	50	80	61				1	50	oskill	Golem Mastery	3	6	regen		-8	-8							lcha	jewl									0	0	0
+of Skill	100	1	1	50	80	61				1	50	oskill	Raise Skeletal Mage	3	6	regen		-8	-8							lcha	jewl									0	0	0
+of Skill	100	1	1	50	80	61				1	50	oskill	Confuse	3	6	regen		-8	-8							lcha	jewl									0	0	0
+of Skill	100	1	1	50	80	61				1	50	oskill	Life Tap	3	6	regen		-8	-8							lcha	jewl									0	0	0
+of Skill	100	1	1	50	80	61				1	50	oskill	Poison Explosion	3	6	regen		-8	-8							lcha	jewl									0	0	0
+of Skill	100	1	1	50	80	61				1	50	oskill	Bone Spear	3	6	regen		-8	-8							lcha	jewl									0	0	0
+of Skill	100	1	1	50	80	61				1	50	oskill	BloodGolem	3	6	regen		-8	-8							lcha	jewl									0	0	0
+of Skill	100	1	1	50	80	61				1	50	oskill	Attract	3	6	regen		-8	-8							lcha	jewl									0	0	0
+of Skill	100	1	1	50	80	61				1	50	oskill	Decrepify	3	6	regen		-8	-8							lcha	jewl									0	0	0
+of Skill	100	1	1	50	80	61				1	50	oskill	Bone Prison	3	6	regen		-8	-8							lcha	jewl									0	0	0
+of Skill	100	1	1	50	80	61				1	50	oskill	Summon Resist	3	6	regen		-8	-8							lcha	jewl									0	0	0
+of Skill	100	1	1	50	80	61				1	50	oskill	IronGolem	3	6	regen		-8	-8							lcha	jewl									0	0	0
+of Skill	100	1	1	50	80	61				1	50	oskill	Lower Resist	3	6	regen		-8	-8							lcha	jewl									0	0	0
+of Skill	100	1	1	50	80	61				1	50	oskill	Poison Nova	3	6	regen		-8	-8							lcha	jewl									0	0	0
+of Skill	100	1	1	50	80	61				1	50	oskill	Bone Spirit	3	6	regen		-8	-8							lcha	jewl									0	0	0
+of Skill	100	1	1	50	80	61				1	50	oskill	FireGolem	3	6	regen		-8	-8							lcha	jewl									0	0	0
+of Skill	100	1	1	50	80	61				1	50	oskill	Revive	3	6	regen		-8	-8							lcha	jewl									0	0	0
+of Skill	100	1	1	50	80	61				1	50	oskill	Sacrifice	3	6	regen		-8	-8							lcha	jewl									0	0	0
+of Skill	100	1	1	50	80	61				1	50	oskill	Smite	3	6	regen		-8	-8							lcha	jewl									0	0	0
+of Skill	100	1	1	50	80	61				1	50	oskill	Might	3	6	regen		-8	-8							lcha	jewl									0	0	0
+of Skill	100	1	1	50	80	61				1	50	oskill	Prayer	3	6	regen		-8	-8							lcha	jewl									0	0	0
+of Skill	100	1	1	50	80	61				1	50	oskill	Resist Fire	3	6	regen		-8	-8							lcha	jewl									0	0	0
+of Skill	100	1	1	50	80	61				1	50	oskill	Holy Bolt	3	6	regen		-8	-8							lcha	jewl									0	0	0
+of Skill	100	1	1	50	80	61				1	50	oskill	Holy Fire	3	6	regen		-8	-8							lcha	jewl									0	0	0
+of Skill	100	1	1	50	80	61				1	50	oskill	Thorns	3	6	regen		-8	-8							lcha	jewl									0	0	0
+of Skill	100	1	1	50	80	61				1	50	oskill	Defiance	3	6	regen		-8	-8							lcha	jewl									0	0	0
+of Skill	100	1	1	50	80	61				1	50	oskill	Resist Cold	3	6	regen		-8	-8							lcha	jewl									0	0	0
+of Skill	100	1	1	50	80	61				1	50	oskill	Zeal	3	6	regen		-8	-8							lcha	jewl									0	0	0
+of Skill	100	1	1	50	80	61				1	50	oskill	Charge	3	6	regen		-8	-8							lcha	jewl									0	0	0
+of Skill	100	1	1	50	80	61				1	50	oskill	Blessed Aim	3	6	regen		-8	-8							lcha	jewl									0	0	0
+of Skill	100	1	1	50	80	61				1	50	oskill	Cleansing	3	6	regen		-8	-8							lcha	jewl									0	0	0
+of Skill	100	1	1	50	80	61				1	50	oskill	Resist Lightning	3	6	regen		-8	-8							lcha	jewl									0	0	0
+of Skill	100	1	1	50	80	61				1	50	oskill	Vengeance	3	6	regen		-8	-8							lcha	jewl									0	0	0
+of Skill	100	1	1	50	80	61				1	50	oskill	Blessed Hammer	3	6	regen		-8	-8							lcha	jewl									0	0	0
+of Skill	100	1	1	50	80	61				1	50	oskill	Concentration	3	6	regen		-8	-8							lcha	jewl									0	0	0
+of Skill	100	1	1	50	80	61				1	50	oskill	Holy Freeze	3	6	regen		-8	-8							lcha	jewl									0	0	0
+of Skill	100	1	1	50	80	61				1	50	oskill	Vigor	3	6	regen		-8	-8							lcha	jewl									0	0	0
+of Skill	100	1	1	50	80	61				1	50	oskill	Conversion	3	6	regen		-8	-8							lcha	jewl									0	0	0
+of Skill	100	1	1	50	80	61				1	50	oskill	Holy Shield	3	6	regen		-8	-8							lcha	jewl									0	0	0
+of Skill	100	1	1	50	80	61				1	50	oskill	Holy Shock	3	6	regen		-8	-8							lcha	jewl									0	0	0
+of Skill	100	1	1	50	80	61				1	50	oskill	Sanctuary	3	6	regen		-8	-8							lcha	jewl									0	0	0
+of Skill	100	1	1	50	80	61				1	50	oskill	Meditation	3	6	regen		-8	-8							lcha	jewl									0	0	0
+of Skill	100	1	1	50	80	61				1	50	oskill	Fist of the Heavens	3	6	regen		-8	-8							lcha	jewl									0	0	0
+of Skill	100	1	1	50	80	61				1	50	oskill	Fanaticism	3	6	regen		-8	-8							lcha	jewl									0	0	0
+of Skill	100	1	1	50	80	61				1	50	oskill	Conviction	3	6	regen		-8	-8							lcha	jewl									0	0	0
+of Skill	100	1	1	50	80	61				1	50	oskill	Redemption	3	6	regen		-8	-8							lcha	jewl									0	0	0
+of Skill	100	1	1	50	80	61				1	50	oskill	Salvation	3	6	regen		-8	-8							lcha	jewl									0	0	0
+of Skill	100	1	1	50	80	61				1	50	oskill	Bash	3	6	regen		-8	-8							lcha	jewl									0	0	0
+of Skill	100	1	1	50	80	61				1	50	oskill	Sword Mastery	3	6	regen		-8	-8							lcha	jewl									0	0	0
+of Skill	100	1	1	50	80	61				1	50	oskill	Axe Mastery	3	6	regen		-8	-8							lcha	jewl									0	0	0
+of Skill	100	1	1	50	80	61				1	50	oskill	Mace Mastery	3	6	regen		-8	-8							lcha	jewl									0	0	0
+of Skill	100	1	1	50	80	61				1	50	oskill	Howl	3	6	regen		-8	-8							lcha	jewl									0	0	0
+of Skill	100	1	1	50	80	61				1	50	oskill	Find Potion	3	6	regen		-8	-8							lcha	jewl									0	0	0
+of Skill	100	1	1	50	80	61				1	50	oskill	Leap	3	6	regen		-8	-8							lcha	jewl									0	0	0
+of Skill	100	1	1	50	80	61				1	50	oskill	Double Swing	3	6	regen		-8	-8							lcha	jewl									0	0	0
+of Skill	100	1	1	50	80	61				1	50	oskill	Pole Arm Mastery	3	6	regen		-8	-8							lcha	jewl									0	0	0
+of Skill	100	1	1	50	80	61				1	50	oskill	Throwing Mastery	3	6	regen		-8	-8							lcha	jewl									0	0	0
+of Skill	100	1	1	50	80	61				1	50	oskill	Spear Mastery	3	6	regen		-8	-8							lcha	jewl									0	0	0
+of Skill	100	1	1	50	80	61				1	50	oskill	Taunt	3	6	regen		-8	-8							lcha	jewl									0	0	0
+of Skill	100	1	1	50	80	61				1	50	oskill	Shout	3	6	regen		-8	-8							lcha	jewl									0	0	0
+of Skill	100	1	1	50	80	61				1	50	oskill	Stun	3	6	regen		-8	-8							lcha	jewl									0	0	0
+of Skill	100	1	1	50	80	61				1	50	oskill	Double Throw	3	6	regen		-8	-8							lcha	jewl									0	0	0
+of Skill	100	1	1	50	80	61				1	50	oskill	Increased Stamina	3	6	regen		-8	-8							lcha	jewl									0	0	0
+of Skill	100	1	1	50	80	61				1	50	oskill	Find Item	3	6	regen		-8	-8							lcha	jewl									0	0	0
+of Skill	100	1	1	50	80	61				1	50	oskill	Leap Attack	3	6	regen		-8	-8							lcha	jewl									0	0	0
+of Skill	100	1	1	50	80	61				1	50	oskill	Concentrate	3	6	regen		-8	-8							lcha	jewl									0	0	0
+of Skill	100	1	1	50	80	61				1	50	oskill	Iron Skin	3	6	regen		-8	-8							lcha	jewl									0	0	0
+of Skill	100	1	1	50	80	61				1	50	oskill	Battle Cry	3	6	regen		-8	-8							lcha	jewl									0	0	0
+of Skill	100	1	1	50	80	61				1	50	oskill	Frenzy	3	6	regen		-8	-8							lcha	jewl									0	0	0
+of Skill	100	1	1	50	80	61				1	50	oskill	Increased Speed	3	6	regen		-8	-8							lcha	jewl									0	0	0
+of Skill	100	1	1	50	80	61				1	50	oskill	Battle Orders	3	6	regen		-8	-8							lcha	jewl									0	0	0
+of Skill	100	1	1	50	80	61				1	50	oskill	Grim Ward	3	6	regen		-8	-8							lcha	jewl									0	0	0
+of Skill	100	1	1	50	80	61				1	50	oskill	Whirlwind	3	6	regen		-8	-8							lcha	jewl									0	0	0
+of Skill	100	1	1	50	80	61				1	50	oskill	Berserk	3	6	regen		-8	-8							lcha	jewl									0	0	0
+of Skill	100	1	1	50	80	61				1	50	oskill	Natural Resistance	3	6	regen		-8	-8							lcha	jewl									0	0	0
+of Skill	100	1	1	50	80	61				1	50	oskill	War Cry	3	6	regen		-8	-8							lcha	jewl									0	0	0
+of Skill	100	1	1	50	80	61				1	50	oskill	Battle Command	3	6	regen		-8	-8							lcha	jewl									0	0	0
+of Skill	100	1	1	50	80	61				1	50	oskill	Raven	3	6	regen		-8	-8							lcha	jewl									0	0	0
+of Skill	100	1	1	50	80	61				1	50	oskill	Plague Poppy	3	6	regen		-8	-8							lcha	jewl									0	0	0
+of Skill	100	1	1	50	80	61				1	50	oskill	Wearwolf	3	6	regen		-8	-8							lcha	jewl									0	0	0
+of Skill	100	1	1	50	80	61				1	50	oskill	Shape Shifting	3	6	regen		-8	-8							lcha	jewl									0	0	0
+of Skill	100	1	1	50	80	61				1	50	oskill	Firestorm	3	6	regen		-8	-8							lcha	jewl									0	0	0
+of Skill	100	1	1	50	80	61				1	50	oskill	Oak Sage	3	6	regen		-8	-8							lcha	jewl									0	0	0
+of Skill	100	1	1	50	80	61				1	50	oskill	Summon Spirit Wolf	3	6	regen		-8	-8							lcha	jewl									0	0	0
+of Skill	100	1	1	50	80	61				1	50	oskill	Wearbear	3	6	regen		-8	-8							lcha	jewl									0	0	0
+of Skill	100	1	1	50	80	61				1	50	oskill	Molten Boulder	3	6	regen		-8	-8							lcha	jewl									0	0	0
+of Skill	100	1	1	50	80	61				1	50	oskill	Arctic Blast	3	6	regen		-8	-8							lcha	jewl									0	0	0
+of Skill	100	1	1	50	80	61				1	50	oskill	Cycle of Life	3	6	regen		-8	-8							lcha	jewl									0	0	0
+of Skill	100	1	1	50	80	61				1	50	oskill	Feral Rage	3	6	regen		-8	-8							lcha	jewl									0	0	0
+of Skill	100	1	1	50	80	61				1	50	oskill	Maul	3	6	regen		-8	-8							lcha	jewl									0	0	0
+of Skill	100	1	1	50	80	61				1	50	oskill	Eruption	3	6	regen		-8	-8							lcha	jewl									0	0	0
+of Skill	100	1	1	50	80	61				1	50	oskill	Cyclone Armor	3	6	regen		-8	-8							lcha	jewl									0	0	0
+of Skill	100	1	1	50	80	61				1	50	oskill	Heart of Wolverine	3	6	regen		-8	-8							lcha	jewl									0	0	0
+of Skill	100	1	1	50	80	61				1	50	oskill	Summon Fenris	3	6	regen		-8	-8							lcha	jewl									0	0	0
+of Skill	100	1	1	50	80	61				1	50	oskill	Rabies	3	6	regen		-8	-8							lcha	jewl									0	0	0
+of Skill	100	1	1	50	80	61				1	50	oskill	Fire Claws	3	6	regen		-8	-8							lcha	jewl									0	0	0
+of Skill	100	1	1	50	80	61				1	50	oskill	Twister	3	6	regen		-8	-8							lcha	jewl									0	0	0
+of Skill	100	1	1	50	80	61				1	50	oskill	Vines	3	6	regen		-8	-8							lcha	jewl									0	0	0
+of Skill	100	1	1	50	80	61				1	50	oskill	Hunger	3	6	regen		-8	-8							lcha	jewl									0	0	0
+of Skill	100	1	1	50	80	61				1	50	oskill	Shock Wave	3	6	regen		-8	-8							lcha	jewl									0	0	0
+of Skill	100	1	1	50	80	61				1	50	oskill	Volcano	3	6	regen		-8	-8							lcha	jewl									0	0	0
+of Skill	100	1	1	50	80	61				1	50	oskill	Tornado	3	6	regen		-8	-8							lcha	jewl									0	0	0
+of Skill	100	1	1	50	80	61				1	50	oskill	Spirit of Barbs	3	6	regen		-8	-8							lcha	jewl									0	0	0
+of Skill	100	1	1	50	80	61				1	50	oskill	Summon Grizzly	3	6	regen		-8	-8							lcha	jewl									0	0	0
+of Skill	100	1	1	50	80	61				1	50	oskill	Fury	3	6	regen		-8	-8							lcha	jewl									0	0	0
+of Skill	100	1	1	50	80	61				1	50	oskill	Armageddon	3	6	regen		-8	-8							lcha	jewl									0	0	0
+of Skill	100	1	1	50	80	61				1	50	oskill	Hurricane	3	6	regen		-8	-8							lcha	jewl									0	0	0
+of Skill	100	1	1	50	80	61				1	50	oskill	Fire Trauma	3	6	regen		-8	-8							lcha	jewl									0	0	0
+of Skill	100	1	1	50	80	61				1	50	oskill	Claw Mastery	3	6	regen		-8	-8							lcha	jewl									0	0	0
+of Skill	100	1	1	50	80	61				1	50	oskill	Psychic Hammer	3	6	regen		-8	-8							lcha	jewl									0	0	0
+of Skill	100	1	1	50	80	61				1	50	oskill	Tiger Strike	3	6	regen		-8	-8							lcha	jewl									0	0	0
+of Skill	100	1	1	50	80	61				1	50	oskill	Dragon Talon	3	6	regen		-8	-8							lcha	jewl									0	0	0
+of Skill	100	1	1	50	80	61				1	50	oskill	Shock Field	3	6	regen		-8	-8							lcha	jewl									0	0	0
+of Skill	100	1	1	50	80	61				1	50	oskill	Blade Sentinel	3	6	regen		-8	-8							lcha	jewl									0	0	0
+of Skill	100	1	1	50	80	61				1	50	oskill	Quickness	3	6	regen		-8	-8							lcha	jewl									0	0	0
+of Skill	100	1	1	50	80	61				1	50	oskill	Fists of Fire	3	6	regen		-8	-8							lcha	jewl									0	0	0
+of Skill	100	1	1	50	80	61				1	50	oskill	Dragon Claw	3	6	regen		-8	-8							lcha	jewl									0	0	0
+of Skill	100	1	1	50	80	61				1	50	oskill	Charged Bolt Sentry	3	6	regen		-8	-8							lcha	jewl									0	0	0
+of Skill	100	1	1	50	80	61				1	50	oskill	Wake of Fire Sentry	3	6	regen		-8	-8							lcha	jewl									0	0	0
+of Skill	100	1	1	50	80	61				1	50	oskill	Weapon Block	3	6	regen		-8	-8							lcha	jewl									0	0	0
+of Skill	100	1	1	50	80	61				1	50	oskill	Cloak of Shadows	3	6	regen		-8	-8							lcha	jewl									0	0	0
+of Skill	100	1	1	50	80	61				1	50	oskill	Cobra Strike	3	6	regen		-8	-8							lcha	jewl									0	0	0
+of Skill	100	1	1	50	80	61				1	50	oskill	Blade Fury	3	6	regen		-8	-8							lcha	jewl									0	0	0
+of Skill	100	1	1	50	80	61				1	50	oskill	Fade	3	6	regen		-8	-8							lcha	jewl									0	0	0
+of Skill	100	1	1	50	80	61				1	50	oskill	Shadow Warrior	3	6	regen		-8	-8							lcha	jewl									0	0	0
+of Skill	100	1	1	50	80	61				1	50	oskill	Claws of Thunder	3	6	regen		-8	-8							lcha	jewl									0	0	0
+of Skill	100	1	1	50	80	61				1	50	oskill	Dragon Tail	3	6	regen		-8	-8							lcha	jewl									0	0	0
+of Skill	100	1	1	50	80	61				1	50	oskill	Lightning Sentry	3	6	regen		-8	-8							lcha	jewl									0	0	0
+of Skill	100	1	1	50	80	61				1	50	oskill	Inferno Sentry	3	6	regen		-8	-8							lcha	jewl									0	0	0
+of Skill	100	1	1	50	80	61				1	50	oskill	Mind Blast	3	6	regen		-8	-8							lcha	jewl									0	0	0
+of Skill	100	1	1	50	80	61				1	50	oskill	Blades of Ice	3	6	regen		-8	-8							lcha	jewl									0	0	0
+of Skill	100	1	1	50	80	61				1	50	oskill	Dragon Flight	3	6	regen		-8	-8							lcha	jewl									0	0	0
+of Skill	100	1	1	50	80	61				1	50	oskill	Death Sentry	3	6	regen		-8	-8							lcha	jewl									0	0	0
+of Skill	100	1	1	50	80	61				1	50	oskill	Blade Shield	3	6	regen		-8	-8							lcha	jewl									0	0	0
+of Skill	100	1	1	50	80	61				1	50	oskill	Venom	3	6	regen		-8	-8							lcha	jewl									0	0	0
+of Skill	100	1	1	50	80	61				1	50	oskill	Shadow Master	3	6	regen		-8	-8							lcha	jewl									0	0	0
+of Skill	100	1	1	50	80	61				1	50	oskill	Royal Strike	3	6	regen		-8	-8							lcha	jewl									0	0	0
 																																						
-of Skill	100	1	1	80		81				1	50	oskill	Magic Arrow	1	10											lcha	jewl									0	0	0
-of Skill	100	1	1	80		81				1	50	oskill	Fire Arrow	1	10											lcha	jewl									0	0	0
-of Skill	100	1	1	80		81				1	50	oskill	Inner Sight	1	10											lcha	jewl									0	0	0
-of Skill	100	1	1	80		81				1	50	oskill	Critical Strike	1	10											lcha	jewl									0	0	0
-of Skill	100	1	1	80		81				1	50	oskill	Jab	1	10											lcha	jewl									0	0	0
-of Skill	100	1	1	80		81				1	50	oskill	Cold Arrow	1	10											lcha	jewl									0	0	0
-of Skill	100	1	1	80		81				1	50	oskill	Multiple Shot	1	10											lcha	jewl									0	0	0
-of Skill	100	1	1	80		81				1	50	oskill	Dodge	1	10											lcha	jewl									0	0	0
-of Skill	100	1	1	80		81				1	50	oskill	Power Strike	1	10											lcha	jewl									0	0	0
-of Skill	100	1	1	80		81				1	50	oskill	Poison Javelin	1	10											lcha	jewl									0	0	0
-of Skill	100	1	1	80		81				1	50	oskill	Exploding Arrow	1	10											lcha	jewl									0	0	0
-of Skill	100	1	1	80		81				1	50	oskill	Slow Missiles	1	10											lcha	jewl									0	0	0
-of Skill	100	1	1	80		81				1	50	oskill	Avoid	1	10											lcha	jewl									0	0	0
-of Skill	100	1	1	80		81				1	50	oskill	Impale	1	10											lcha	jewl									0	0	0
-of Skill	100	1	1	80		81				1	50	oskill	Lightning Bolt	1	10											lcha	jewl									0	0	0
-of Skill	100	1	1	80		81				1	50	oskill	Ice Arrow	1	10											lcha	jewl									0	0	0
-of Skill	100	1	1	80		81				1	50	oskill	Guided Arrow	1	10											lcha	jewl									0	0	0
-of Skill	100	1	1	80		81				1	50	oskill	Penetrate	1	10											lcha	jewl									0	0	0
-of Skill	100	1	1	80		81				1	50	oskill	Charged Strike	1	10											lcha	jewl									0	0	0
-of Skill	100	1	1	80		81				1	50	oskill	Plague Javelin	1	10											lcha	jewl									0	0	0
-of Skill	100	1	1	80		81				1	50	oskill	Strafe	1	10											lcha	jewl									0	0	0
-of Skill	100	1	1	80		81				1	50	oskill	Immolation Arrow	1	10											lcha	jewl									0	0	0
-of Skill	100	1	1	80		81				1	50	oskill	Dopplezon	1	10											lcha	jewl									0	0	0
-of Skill	100	1	1	80		81				1	50	oskill	Evade	1	10											lcha	jewl									0	0	0
-of Skill	100	1	1	80		81				1	50	oskill	Fend	1	10											lcha	jewl									0	0	0
-of Skill	100	1	1	80		81				1	50	oskill	Freezing Arrow	1	10											lcha	jewl									0	0	0
-of Skill	100	1	1	80		81				1	50	oskill	Valkyrie	1	10											lcha	jewl									0	0	0
-of Skill	100	1	1	80		81				1	50	oskill	Pierce	1	10											lcha	jewl									0	0	0
-of Skill	100	1	1	80		81				1	50	oskill	Lightning Strike	1	10											lcha	jewl									0	0	0
-of Skill	100	1	1	80		81				1	50	oskill	Lightning Fury	1	10											lcha	jewl									0	0	0
-of Skill	100	1	1	80		81				1	50	oskill	Fire Bolt	1	10											lcha	jewl									0	0	0
-of Skill	100	1	1	80		81				1	50	oskill	Warmth	1	10											lcha	jewl									0	0	0
-of Skill	100	1	1	80		81				1	50	oskill	Charged Bolt	1	10											lcha	jewl									0	0	0
-of Skill	100	1	1	80		81				1	50	oskill	Ice Bolt	1	10											lcha	jewl									0	0	0
-of Skill	100	1	1	80		81				1	50	oskill	Frozen Armor	1	10											lcha	jewl									0	0	0
-of Skill	100	1	1	80		81				1	50	oskill	Inferno	1	10											lcha	jewl									0	0	0
-of Skill	100	1	1	80		81				1	50	oskill	Static Field	1	10											lcha	jewl									0	0	0
-of Skill	100	1	1	80		81				1	50	oskill	Telekinesis	1	10											lcha	jewl									0	0	0
-of Skill	100	1	1	80		81				1	50	oskill	Frost Nova	1	10											lcha	jewl									0	0	0
-of Skill	100	1	1	80		81				1	50	oskill	Ice Blast	1	10											lcha	jewl									0	0	0
-of Skill	100	1	1	80		81				1	50	oskill	Blaze	1	10											lcha	jewl									0	0	0
-of Skill	100	1	1	80		81				1	50	oskill	Fire Ball	1	10											lcha	jewl									0	0	0
-of Skill	100	1	1	80		81				1	50	oskill	Nova	1	10											lcha	jewl									0	0	0
-of Skill	100	1	1	80		81				1	50	oskill	Lightning	1	10											lcha	jewl									0	0	0
-of Skill	100	1	1	80		81				1	50	oskill	Shiver Armor	1	10											lcha	jewl									0	0	0
-of Skill	100	1	1	80		81				1	50	oskill	Fire Wall	1	10											lcha	jewl									0	0	0
-of Skill	100	1	1	80		81				1	50	oskill	Enchant	1	10											lcha	jewl									0	0	0
-of Skill	100	1	1	80		81				1	50	oskill	Chain Lightning	1	10											lcha	jewl									0	0	0
-of Skill	100	1	1	80		81				1	50	oskill	Teleport	1	10											lcha	jewl									0	0	0
-of Skill	100	1	1	80		81				1	50	oskill	Glacial Spike	1	10											lcha	jewl									0	0	0
-of Skill	100	1	1	80		81				1	50	oskill	Meteor	1	10											lcha	jewl									0	0	0
-of Skill	100	1	1	80		81				1	50	oskill	Thunder Storm	1	10											lcha	jewl									0	0	0
-of Skill	100	1	1	80		81				1	50	oskill	Energy Shield	1	10											lcha	jewl									0	0	0
-of Skill	100	1	1	80		81				1	50	oskill	Blizzard	1	10											lcha	jewl									0	0	0
-of Skill	100	1	1	80		81				1	50	oskill	Chilling Armor	1	10											lcha	jewl									0	0	0
-of Skill	100	1	1	80		81				1	50	oskill	Fire Mastery	1	10											lcha	jewl									0	0	0
-of Skill	100	1	1	80		81				1	50	oskill	Hydra	1	10											lcha	jewl									0	0	0
-of Skill	100	1	1	80		81				1	50	oskill	Lightning Mastery	1	10											lcha	jewl									0	0	0
-of Skill	100	1	1	80		81				1	50	oskill	Frozen Orb	1	10											lcha	jewl									0	0	0
-of Skill	100	1	1	80		81				1	50	oskill	Cold Mastery	1	10											lcha	jewl									0	0	0
-of Skill	100	1	1	80		81				1	50	oskill	Amplify Damage	1	10											lcha	jewl									0	0	0
-of Skill	100	1	1	80		81				1	50	oskill	Teeth	1	10											lcha	jewl									0	0	0
-of Skill	100	1	1	80		81				1	50	oskill	Bone Armor	1	10											lcha	jewl									0	0	0
-of Skill	100	1	1	80		81				1	50	oskill	Skeleton Mastery	1	10											lcha	jewl									0	0	0
-of Skill	100	1	1	80		81				1	50	oskill	Raise Skeleton	1	10											lcha	jewl									0	0	0
-of Skill	100	1	1	80		81				1	50	oskill	Dim Vision	1	10											lcha	jewl									0	0	0
-of Skill	100	1	1	80		81				1	50	oskill	Weaken	1	10											lcha	jewl									0	0	0
-of Skill	100	1	1	80		81				1	50	oskill	Poison Dagger	1	10											lcha	jewl									0	0	0
-of Skill	100	1	1	80		81				1	50	oskill	Corpse Explosion	1	10											lcha	jewl									0	0	0
-of Skill	100	1	1	80		81				1	50	oskill	Clay Golem	1	10											lcha	jewl									0	0	0
-of Skill	100	1	1	80		81				1	50	oskill	Iron Maiden	1	10											lcha	jewl									0	0	0
-of Skill	100	1	1	80		81				1	50	oskill	Terror	1	10											lcha	jewl									0	0	0
-of Skill	100	1	1	80		81				1	50	oskill	Bone Wall	1	10											lcha	jewl									0	0	0
-of Skill	100	1	1	80		81				1	50	oskill	Golem Mastery	1	10											lcha	jewl									0	0	0
-of Skill	100	1	1	80		81				1	50	oskill	Raise Skeletal Mage	1	10											lcha	jewl									0	0	0
-of Skill	100	1	1	80		81				1	50	oskill	Confuse	1	10											lcha	jewl									0	0	0
-of Skill	100	1	1	80		81				1	50	oskill	Life Tap	1	10											lcha	jewl									0	0	0
-of Skill	100	1	1	80		81				1	50	oskill	Poison Explosion	1	10											lcha	jewl									0	0	0
-of Skill	100	1	1	80		81				1	50	oskill	Bone Spear	1	10											lcha	jewl									0	0	0
-of Skill	100	1	1	80		81				1	50	oskill	BloodGolem	1	10											lcha	jewl									0	0	0
-of Skill	100	1	1	80		81				1	50	oskill	Attract	1	10											lcha	jewl									0	0	0
-of Skill	100	1	1	80		81				1	50	oskill	Decrepify	1	10											lcha	jewl									0	0	0
-of Skill	100	1	1	80		81				1	50	oskill	Bone Prison	1	10											lcha	jewl									0	0	0
-of Skill	100	1	1	80		81				1	50	oskill	Summon Resist	1	10											lcha	jewl									0	0	0
-of Skill	100	1	1	80		81				1	50	oskill	IronGolem	1	10											lcha	jewl									0	0	0
-of Skill	100	1	1	80		81				1	50	oskill	Lower Resist	1	10											lcha	jewl									0	0	0
-of Skill	100	1	1	80		81				1	50	oskill	Poison Nova	1	10											lcha	jewl									0	0	0
-of Skill	100	1	1	80		81				1	50	oskill	Bone Spirit	1	10											lcha	jewl									0	0	0
-of Skill	100	1	1	80		81				1	50	oskill	FireGolem	1	10											lcha	jewl									0	0	0
-of Skill	100	1	1	80		81				1	50	oskill	Revive	1	10											lcha	jewl									0	0	0
-of Skill	100	1	1	80		81				1	50	oskill	Sacrifice	1	10											lcha	jewl									0	0	0
-of Skill	100	1	1	80		81				1	50	oskill	Smite	1	10											lcha	jewl									0	0	0
-of Skill	100	1	1	80		81				1	50	oskill	Might	1	10											lcha	jewl									0	0	0
-of Skill	100	1	1	80		81				1	50	oskill	Prayer	1	10											lcha	jewl									0	0	0
-of Skill	100	1	1	80		81				1	50	oskill	Resist Fire	1	10											lcha	jewl									0	0	0
-of Skill	100	1	1	80		81				1	50	oskill	Holy Bolt	1	10											lcha	jewl									0	0	0
-of Skill	100	1	1	80		81				1	50	oskill	Holy Fire	1	10											lcha	jewl									0	0	0
-of Skill	100	1	1	80		81				1	50	oskill	Thorns	1	10											lcha	jewl									0	0	0
-of Skill	100	1	1	80		81				1	50	oskill	Defiance	1	10											lcha	jewl									0	0	0
-of Skill	100	1	1	80		81				1	50	oskill	Resist Cold	1	10											lcha	jewl									0	0	0
-of Skill	100	1	1	80		81				1	50	oskill	Zeal	1	10											lcha	jewl									0	0	0
-of Skill	100	1	1	80		81				1	50	oskill	Charge	1	10											lcha	jewl									0	0	0
-of Skill	100	1	1	80		81				1	50	oskill	Blessed Aim	1	10											lcha	jewl									0	0	0
-of Skill	100	1	1	80		81				1	50	oskill	Cleansing	1	10											lcha	jewl									0	0	0
-of Skill	100	1	1	80		81				1	50	oskill	Resist Lightning	1	10											lcha	jewl									0	0	0
-of Skill	100	1	1	80		81				1	50	oskill	Vengeance	1	10											lcha	jewl									0	0	0
-of Skill	100	1	1	80		81				1	50	oskill	Blessed Hammer	1	10											lcha	jewl									0	0	0
-of Skill	100	1	1	80		81				1	50	oskill	Concentration	1	10											lcha	jewl									0	0	0
-of Skill	100	1	1	80		81				1	50	oskill	Holy Freeze	1	10											lcha	jewl									0	0	0
-of Skill	100	1	1	80		81				1	50	oskill	Vigor	1	10											lcha	jewl									0	0	0
-of Skill	100	1	1	80		81				1	50	oskill	Conversion	1	10											lcha	jewl									0	0	0
-of Skill	100	1	1	80		81				1	50	oskill	Holy Shield	1	10											lcha	jewl									0	0	0
-of Skill	100	1	1	80		81				1	50	oskill	Holy Shock	1	10											lcha	jewl									0	0	0
-of Skill	100	1	1	80		81				1	50	oskill	Sanctuary	1	10											lcha	jewl									0	0	0
-of Skill	100	1	1	80		81				1	50	oskill	Meditation	1	10											lcha	jewl									0	0	0
-of Skill	100	1	1	80		81				1	50	oskill	Fist of the Heavens	1	10											lcha	jewl									0	0	0
-of Skill	100	1	1	80		81				1	50	oskill	Fanaticism	1	10											lcha	jewl									0	0	0
-of Skill	100	1	1	80		81				1	50	oskill	Conviction	1	10											lcha	jewl									0	0	0
-of Skill	100	1	1	80		81				1	50	oskill	Redemption	1	10											lcha	jewl									0	0	0
-of Skill	100	1	1	80		81				1	50	oskill	Salvation	1	10											lcha	jewl									0	0	0
-of Skill	100	1	1	80		81				1	50	oskill	Bash	1	10											lcha	jewl									0	0	0
-of Skill	100	1	1	80		81				1	50	oskill	Sword Mastery	1	10											lcha	jewl									0	0	0
-of Skill	100	1	1	80		81				1	50	oskill	Axe Mastery	1	10											lcha	jewl									0	0	0
-of Skill	100	1	1	80		81				1	50	oskill	Mace Mastery	1	10											lcha	jewl									0	0	0
-of Skill	100	1	1	80		81				1	50	oskill	Howl	1	10											lcha	jewl									0	0	0
-of Skill	100	1	1	80		81				1	50	oskill	Find Potion	1	10											lcha	jewl									0	0	0
-of Skill	100	1	1	80		81				1	50	oskill	Leap	1	10											lcha	jewl									0	0	0
-of Skill	100	1	1	80		81				1	50	oskill	Double Swing	1	10											lcha	jewl									0	0	0
-of Skill	100	1	1	80		81				1	50	oskill	Pole Arm Mastery	1	10											lcha	jewl									0	0	0
-of Skill	100	1	1	80		81				1	50	oskill	Throwing Mastery	1	10											lcha	jewl									0	0	0
-of Skill	100	1	1	80		81				1	50	oskill	Spear Mastery	1	10											lcha	jewl									0	0	0
-of Skill	100	1	1	80		81				1	50	oskill	Taunt	1	10											lcha	jewl									0	0	0
-of Skill	100	1	1	80		81				1	50	oskill	Shout	1	10											lcha	jewl									0	0	0
-of Skill	100	1	1	80		81				1	50	oskill	Stun	1	10											lcha	jewl									0	0	0
-of Skill	100	1	1	80		81				1	50	oskill	Double Throw	1	10											lcha	jewl									0	0	0
-of Skill	100	1	1	80		81				1	50	oskill	Increased Stamina	1	10											lcha	jewl									0	0	0
-of Skill	100	1	1	80		81				1	50	oskill	Find Item	1	10											lcha	jewl									0	0	0
-of Skill	100	1	1	80		81				1	50	oskill	Leap Attack	1	10											lcha	jewl									0	0	0
-of Skill	100	1	1	80		81				1	50	oskill	Concentrate	1	10											lcha	jewl									0	0	0
-of Skill	100	1	1	80		81				1	50	oskill	Iron Skin	1	10											lcha	jewl									0	0	0
-of Skill	100	1	1	80		81				1	50	oskill	Battle Cry	1	10											lcha	jewl									0	0	0
-of Skill	100	1	1	80		81				1	50	oskill	Frenzy	1	10											lcha	jewl									0	0	0
-of Skill	100	1	1	80		81				1	50	oskill	Increased Speed	1	10											lcha	jewl									0	0	0
-of Skill	100	1	1	80		81				1	50	oskill	Battle Orders	1	10											lcha	jewl									0	0	0
-of Skill	100	1	1	80		81				1	50	oskill	Grim Ward	1	10											lcha	jewl									0	0	0
-of Skill	100	1	1	80		81				1	50	oskill	Whirlwind	1	10											lcha	jewl									0	0	0
-of Skill	100	1	1	80		81				1	50	oskill	Berserk	1	10											lcha	jewl									0	0	0
-of Skill	100	1	1	80		81				1	50	oskill	Natural Resistance	1	10											lcha	jewl									0	0	0
-of Skill	100	1	1	80		81				1	50	oskill	War Cry	1	10											lcha	jewl									0	0	0
-of Skill	100	1	1	80		81				1	50	oskill	Battle Command	1	10											lcha	jewl									0	0	0
-of Skill	100	1	1	80		81				1	50	oskill	Raven	1	10											lcha	jewl									0	0	0
-of Skill	100	1	1	80		81				1	50	oskill	Plague Poppy	1	10											lcha	jewl									0	0	0
-of Skill	100	1	1	80		81				1	50	oskill	Wearwolf	1	10											lcha	jewl									0	0	0
-of Skill	100	1	1	80		81				1	50	oskill	Shape Shifting	1	10											lcha	jewl									0	0	0
-of Skill	100	1	1	80		81				1	50	oskill	Firestorm	1	10											lcha	jewl									0	0	0
-of Skill	100	1	1	80		81				1	50	oskill	Oak Sage	1	10											lcha	jewl									0	0	0
-of Skill	100	1	1	80		81				1	50	oskill	Summon Spirit Wolf	1	10											lcha	jewl									0	0	0
-of Skill	100	1	1	80		81				1	50	oskill	Wearbear	1	10											lcha	jewl									0	0	0
-of Skill	100	1	1	80		81				1	50	oskill	Molten Boulder	1	10											lcha	jewl									0	0	0
-of Skill	100	1	1	80		81				1	50	oskill	Arctic Blast	1	10											lcha	jewl									0	0	0
-of Skill	100	1	1	80		81				1	50	oskill	Cycle of Life	1	10											lcha	jewl									0	0	0
-of Skill	100	1	1	80		81				1	50	oskill	Feral Rage	1	10											lcha	jewl									0	0	0
-of Skill	100	1	1	80		81				1	50	oskill	Maul	1	10											lcha	jewl									0	0	0
-of Skill	100	1	1	80		81				1	50	oskill	Eruption	1	10											lcha	jewl									0	0	0
-of Skill	100	1	1	80		81				1	50	oskill	Cyclone Armor	1	10											lcha	jewl									0	0	0
-of Skill	100	1	1	80		81				1	50	oskill	Heart of Wolverine	1	10											lcha	jewl									0	0	0
-of Skill	100	1	1	80		81				1	50	oskill	Summon Fenris	1	10											lcha	jewl									0	0	0
-of Skill	100	1	1	80		81				1	50	oskill	Rabies	1	10											lcha	jewl									0	0	0
-of Skill	100	1	1	80		81				1	50	oskill	Fire Claws	1	10											lcha	jewl									0	0	0
-of Skill	100	1	1	80		81				1	50	oskill	Twister	1	10											lcha	jewl									0	0	0
-of Skill	100	1	1	80		81				1	50	oskill	Vines	1	10											lcha	jewl									0	0	0
-of Skill	100	1	1	80		81				1	50	oskill	Hunger	1	10											lcha	jewl									0	0	0
-of Skill	100	1	1	80		81				1	50	oskill	Shock Wave	1	10											lcha	jewl									0	0	0
-of Skill	100	1	1	80		81				1	50	oskill	Volcano	1	10											lcha	jewl									0	0	0
-of Skill	100	1	1	80		81				1	50	oskill	Tornado	1	10											lcha	jewl									0	0	0
-of Skill	100	1	1	80		81				1	50	oskill	Spirit of Barbs	1	10											lcha	jewl									0	0	0
-of Skill	100	1	1	80		81				1	50	oskill	Summon Grizzly	1	10											lcha	jewl									0	0	0
-of Skill	100	1	1	80		81				1	50	oskill	Fury	1	10											lcha	jewl									0	0	0
-of Skill	100	1	1	80		81				1	50	oskill	Armageddon	1	10											lcha	jewl									0	0	0
-of Skill	100	1	1	80		81				1	50	oskill	Hurricane	1	10											lcha	jewl									0	0	0
-of Skill	100	1	1	80		81				1	50	oskill	Fire Trauma	1	10											lcha	jewl									0	0	0
-of Skill	100	1	1	80		81				1	50	oskill	Claw Mastery	1	10											lcha	jewl									0	0	0
-of Skill	100	1	1	80		81				1	50	oskill	Psychic Hammer	1	10											lcha	jewl									0	0	0
-of Skill	100	1	1	80		81				1	50	oskill	Tiger Strike	1	10											lcha	jewl									0	0	0
-of Skill	100	1	1	80		81				1	50	oskill	Dragon Talon	1	10											lcha	jewl									0	0	0
-of Skill	100	1	1	80		81				1	50	oskill	Shock Field	1	10											lcha	jewl									0	0	0
-of Skill	100	1	1	80		81				1	50	oskill	Blade Sentinel	1	10											lcha	jewl									0	0	0
-of Skill	100	1	1	80		81				1	50	oskill	Quickness	1	10											lcha	jewl									0	0	0
-of Skill	100	1	1	80		81				1	50	oskill	Fists of Fire	1	10											lcha	jewl									0	0	0
-of Skill	100	1	1	80		81				1	50	oskill	Dragon Claw	1	10											lcha	jewl									0	0	0
-of Skill	100	1	1	80		81				1	50	oskill	Charged Bolt Sentry	1	10											lcha	jewl									0	0	0
-of Skill	100	1	1	80		81				1	50	oskill	Wake of Fire Sentry	1	10											lcha	jewl									0	0	0
-of Skill	100	1	1	80		81				1	50	oskill	Weapon Block	1	10											lcha	jewl									0	0	0
-of Skill	100	1	1	80		81				1	50	oskill	Cloak of Shadows	1	10											lcha	jewl									0	0	0
-of Skill	100	1	1	80		81				1	50	oskill	Cobra Strike	1	10											lcha	jewl									0	0	0
-of Skill	100	1	1	80		81				1	50	oskill	Blade Fury	1	10											lcha	jewl									0	0	0
-of Skill	100	1	1	80		81				1	50	oskill	Fade	1	10											lcha	jewl									0	0	0
-of Skill	100	1	1	80		81				1	50	oskill	Shadow Warrior	1	10											lcha	jewl									0	0	0
-of Skill	100	1	1	80		81				1	50	oskill	Claws of Thunder	1	10											lcha	jewl									0	0	0
-of Skill	100	1	1	80		81				1	50	oskill	Dragon Tail	1	10											lcha	jewl									0	0	0
-of Skill	100	1	1	80		81				1	50	oskill	Lightning Sentry	1	10											lcha	jewl									0	0	0
-of Skill	100	1	1	80		81				1	50	oskill	Inferno Sentry	1	10											lcha	jewl									0	0	0
-of Skill	100	1	1	80		81				1	50	oskill	Mind Blast	1	10											lcha	jewl									0	0	0
-of Skill	100	1	1	80		81				1	50	oskill	Blades of Ice	1	10											lcha	jewl									0	0	0
-of Skill	100	1	1	80		81				1	50	oskill	Dragon Flight	1	10											lcha	jewl									0	0	0
-of Skill	100	1	1	80		81				1	50	oskill	Death Sentry	1	10											lcha	jewl									0	0	0
-of Skill	100	1	1	80		81				1	50	oskill	Blade Shield	1	10											lcha	jewl									0	0	0
-of Skill	100	1	1	80		81				1	50	oskill	Venom	1	10											lcha	jewl									0	0	0
-of Skill	100	1	1	80		81				1	50	oskill	Shadow Master	1	10											lcha	jewl									0	0	0
-of Skill	100	1	1	80		81				1	50	oskill	Royal Strike	1	10											lcha	jewl									0	0	0
+of Skill	100	1	1	80		81				1	50	oskill	Magic Arrow	6	10	regen		-11	-11							lcha	jewl									0	0	0
+of Skill	100	1	1	80		81				1	50	oskill	Fire Arrow	6	10	regen		-11	-11							lcha	jewl									0	0	0
+of Skill	100	1	1	80		81				1	50	oskill	Inner Sight	6	10	regen		-11	-11							lcha	jewl									0	0	0
+of Skill	100	1	1	80		81				1	50	oskill	Critical Strike	6	10	regen		-11	-11							lcha	jewl									0	0	0
+of Skill	100	1	1	80		81				1	50	oskill	Jab	6	10	regen		-11	-11							lcha	jewl									0	0	0
+of Skill	100	1	1	80		81				1	50	oskill	Cold Arrow	6	10	regen		-11	-11							lcha	jewl									0	0	0
+of Skill	100	1	1	80		81				1	50	oskill	Multiple Shot	6	10	regen		-11	-11							lcha	jewl									0	0	0
+of Skill	100	1	1	80		81				1	50	oskill	Dodge	6	10	regen		-11	-11							lcha	jewl									0	0	0
+of Skill	100	1	1	80		81				1	50	oskill	Power Strike	6	10	regen		-11	-11							lcha	jewl									0	0	0
+of Skill	100	1	1	80		81				1	50	oskill	Poison Javelin	6	10	regen		-11	-11							lcha	jewl									0	0	0
+of Skill	100	1	1	80		81				1	50	oskill	Exploding Arrow	6	10	regen		-11	-11							lcha	jewl									0	0	0
+of Skill	100	1	1	80		81				1	50	oskill	Slow Missiles	6	10	regen		-11	-11							lcha	jewl									0	0	0
+of Skill	100	1	1	80		81				1	50	oskill	Avoid	6	10	regen		-11	-11							lcha	jewl									0	0	0
+of Skill	100	1	1	80		81				1	50	oskill	Impale	6	10	regen		-11	-11							lcha	jewl									0	0	0
+of Skill	100	1	1	80		81				1	50	oskill	Lightning Bolt	6	10	regen		-11	-11							lcha	jewl									0	0	0
+of Skill	100	1	1	80		81				1	50	oskill	Ice Arrow	6	10	regen		-11	-11							lcha	jewl									0	0	0
+of Skill	100	1	1	80		81				1	50	oskill	Guided Arrow	6	10	regen		-11	-11							lcha	jewl									0	0	0
+of Skill	100	1	1	80		81				1	50	oskill	Penetrate	6	10	regen		-11	-11							lcha	jewl									0	0	0
+of Skill	100	1	1	80		81				1	50	oskill	Charged Strike	6	10	regen		-11	-11							lcha	jewl									0	0	0
+of Skill	100	1	1	80		81				1	50	oskill	Plague Javelin	6	10	regen		-11	-11							lcha	jewl									0	0	0
+of Skill	100	1	1	80		81				1	50	oskill	Strafe	6	10	regen		-11	-11							lcha	jewl									0	0	0
+of Skill	100	1	1	80		81				1	50	oskill	Immolation Arrow	6	10	regen		-11	-11							lcha	jewl									0	0	0
+of Skill	100	1	1	80		81				1	50	oskill	Dopplezon	6	10	regen		-11	-11							lcha	jewl									0	0	0
+of Skill	100	1	1	80		81				1	50	oskill	Evade	6	10	regen		-11	-11							lcha	jewl									0	0	0
+of Skill	100	1	1	80		81				1	50	oskill	Fend	6	10	regen		-11	-11							lcha	jewl									0	0	0
+of Skill	100	1	1	80		81				1	50	oskill	Freezing Arrow	6	10	regen		-11	-11							lcha	jewl									0	0	0
+of Skill	100	1	1	80		81				1	50	oskill	Valkyrie	6	10	regen		-11	-11							lcha	jewl									0	0	0
+of Skill	100	1	1	80		81				1	50	oskill	Pierce	6	10	regen		-11	-11							lcha	jewl									0	0	0
+of Skill	100	1	1	80		81				1	50	oskill	Lightning Strike	6	10	regen		-11	-11							lcha	jewl									0	0	0
+of Skill	100	1	1	80		81				1	50	oskill	Lightning Fury	6	10	regen		-11	-11							lcha	jewl									0	0	0
+of Skill	100	1	1	80		81				1	50	oskill	Fire Bolt	6	10	regen		-11	-11							lcha	jewl									0	0	0
+of Skill	100	1	1	80		81				1	50	oskill	Warmth	6	10	regen		-11	-11							lcha	jewl									0	0	0
+of Skill	100	1	1	80		81				1	50	oskill	Charged Bolt	6	10	regen		-11	-11							lcha	jewl									0	0	0
+of Skill	100	1	1	80		81				1	50	oskill	Ice Bolt	6	10	regen		-11	-11							lcha	jewl									0	0	0
+of Skill	100	1	1	80		81				1	50	oskill	Frozen Armor	6	10	regen		-11	-11							lcha	jewl									0	0	0
+of Skill	100	1	1	80		81				1	50	oskill	Inferno	6	10	regen		-11	-11							lcha	jewl									0	0	0
+of Skill	100	1	1	80		81				1	50	oskill	Static Field	6	10	regen		-14	-14							lcha	jewl									0	0	0
+of Skill	100	1	1	80		81				1	50	oskill	Telekinesis	6	10	regen		-11	-11							lcha	jewl									0	0	0
+of Skill	100	1	1	80		81				1	50	oskill	Frost Nova	6	10	regen		-11	-11							lcha	jewl									0	0	0
+of Skill	100	1	1	80		81				1	50	oskill	Ice Blast	6	10	regen		-11	-11							lcha	jewl									0	0	0
+of Skill	100	1	1	80		81				1	50	oskill	Blaze	6	10	regen		-11	-11							lcha	jewl									0	0	0
+of Skill	100	1	1	80		81				1	50	oskill	Fire Ball	6	10	regen		-11	-11							lcha	jewl									0	0	0
+of Skill	100	1	1	80		81				1	50	oskill	Nova	6	10	regen		-11	-11							lcha	jewl									0	0	0
+of Skill	100	1	1	80		81				1	50	oskill	Lightning	6	10	regen		-11	-11							lcha	jewl									0	0	0
+of Skill	100	1	1	80		81				1	50	oskill	Shiver Armor	6	10	regen		-11	-11							lcha	jewl									0	0	0
+of Skill	100	1	1	80		81				1	50	oskill	Fire Wall	6	10	regen		-11	-11							lcha	jewl									0	0	0
+of Skill	100	1	1	80		81				1	50	oskill	Enchant	6	10	regen		-11	-11							lcha	jewl									0	0	0
+of Skill	100	1	1	80		81				1	50	oskill	Chain Lightning	6	10	regen		-11	-11							lcha	jewl									0	0	0
+of Skill	100	1	1	80		81				1	50	oskill	Teleport	6	10	regen		-14	-14							lcha	jewl									0	0	0
+of Skill	100	1	1	80		81				1	50	oskill	Glacial Spike	6	10	regen		-11	-11							lcha	jewl									0	0	0
+of Skill	100	1	1	80		81				1	50	oskill	Meteor	6	10	regen		-11	-11							lcha	jewl									0	0	0
+of Skill	100	1	1	80		81				1	50	oskill	Thunder Storm	6	10	regen		-11	-11							lcha	jewl									0	0	0
+of Skill	100	1	1	80		81				1	50	oskill	Energy Shield	6	10	regen		-11	-11							lcha	jewl									0	0	0
+of Skill	100	1	1	80		81				1	50	oskill	Blizzard	6	10	regen		-11	-11							lcha	jewl									0	0	0
+of Skill	100	1	1	80		81				1	50	oskill	Chilling Armor	6	10	regen		-11	-11							lcha	jewl									0	0	0
+of Skill	100	1	1	80		81				1	50	oskill	Fire Mastery	6	10	regen		-11	-11							lcha	jewl									0	0	0
+of Skill	100	1	1	80		81				1	50	oskill	Hydra	6	10	regen		-11	-11							lcha	jewl									0	0	0
+of Skill	100	1	1	80		81				1	50	oskill	Lightning Mastery	6	10	regen		-11	-11							lcha	jewl									0	0	0
+of Skill	100	1	1	80		81				1	50	oskill	Frozen Orb	6	10	regen		-11	-11							lcha	jewl									0	0	0
+of Skill	100	1	1	80		81				1	50	oskill	Cold Mastery	6	10	regen		-11	-11							lcha	jewl									0	0	0
+of Skill	100	1	1	80		81				1	50	oskill	Amplify Damage	6	10	regen		-11	-11							lcha	jewl									0	0	0
+of Skill	100	1	1	80		81				1	50	oskill	Teeth	6	10	regen		-11	-11							lcha	jewl									0	0	0
+of Skill	100	1	1	80		81				1	50	oskill	Bone Armor	6	10	regen		-11	-11							lcha	jewl									0	0	0
+of Skill	100	1	1	80		81				1	50	oskill	Skeleton Mastery	6	10	regen		-11	-11							lcha	jewl									0	0	0
+of Skill	100	1	1	80		81				1	50	oskill	Raise Skeleton	6	10	regen		-11	-11							lcha	jewl									0	0	0
+of Skill	100	1	1	80		81				1	50	oskill	Dim Vision	6	10	regen		-11	-11							lcha	jewl									0	0	0
+of Skill	100	1	1	80		81				1	50	oskill	Weaken	6	10	regen		-11	-11							lcha	jewl									0	0	0
+of Skill	100	1	1	80		81				1	50	oskill	Poison Dagger	6	10	regen		-11	-11							lcha	jewl									0	0	0
+of Skill	100	1	1	80		81				1	50	oskill	Corpse Explosion	6	10	regen		-11	-11							lcha	jewl									0	0	0
+of Skill	100	1	1	80		81				1	50	oskill	Clay Golem	6	10	regen		-11	-11							lcha	jewl									0	0	0
+of Skill	100	1	1	80		81				1	50	oskill	Iron Maiden	6	10	regen		-11	-11							lcha	jewl									0	0	0
+of Skill	100	1	1	80		81				1	50	oskill	Terror	6	10	regen		-11	-11							lcha	jewl									0	0	0
+of Skill	100	1	1	80		81				1	50	oskill	Bone Wall	6	10	regen		-11	-11							lcha	jewl									0	0	0
+of Skill	100	1	1	80		81				1	50	oskill	Golem Mastery	6	10	regen		-11	-11							lcha	jewl									0	0	0
+of Skill	100	1	1	80		81				1	50	oskill	Raise Skeletal Mage	6	10	regen		-11	-11							lcha	jewl									0	0	0
+of Skill	100	1	1	80		81				1	50	oskill	Confuse	6	10	regen		-11	-11							lcha	jewl									0	0	0
+of Skill	100	1	1	80		81				1	50	oskill	Life Tap	6	10	regen		-11	-11							lcha	jewl									0	0	0
+of Skill	100	1	1	80		81				1	50	oskill	Poison Explosion	6	10	regen		-11	-11							lcha	jewl									0	0	0
+of Skill	100	1	1	80		81				1	50	oskill	Bone Spear	6	10	regen		-11	-11							lcha	jewl									0	0	0
+of Skill	100	1	1	80		81				1	50	oskill	BloodGolem	6	10	regen		-11	-11							lcha	jewl									0	0	0
+of Skill	100	1	1	80		81				1	50	oskill	Attract	6	10	regen		-11	-11							lcha	jewl									0	0	0
+of Skill	100	1	1	80		81				1	50	oskill	Decrepify	6	10	regen		-11	-11							lcha	jewl									0	0	0
+of Skill	100	1	1	80		81				1	50	oskill	Bone Prison	6	10	regen		-11	-11							lcha	jewl									0	0	0
+of Skill	100	1	1	80		81				1	50	oskill	Summon Resist	6	10	regen		-11	-11							lcha	jewl									0	0	0
+of Skill	100	1	1	80		81				1	50	oskill	IronGolem	6	10	regen		-11	-11							lcha	jewl									0	0	0
+of Skill	100	1	1	80		81				1	50	oskill	Lower Resist	6	10	regen		-11	-11							lcha	jewl									0	0	0
+of Skill	100	1	1	80		81				1	50	oskill	Poison Nova	6	10	regen		-11	-11							lcha	jewl									0	0	0
+of Skill	100	1	1	80		81				1	50	oskill	Bone Spirit	6	10	regen		-11	-11							lcha	jewl									0	0	0
+of Skill	100	1	1	80		81				1	50	oskill	FireGolem	6	10	regen		-11	-11							lcha	jewl									0	0	0
+of Skill	100	1	1	80		81				1	50	oskill	Revive	6	10	regen		-11	-11							lcha	jewl									0	0	0
+of Skill	100	1	1	80		81				1	50	oskill	Sacrifice	6	10	regen		-11	-11							lcha	jewl									0	0	0
+of Skill	100	1	1	80		81				1	50	oskill	Smite	6	10	regen		-11	-11							lcha	jewl									0	0	0
+of Skill	100	1	1	80		81				1	50	oskill	Might	6	10	regen		-11	-11							lcha	jewl									0	0	0
+of Skill	100	1	1	80		81				1	50	oskill	Prayer	6	10	regen		-11	-11							lcha	jewl									0	0	0
+of Skill	100	1	1	80		81				1	50	oskill	Resist Fire	6	10	regen		-11	-11							lcha	jewl									0	0	0
+of Skill	100	1	1	80		81				1	50	oskill	Holy Bolt	6	10	regen		-11	-11							lcha	jewl									0	0	0
+of Skill	100	1	1	80		81				1	50	oskill	Holy Fire	6	10	regen		-11	-11							lcha	jewl									0	0	0
+of Skill	100	1	1	80		81				1	50	oskill	Thorns	6	10	regen		-11	-11							lcha	jewl									0	0	0
+of Skill	100	1	1	80		81				1	50	oskill	Defiance	6	10	regen		-11	-11							lcha	jewl									0	0	0
+of Skill	100	1	1	80		81				1	50	oskill	Resist Cold	6	10	regen		-11	-11							lcha	jewl									0	0	0
+of Skill	100	1	1	80		81				1	50	oskill	Zeal	6	10	regen		-11	-11							lcha	jewl									0	0	0
+of Skill	100	1	1	80		81				1	50	oskill	Charge	6	10	regen		-11	-11							lcha	jewl									0	0	0
+of Skill	100	1	1	80		81				1	50	oskill	Blessed Aim	6	10	regen		-11	-11							lcha	jewl									0	0	0
+of Skill	100	1	1	80		81				1	50	oskill	Cleansing	6	10	regen		-11	-11							lcha	jewl									0	0	0
+of Skill	100	1	1	80		81				1	50	oskill	Resist Lightning	6	10	regen		-11	-11							lcha	jewl									0	0	0
+of Skill	100	1	1	80		81				1	50	oskill	Vengeance	6	10	regen		-11	-11							lcha	jewl									0	0	0
+of Skill	100	1	1	80		81				1	50	oskill	Blessed Hammer	6	10	regen		-11	-11							lcha	jewl									0	0	0
+of Skill	100	1	1	80		81				1	50	oskill	Concentration	6	10	regen		-11	-11							lcha	jewl									0	0	0
+of Skill	100	1	1	80		81				1	50	oskill	Holy Freeze	6	10	regen		-11	-11							lcha	jewl									0	0	0
+of Skill	100	1	1	80		81				1	50	oskill	Vigor	6	10	regen		-11	-11							lcha	jewl									0	0	0
+of Skill	100	1	1	80		81				1	50	oskill	Conversion	6	10	regen		-11	-11							lcha	jewl									0	0	0
+of Skill	100	1	1	80		81				1	50	oskill	Holy Shield	6	10	regen		-11	-11							lcha	jewl									0	0	0
+of Skill	100	1	1	80		81				1	50	oskill	Holy Shock	6	10	regen		-11	-11							lcha	jewl									0	0	0
+of Skill	100	1	1	80		81				1	50	oskill	Sanctuary	6	10	regen		-11	-11							lcha	jewl									0	0	0
+of Skill	100	1	1	80		81				1	50	oskill	Meditation	6	10	regen		-11	-11							lcha	jewl									0	0	0
+of Skill	100	1	1	80		81				1	50	oskill	Fist of the Heavens	6	10	regen		-11	-11							lcha	jewl									0	0	0
+of Skill	100	1	1	80		81				1	50	oskill	Fanaticism	6	10	regen		-11	-11							lcha	jewl									0	0	0
+of Skill	100	1	1	80		81				1	50	oskill	Conviction	6	10	regen		-11	-11							lcha	jewl									0	0	0
+of Skill	100	1	1	80		81				1	50	oskill	Redemption	6	10	regen		-11	-11							lcha	jewl									0	0	0
+of Skill	100	1	1	80		81				1	50	oskill	Salvation	6	10	regen		-11	-11							lcha	jewl									0	0	0
+of Skill	100	1	1	80		81				1	50	oskill	Bash	6	10	regen		-11	-11							lcha	jewl									0	0	0
+of Skill	100	1	1	80		81				1	50	oskill	Sword Mastery	6	10	regen		-11	-11							lcha	jewl									0	0	0
+of Skill	100	1	1	80		81				1	50	oskill	Axe Mastery	6	10	regen		-11	-11							lcha	jewl									0	0	0
+of Skill	100	1	1	80		81				1	50	oskill	Mace Mastery	6	10	regen		-11	-11							lcha	jewl									0	0	0
+of Skill	100	1	1	80		81				1	50	oskill	Howl	6	10	regen		-11	-11							lcha	jewl									0	0	0
+of Skill	100	1	1	80		81				1	50	oskill	Find Potion	6	10	regen		-11	-11							lcha	jewl									0	0	0
+of Skill	100	1	1	80		81				1	50	oskill	Leap	6	10	regen		-11	-11							lcha	jewl									0	0	0
+of Skill	100	1	1	80		81				1	50	oskill	Double Swing	6	10	regen		-11	-11							lcha	jewl									0	0	0
+of Skill	100	1	1	80		81				1	50	oskill	Pole Arm Mastery	6	10	regen		-11	-11							lcha	jewl									0	0	0
+of Skill	100	1	1	80		81				1	50	oskill	Throwing Mastery	6	10	regen		-11	-11							lcha	jewl									0	0	0
+of Skill	100	1	1	80		81				1	50	oskill	Spear Mastery	6	10	regen		-11	-11							lcha	jewl									0	0	0
+of Skill	100	1	1	80		81				1	50	oskill	Taunt	6	10	regen		-11	-11							lcha	jewl									0	0	0
+of Skill	100	1	1	80		81				1	50	oskill	Shout	6	10	regen		-11	-11							lcha	jewl									0	0	0
+of Skill	100	1	1	80		81				1	50	oskill	Stun	6	10	regen		-11	-11							lcha	jewl									0	0	0
+of Skill	100	1	1	80		81				1	50	oskill	Double Throw	6	10	regen		-11	-11							lcha	jewl									0	0	0
+of Skill	100	1	1	80		81				1	50	oskill	Increased Stamina	6	10	regen		-11	-11							lcha	jewl									0	0	0
+of Skill	100	1	1	80		81				1	50	oskill	Find Item	6	10	regen		-11	-11							lcha	jewl									0	0	0
+of Skill	100	1	1	80		81				1	50	oskill	Leap Attack	6	10	regen		-11	-11							lcha	jewl									0	0	0
+of Skill	100	1	1	80		81				1	50	oskill	Concentrate	6	10	regen		-11	-11							lcha	jewl									0	0	0
+of Skill	100	1	1	80		81				1	50	oskill	Iron Skin	6	10	regen		-11	-11							lcha	jewl									0	0	0
+of Skill	100	1	1	80		81				1	50	oskill	Battle Cry	6	10	regen		-11	-11							lcha	jewl									0	0	0
+of Skill	100	1	1	80		81				1	50	oskill	Frenzy	6	10	regen		-11	-11							lcha	jewl									0	0	0
+of Skill	100	1	1	80		81				1	50	oskill	Increased Speed	6	10	regen		-11	-11							lcha	jewl									0	0	0
+of Skill	100	1	1	80		81				1	50	oskill	Battle Orders	6	10	regen		-11	-11							lcha	jewl									0	0	0
+of Skill	100	1	1	80		81				1	50	oskill	Grim Ward	6	10	regen		-11	-11							lcha	jewl									0	0	0
+of Skill	100	1	1	80		81				1	50	oskill	Whirlwind	6	10	regen		-11	-11							lcha	jewl									0	0	0
+of Skill	100	1	1	80		81				1	50	oskill	Berserk	6	10	regen		-11	-11							lcha	jewl									0	0	0
+of Skill	100	1	1	80		81				1	50	oskill	Natural Resistance	6	10	regen		-11	-11							lcha	jewl									0	0	0
+of Skill	100	1	1	80		81				1	50	oskill	War Cry	6	10	regen		-11	-11							lcha	jewl									0	0	0
+of Skill	100	1	1	80		81				1	50	oskill	Battle Command	6	10	regen		-11	-11							lcha	jewl									0	0	0
+of Skill	100	1	1	80		81				1	50	oskill	Raven	6	10	regen		-11	-11							lcha	jewl									0	0	0
+of Skill	100	1	1	80		81				1	50	oskill	Plague Poppy	6	10	regen		-11	-11							lcha	jewl									0	0	0
+of Skill	100	1	1	80		81				1	50	oskill	Wearwolf	6	10	regen		-11	-11							lcha	jewl									0	0	0
+of Skill	100	1	1	80		81				1	50	oskill	Shape Shifting	6	10	regen		-11	-11							lcha	jewl									0	0	0
+of Skill	100	1	1	80		81				1	50	oskill	Firestorm	6	10	regen		-11	-11							lcha	jewl									0	0	0
+of Skill	100	1	1	80		81				1	50	oskill	Oak Sage	6	10	regen		-11	-11							lcha	jewl									0	0	0
+of Skill	100	1	1	80		81				1	50	oskill	Summon Spirit Wolf	6	10	regen		-11	-11							lcha	jewl									0	0	0
+of Skill	100	1	1	80		81				1	50	oskill	Wearbear	6	10	regen		-11	-11							lcha	jewl									0	0	0
+of Skill	100	1	1	80		81				1	50	oskill	Molten Boulder	6	10	regen		-11	-11							lcha	jewl									0	0	0
+of Skill	100	1	1	80		81				1	50	oskill	Arctic Blast	6	10	regen		-11	-11							lcha	jewl									0	0	0
+of Skill	100	1	1	80		81				1	50	oskill	Cycle of Life	6	10	regen		-11	-11							lcha	jewl									0	0	0
+of Skill	100	1	1	80		81				1	50	oskill	Feral Rage	6	10	regen		-11	-11							lcha	jewl									0	0	0
+of Skill	100	1	1	80		81				1	50	oskill	Maul	6	10	regen		-11	-11							lcha	jewl									0	0	0
+of Skill	100	1	1	80		81				1	50	oskill	Eruption	6	10	regen		-11	-11							lcha	jewl									0	0	0
+of Skill	100	1	1	80		81				1	50	oskill	Cyclone Armor	6	10	regen		-11	-11							lcha	jewl									0	0	0
+of Skill	100	1	1	80		81				1	50	oskill	Heart of Wolverine	6	10	regen		-11	-11							lcha	jewl									0	0	0
+of Skill	100	1	1	80		81				1	50	oskill	Summon Fenris	6	10	regen		-11	-11							lcha	jewl									0	0	0
+of Skill	100	1	1	80		81				1	50	oskill	Rabies	6	10	regen		-11	-11							lcha	jewl									0	0	0
+of Skill	100	1	1	80		81				1	50	oskill	Fire Claws	6	10	regen		-11	-11							lcha	jewl									0	0	0
+of Skill	100	1	1	80		81				1	50	oskill	Twister	6	10	regen		-11	-11							lcha	jewl									0	0	0
+of Skill	100	1	1	80		81				1	50	oskill	Vines	6	10	regen		-11	-11							lcha	jewl									0	0	0
+of Skill	100	1	1	80		81				1	50	oskill	Hunger	6	10	regen		-11	-11							lcha	jewl									0	0	0
+of Skill	100	1	1	80		81				1	50	oskill	Shock Wave	6	10	regen		-11	-11							lcha	jewl									0	0	0
+of Skill	100	1	1	80		81				1	50	oskill	Volcano	6	10	regen		-11	-11							lcha	jewl									0	0	0
+of Skill	100	1	1	80		81				1	50	oskill	Tornado	6	10	regen		-11	-11							lcha	jewl									0	0	0
+of Skill	100	1	1	80		81				1	50	oskill	Spirit of Barbs	6	10	regen		-11	-11							lcha	jewl									0	0	0
+of Skill	100	1	1	80		81				1	50	oskill	Summon Grizzly	6	10	regen		-11	-11							lcha	jewl									0	0	0
+of Skill	100	1	1	80		81				1	50	oskill	Fury	6	10	regen		-11	-11							lcha	jewl									0	0	0
+of Skill	100	1	1	80		81				1	50	oskill	Armageddon	6	10	regen		-11	-11							lcha	jewl									0	0	0
+of Skill	100	1	1	80		81				1	50	oskill	Hurricane	6	10	regen		-11	-11							lcha	jewl									0	0	0
+of Skill	100	1	1	80		81				1	50	oskill	Fire Trauma	6	10	regen		-11	-11							lcha	jewl									0	0	0
+of Skill	100	1	1	80		81				1	50	oskill	Claw Mastery	6	10	regen		-11	-11							lcha	jewl									0	0	0
+of Skill	100	1	1	80		81				1	50	oskill	Psychic Hammer	6	10	regen		-11	-11							lcha	jewl									0	0	0
+of Skill	100	1	1	80		81				1	50	oskill	Tiger Strike	6	10	regen		-11	-11							lcha	jewl									0	0	0
+of Skill	100	1	1	80		81				1	50	oskill	Dragon Talon	6	10	regen		-11	-11							lcha	jewl									0	0	0
+of Skill	100	1	1	80		81				1	50	oskill	Shock Field	6	10	regen		-11	-11							lcha	jewl									0	0	0
+of Skill	100	1	1	80		81				1	50	oskill	Blade Sentinel	6	10	regen		-11	-11							lcha	jewl									0	0	0
+of Skill	100	1	1	80		81				1	50	oskill	Quickness	6	10	regen		-11	-11							lcha	jewl									0	0	0
+of Skill	100	1	1	80		81				1	50	oskill	Fists of Fire	6	10	regen		-11	-11							lcha	jewl									0	0	0
+of Skill	100	1	1	80		81				1	50	oskill	Dragon Claw	6	10	regen		-11	-11							lcha	jewl									0	0	0
+of Skill	100	1	1	80		81				1	50	oskill	Charged Bolt Sentry	6	10	regen		-11	-11							lcha	jewl									0	0	0
+of Skill	100	1	1	80		81				1	50	oskill	Wake of Fire Sentry	6	10	regen		-11	-11							lcha	jewl									0	0	0
+of Skill	100	1	1	80		81				1	50	oskill	Weapon Block	6	10	regen		-11	-11							lcha	jewl									0	0	0
+of Skill	100	1	1	80		81				1	50	oskill	Cloak of Shadows	6	10	regen		-11	-11							lcha	jewl									0	0	0
+of Skill	100	1	1	80		81				1	50	oskill	Cobra Strike	6	10	regen		-11	-11							lcha	jewl									0	0	0
+of Skill	100	1	1	80		81				1	50	oskill	Blade Fury	6	10	regen		-11	-11							lcha	jewl									0	0	0
+of Skill	100	1	1	80		81				1	50	oskill	Fade	6	10	regen		-11	-11							lcha	jewl									0	0	0
+of Skill	100	1	1	80		81				1	50	oskill	Shadow Warrior	6	10	regen		-11	-11							lcha	jewl									0	0	0
+of Skill	100	1	1	80		81				1	50	oskill	Claws of Thunder	6	10	regen		-11	-11							lcha	jewl									0	0	0
+of Skill	100	1	1	80		81				1	50	oskill	Dragon Tail	6	10	regen		-11	-11							lcha	jewl									0	0	0
+of Skill	100	1	1	80		81				1	50	oskill	Lightning Sentry	6	10	regen		-11	-11							lcha	jewl									0	0	0
+of Skill	100	1	1	80		81				1	50	oskill	Inferno Sentry	6	10	regen		-11	-11							lcha	jewl									0	0	0
+of Skill	100	1	1	80		81				1	50	oskill	Mind Blast	6	10	regen		-11	-11							lcha	jewl									0	0	0
+of Skill	100	1	1	80		81				1	50	oskill	Blades of Ice	6	10	regen		-11	-11							lcha	jewl									0	0	0
+of Skill	100	1	1	80		81				1	50	oskill	Dragon Flight	6	10	regen		-11	-11							lcha	jewl									0	0	0
+of Skill	100	1	1	80		81				1	50	oskill	Death Sentry	6	10	regen		-11	-11							lcha	jewl									0	0	0
+of Skill	100	1	1	80		81				1	50	oskill	Blade Shield	6	10	regen		-11	-11							lcha	jewl									0	0	0
+of Skill	100	1	1	80		81				1	50	oskill	Venom	6	10	regen		-11	-11							lcha	jewl									0	0	0
+of Skill	100	1	1	80		81				1	50	oskill	Shadow Master	6	10	regen		-11	-11							lcha	jewl									0	0	0
+of Skill	100	1	1	80		81				1	50	oskill	Royal Strike	6	10	regen		-11	-11							lcha	jewl									0	0	0
