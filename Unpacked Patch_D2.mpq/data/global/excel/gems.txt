@@ -35,7 +35,7 @@ Skull		2	sku	3	manasteal	0	2	2	lifesteal	0	3	3					regen	0	3	3	regen-mana	0	12	1
 Flawless Skull		2	skl	3	manasteal	0	3	3	lifesteal	0	3	3					regen	0	4	4	regen-mana	0	12	12		0	0	0	thorns	0	16	16		0	0	0		0	0	0
 Perfect Skull		3	skz	3	manasteal	0	3	3	lifesteal	0	4	4					regen	0	5	5	regen-mana	0	19	19		0	0	0	thorns	0	20	20		0	0	0		0	0	0
 Expansion																																								
-El Rune	El	18	r01	1	light		1	1	att		50	50					light		1	1	ac		15	15					light		1	1	ac		15	15				0
+El Rune	El	18	r01	1	regen		5	5	att		50	50					light		1	1	ac		15	15					light		1	1	ac		15	15				0
 Eld Rune	Eld	18	r02	1	att-undead		50	50	dmg-undead		75	75					stamdrain		15	15									block		7	7								0
 Tir Rune	Tir	18	r03	1	mana-kill		2	2									mana-kill		2	2									mana-kill		2	2								0
 Nef Rune	Nef	18	r04	1	knock		1	1									ac-miss		30	30									ac-miss		30	30								0
@@ -48,7 +48,7 @@ Thul Rune	Thul	18	r10	1	dmg-cold	75	3	14									res-cold		30	30									res-col
 Amn Rune	Amn	18	r11	1	lifesteal		7	7									thorns		14	14									thorns		14	14								0
 Sol Rune	Sol	18	r12	1	dmg-min		9	9									red-dmg		7	7									red-dmg		7	7								0
 Shael Rune	Shael	18	r13	1	swing2		20	20									balance2		20	20									block2		20	20								0
-Dol Rune	Dol	18	r14	1	howl		32	32									regen		7	7									regen		7	7								0
+Dol Rune	Dol	18	r14	1	howl		32	32									regen		10	10									regen		10	10								0
 Hel Rune	Hel	18	r15	1	ease		-20	-20									ease		-15	-15									ease		-15	-15								0
 Io Rune	Io	18	r16	1	vit		10	10									vit		10	10									vit		10	10								0
 Lum Rune	Lum	18	r17	1	enr		10	10									enr		10	10									enr		10	10								0
