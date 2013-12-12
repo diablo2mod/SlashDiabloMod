@@ -18,7 +18,7 @@ Boots	boot	armo		1	1	feet	feet			0	0	0	0		1	0	0	0	0	2	3	4	0	3		1		0							armo	0
 Gloves	glov	armo		1	1	glov	glov			0	0	0	0		1	0	0	0	0	2	3	4	0	3		1		0							armo	0
 Not Used				0	0					0	0	0	0			0	0	0	0	0	0	0	0	3		0		0								0
 Book	book	misc		0	0					0	0	0	0			1	0	0	0	0	0	0	0	3		0		0							misc	0
-Belt	belt	armo		1	1	belt	belt			0	0	0	0		1	0	0	0	0	1	2	3	0	3		1		0							armo	0
+Belt	belt	armo		1	1	belt	belt			0	0	0	0		1	0	0	0	0	2	2	2	0	3		1		0							armo	0
 Gem	gem	sock		0	0					0	0	0	0			1	0	1	0	0	0	0	0	3		0		0							misc	0
 Torch	torc	misc		0	1					0	0	0	0			1	0	0	0	0	0	0	0	3		0		0							misc	0
 Scroll	scro	misc		0	0					0	0	0	0			1	0	0	1	0	0	0	0	3		0		0							misc	0

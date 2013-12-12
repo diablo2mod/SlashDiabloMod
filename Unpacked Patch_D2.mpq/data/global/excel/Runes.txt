@@ -56,7 +56,7 @@ Runeword30	Duress	1		tors									ShaelUmThul	r13	r22	r10				dmg-cold	50	37	133	
 Runeword138	Storm																																															0
 Runeword140	Tempest																																															0
 Runeword141	Temptation																																															0
-Runeword142	Terror																																															0
+Runeword142	Terror	1		belt									DolLum	r14	r17					allskills		1	1	all-stats		5	5																					0
 Runeword90	Nightfall																																															0
 Runeword91	Oath	1	1	swor	axe	mace							ShaelPulMalLum	r13	r21	r23	r17			dmg%		210	340	swing1		30	30	hit-skill	Bone Spirit	30	20	charged	IronGolem	14	17	charged	Heart of Wolverine	20	16	abs-mag		10	15	indestruct		1	1	0
 Runeword92	Obedience	1	1	pole									HelKoThulEthFal	r15	r18	r10	r05	r19		dmg%		370	370	crush		40	40	kill-skill	enchant	30	21	pierce-fire		25	25	ac		200	300	balance3		40	40	res-all		20	30	0
