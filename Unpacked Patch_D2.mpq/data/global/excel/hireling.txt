@@ -117,5 +117,5 @@ Barbarian	1hs-Nightmare	100	26	561	5	2	58	515	MercX101	MercX167	18000	130	745	27
 Barbarian	1hs-Nightmare	100	26	561	5	2	80	515	MercX101	MercX167	18000	130	1339	45	1202	50	197	15	124	10	1445	45	4	59	63	8	145	4	swor			50	Bash	5	75	0	20	0	Stun	5	75	0	16	0																									0	0	0	0
 Barbarian	1hs-Nightmare	100	27	561	5	2	58	515	MercX101	MercX167	18000	130	745	27	432	35	155	15	96	10	675	35	4	37	41	8	106	7	swor			50	Bash	5	50	0	13	10	Stun	5	50	0	10	8																									0	0	0	0
 Barbarian	1hs-Nightmare	100	27	561	5	2	80	515	MercX101	MercX167	18000	130	1339	45	1202	50	197	15	124	10	1445	45	4	59	63	8	145	4	swor			50	Bash	5	75	0	20	0	Stun	5	75	0	16	0																									0	0	0	0
-Barbarian	1hs-Hell	100	28	561	5	3	80	515	MercX101	MercX167	32000	140	1205	45	1082	50	194	15	119	10	1301	45	6	57	61	8	142	4	swor			50	Bash	5	70	0	19	0	Stun	5	70	0	15	0																									0	0	0	0
-Barbarian	1hs-Hell	100	29	561	5	3	80	515	MercX101	MercX167	32000	140	1205	45	1082	50	194	15	119	10	1301	45	6	57	61	8	142	4	swor			50	Bash	5	70	0	19	0	Stun	5	70	0	15	0																									0	0	0	0
+Barbarian	1hs-Hell	100	28	561	5	3	80	515	MercX101	MercX167	32000	140	1205	45	1082	50	194	15	119	10	1301	45	6	57	61	8	142	4	swor			10	Conversion	5	70	0	19	0	Stun	5	70	0	15	0																									0	0	0	0
+Barbarian	1hs-Hell	100	29	561	5	3	80	515	MercX101	MercX167	32000	140	1205	45	1082	50	194	15	119	10	1301	45	6	57	61	8	142	4	swor			10	Conversion	5	70	0	19	0	Stun	5	70	0	15	0																									0	0	0	0
